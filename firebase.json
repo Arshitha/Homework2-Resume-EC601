@@ -8,12 +8,6 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   },
   "storage": {
@@ -21,6 +15,6 @@
   },
   "firestore": {
     "rules": "firestore.rules",
-    "indexes": "y"
+    "indexes": "firestore.indexes.json"
   }
 }
