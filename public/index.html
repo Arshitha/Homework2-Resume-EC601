@@ -270,8 +270,9 @@
     
     </div>
 
-    <script src="/__/firebase/init.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
     <script>
+      
       // Initialize Firebase
       var config = {
         apiKey: "AIzaSyDgQm0Wu95v6j4btdITCIEhLkkQprr22_k",
@@ -284,7 +285,10 @@
       firebase.initializeApp(config);
     </script>
     <script>
+      
+      
       var provider = new firebase.auth.GoogleAuthProvider();
+      function signIn() {
       firebase.auth().signInWithPopup(provider).then(function(result) {
       // This gives you a Google Access Token. You can use it to access the Google API.
       var token = result.credential.accessToken;
@@ -301,9 +305,9 @@
       var credential = error.credential;
       // ...
       });
-    
+    }
     </script>
-    <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+    <!--script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script-->
     
     <script src="/__/firebase/4.6.2/firebase-app.js"></script>
     <script src="/__/firebase/4.6.2/firebase-auth.js"></script>
@@ -313,13 +317,13 @@
     <!-- Leave out Storage -->
     <!-- <script src="/__/firebase/4.6.2/firebase-storage.js"></script> -->
 
-    <script src="https://cdn.firebase.com/libs/firebaseui/2.4.1/firebaseui.js"></script>
+    <!--<script src="https://cdn.firebase.com/libs/firebaseui/2.4.1/firebaseui.js"></script>
     <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.4.1/firebaseui.css" />
 
     <script src="https://www.gstatic.com/firebasejs/ui/2.4.1/firebase-ui-auth__en.js"></script>
     <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/2.4.1/firebase-ui-auth.css" />
     
-    <!-- Bootstrap core JavaScript -->
+     Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
