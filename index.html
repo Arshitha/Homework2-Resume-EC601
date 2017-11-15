@@ -20,8 +20,13 @@
     <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
     <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
+    
+
     <!-- Custom styles for this template -->
     <link href="css/resume.css" rel="stylesheet">
+
+    <script src="https://cdn.firebase.com/libs/firebaseui/2.4.1/firebaseui.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.4.1/firebaseui.css" />
 
   </head>
 
@@ -251,6 +256,55 @@
     
     </div>
 
+    <script src="/__/firebase/init.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyDgQm0Wu95v6j4btdITCIEhLkkQprr22_k",
+        authDomain: "homework2-d7436.firebaseapp.com",
+        databaseURL: "https://homework2-d7436.firebaseio.com",
+        projectId: "homework2-d7436",
+        storageBucket: "homework2-d7436.appspot.com",
+        messagingSenderId: "236621934101"
+      };
+      firebase.initializeApp(config);
+    </script>
+    <script>
+      var provider = new firebase.auth.GoogleAuthProvider();
+      firebase.auth().signInWithPopup(provider).then(function(result) {
+      // This gives you a Google Access Token. You can use it to access the Google API.
+      var token = result.credential.accessToken;
+      // The signed-in user info.
+      var user = result.user;
+      // ...
+      }).catch(function(error) {
+      // Handle Errors here.
+      var errorCode = error.code;
+      var errorMessage = error.message;
+      // The email of the user's account used.
+      var email = error.email;
+      // The firebase.auth.AuthCredential type that was used.
+      var credential = error.credential;
+      // ...
+      });
+    
+    </script>
+    <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+    
+    <script src="/__/firebase/4.6.2/firebase-app.js"></script>
+    <script src="/__/firebase/4.6.2/firebase-auth.js"></script>
+    <script src="/__/firebase/4.6.2/firebase-database.js"></script>
+    <script src="/__/firebase/4.6.2/firebase-messaging.js"></script>
+
+    <!-- Leave out Storage -->
+    <!-- <script src="/__/firebase/4.6.2/firebase-storage.js"></script> -->
+
+    <script src="https://cdn.firebase.com/libs/firebaseui/2.4.1/firebaseui.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/2.4.1/firebaseui.css" />
+
+    <script src="https://www.gstatic.com/firebasejs/ui/2.4.1/firebase-ui-auth__en.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/2.4.1/firebase-ui-auth.css" />
+    
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
