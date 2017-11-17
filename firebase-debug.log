@@ -1,36 +1,35 @@
-[debug] [2017-11-15T21:16:09.880Z] ----------------------------------------------------------------------
-[debug] [2017-11-15T21:16:09.882Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
-[debug] [2017-11-15T21:16:09.882Z] CLI Version:   3.15.0
-[debug] [2017-11-15T21:16:09.882Z] Platform:      darwin
-[debug] [2017-11-15T21:16:09.882Z] Node Version:  v8.9.1
-[debug] [2017-11-15T21:16:09.883Z] Time:          Wed Nov 15 2017 16:16:09 GMT-0500 (EST)
-[debug] [2017-11-15T21:16:09.883Z] ----------------------------------------------------------------------
+[debug] [2017-11-17T01:19:13.690Z] ----------------------------------------------------------------------
+[debug] [2017-11-17T01:19:13.692Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-17T01:19:13.692Z] CLI Version:   3.15.0
+[debug] [2017-11-17T01:19:13.692Z] Platform:      darwin
+[debug] [2017-11-17T01:19:13.692Z] Node Version:  v8.9.1
+[debug] [2017-11-17T01:19:13.693Z] Time:          Thu Nov 16 2017 20:19:13 GMT-0500 (EST)
+[debug] [2017-11-17T01:19:13.693Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2017-11-15T21:16:09.894Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2017-11-15T21:16:09.894Z] > authorizing via signed-in user
-[debug] [2017-11-15T21:16:09.895Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
-[debug] [2017-11-15T21:16:09.896Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/Hqwe8glH4y2nEIVrbc2vvzToldGB-j_hP_dfSUYT86I',
-  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
-  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
-  grant_type: 'refresh_token',
-  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
- Wed Nov 15 2017 16:16:09 GMT-0500 (EST)
-[debug] [2017-11-15T21:16:10.099Z] <<< HTTP RESPONSE 200
-[debug] [2017-11-15T21:16:10.119Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/homework2-d7436  
- Wed Nov 15 2017 16:16:10 GMT-0500 (EST)
-[debug] [2017-11-15T21:16:10.508Z] <<< HTTP RESPONSE 200
-[debug] [2017-11-15T21:16:10.510Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/homework2-d7436/tokens  
- Wed Nov 15 2017 16:16:10 GMT-0500 (EST)
-[debug] [2017-11-15T21:16:11.013Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-17T01:19:13.704Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-17T01:19:13.704Z] > authorizing via signed-in user
+[debug] [2017-11-17T01:19:13.706Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/homework2-d7436  
+ Thu Nov 16 2017 20:19:13 GMT-0500 (EST)
+[debug] [2017-11-17T01:19:14.041Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-17T01:19:14.042Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/homework2-d7436/tokens  
+ Thu Nov 16 2017 20:19:14 GMT-0500 (EST)
+[debug] [2017-11-17T01:19:14.517Z] <<< HTTP RESPONSE 200
 [info] 
 [info] === Serving from '/Users/arshitha/Desktop/Sem 1/EC601/Homework2-Resume-EC601'...
 [info] 
-[debug] [2017-11-15T21:16:11.017Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/homework2-d7436  
- Wed Nov 15 2017 16:16:11 GMT-0500 (EST)
-[debug] [2017-11-15T21:16:11.574Z] <<< HTTP RESPONSE 200
-[debug] [2017-11-15T21:16:11.574Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/236621934101/clients/_:getWebAppConfig  
- Wed Nov 15 2017 16:16:11 GMT-0500 (EST)
-[debug] [2017-11-15T21:16:11.899Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-17T01:19:14.521Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/homework2-d7436  
+ Thu Nov 16 2017 20:19:14 GMT-0500 (EST)
+[debug] [2017-11-17T01:19:14.765Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-17T01:19:14.765Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/236621934101/clients/_:getWebAppConfig  
+ Thu Nov 16 2017 20:19:14 GMT-0500 (EST)
+[debug] [2017-11-17T01:19:15.143Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-17T01:19:15.161Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/homework2-d7436  
+ Thu Nov 16 2017 20:19:15 GMT-0500 (EST)
+[debug] [2017-11-17T01:19:15.326Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-17T01:19:15.327Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/236621934101/clients/_:getWebAppConfig  
+ Thu Nov 16 2017 20:19:15 GMT-0500 (EST)
+[debug] [2017-11-17T01:19:15.666Z] <<< HTTP RESPONSE 200
 [info] i  hosting: Serving hosting files from: public
-[info] ✔  hosting: Local server: http://localhost:5000
+[info] ✔  hosting: Local server: http://localhost:5004
 
