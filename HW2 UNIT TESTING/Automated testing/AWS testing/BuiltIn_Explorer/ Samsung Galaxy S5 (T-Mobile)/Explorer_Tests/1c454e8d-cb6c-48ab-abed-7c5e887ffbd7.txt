@@ -1,0 +1,55 @@
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amazon.mas.avs.appexplorer.core.ExplorationTestCase:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testExplore
+INSTRUMENTATION_STATUS: class=com.amazon.mas.avs.appexplorer.core.ExplorationTestCase
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: event=AppExplorer version: 9, Package: com.example.snoopy, Launchable: com.example.snoopy.MainActivity, Label: ZZApplicationLabel
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Activity com.example.snoopy.MainActivity launched, COMMENT:[null]
+INSTRUMENTATION_STATUS_CODE: 0
+Thread-1(HTTPLog):isShipBuild true
+Thread-1(HTTPLog):SmartBonding Enabling is true, SHIP_BUILD is true, log to file is false, DBG is false
+INSTRUMENTATION_STATUS: event=Entering text 123 in resourceId com.example.snoopy:id/editTextEmail, TOUCH:[552,355]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Entering text 123 in resourceId com.example.snoopy:id/editTextPassword, TOUCH:[552,580]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Tapping TextView Already Registered? Login Now with resourceId com.example.snoopy:id/textViewSignin, TOUCH:[552,955]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Entering text 123 in resourceId com.example.snoopy:id/editTextEmail, TOUCH:[552,435]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Entering text 123 in resourceId com.example.snoopy:id/editTextPassword, TOUCH:[552,660]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Tapping TextView CREATE ACCOUNT with resourceId com.example.snoopy:id/textViewSignup, TOUCH:[552,1035]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Entering text 123 in resourceId com.example.snoopy:id/editTextEmail, TOUCH:[552,355]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Entering text 123 in resourceId com.example.snoopy:id/editTextPassword, TOUCH:[552,580]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Tapping TextView Already Registered? Login Now with resourceId com.example.snoopy:id/textViewSignin, TOUCH:[552,955]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Tapping Button SIGN IN with resourceId com.example.snoopy:id/buttonSignin, TOUCH:[552,890]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Pressing back, COMMENT:[null]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: event=Tapping Button Register User with resourceId com.example.snoopy:id/buttonRegister, TOUCH:[552,810]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: exploration-summary=ExplorationSummary [totalTimeInMillis=92264, unvisitedComponentCount=0, visitedComponentCount=4, ignoredComponentCount=0, visitedActivities=[.LoginActivity, .MainActivity], visitedScreenCount=2, unsuccessfulWatcherCount=0, successfulWatcherCount=8, eventCount=13, sessionCount=1, isLaunchSuccessful=true, isCrashDetected=false, isExitDetected=false, isExitAfterSystemPopup=false, isExitAfterApplicationPopup=false, isWebViewApp=false, isNonNativeViewApp=false, isOpenGLApp=false, observation=PASSED_BY_AVS, rootCause=NO_FAILURE_DETECTED, isDropboxLogCollected=false, isLaunchScreenshotTaken=true, operationsStack=[[operation=launch,  status=passed, isFlaggedPopup=false, message=[], isCrashDetected=false, isExitDetected=false, isApplicationPopupDisplayed=false, isSystemPopupDisplayed=false, isExitAfterPopup=false, isBlankScreen=false, isAnotherAppStartedAfterExit=false, isAnotherAppStarted=false, isApplicationInBackground=false], [operation=explore,  status=passed, isFlaggedPopup=false, message=[], isCrashDetected=false, isExitDetected=false, isApplicationPopupDisplayed=false, isSystemPopupDisplayed=false, isExitAfterPopup=false, isBlankScreen=false, isAnotherAppStartedAfterExit=false, isAnotherAppStarted=false, isApplicationInBackground=false]], imageCount=0, deviceFingerprint=samsung/kltetmo/kltetmo:4.4.2/KOT49H/G900TUVU1CNK2:user/release-keys, isWifiConnected=true, pid=15318, isEntitlementPopup=false, securityThreat=NO_ISSUE, securityStatus=SecurityStatus [totalConnection=0, socketStats=[], totalOpenedPorts=0, totalOpenedSockets=0]]
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testExplore
+INSTRUMENTATION_STATUS: class=com.amazon.mas.avs.appexplorer.core.ExplorationTestCase
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 99.743
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
