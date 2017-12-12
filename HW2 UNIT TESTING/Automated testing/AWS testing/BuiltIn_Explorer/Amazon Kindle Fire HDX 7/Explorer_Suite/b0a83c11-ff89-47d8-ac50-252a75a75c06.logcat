@@ -1,0 +1,1094 @@
+--------- beginning of /dev/log/main
+12-12 12:16:27.158  7906  7906 D AndroidRuntime: 
+12-12 12:16:27.158  7906  7906 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:16:27.168  7906  7906 D AndroidRuntime: CheckJNI is OFF
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x41514000 with sizes 17456 9068 22916 7820
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x41523000 with sizes 3488 1968 3700 1000
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x588dc000 with sizes 1212 1216 2416 256
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x588e9000 with sizes 132 296 392 8
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x58a3f000 with sizes 8748 4364 7932 3996
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x58a49000 with sizes 22496 5184 8544 1804
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x595bb000 with sizes 56984 26392 103956 34404
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x597d6000 with sizes 9456 6512 11508 3328
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5994a000 with sizes 20776 3532 10520 3092
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x59980000 with sizes 1660 956 2388 56
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x599b3000 with sizes 1312 504 800 184
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x599b4000 with sizes 1704 1896 3404 216
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.168  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x59df8000 with sizes 41708 10740 31748 2024
+12-12 12:16:27.168  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x599b9000 with sizes 13340 3572 6468 560
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a03d000 with sizes 3752 5072 11996 2620
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x599c1000 with sizes 864 112 12 8
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x599c3000 with sizes 144 424 416 84
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a056000 with sizes 8 84 20 52
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a057000 with sizes 2300 1284 1900 732
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a05a000 with sizes 3104 1556 4388 1468
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a05e000 with sizes 2512 2028 2656 348
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a061000 with sizes 244 632 480 120
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a064000 with sizes 44 16 4 16
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a3b5000 with sizes 17456 5180 15016 5508
+12-12 12:16:27.178  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.178  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a14c000 with sizes 17648 1196 1848 1084
+12-12 12:16:27.188  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.188  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a5e5000 with sizes 5448 6248 17376 5152
+12-12 12:16:27.188  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.188  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a152000 with sizes 92 272 204 12
+12-12 12:16:27.188  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.188  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a5f6000 with sizes 368 52 8 52
+12-12 12:16:27.188  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.188  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a613000 with sizes 848 488 512 692
+12-12 12:16:27.188  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.188  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a616000 with sizes 20 36 20 8
+12-12 12:16:27.188  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.188  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a61f000 with sizes 360 232 320 68
+12-12 12:16:27.188  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.188  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5a62f000 with sizes 864 272 320 208
+12-12 12:16:27.198  7906  7906 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:16:27.198  7906  7906 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:16:27.198  7906  7906 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:16:27.198  7906  7906 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:16:27.198  7906  7906 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:16:27.218  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.218  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5b8ba000 with sizes 1044 1456 1664 116
+12-12 12:16:27.218  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.218  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5b8e7000 with sizes 936 844 1188 212
+12-12 12:16:27.238  7906  7906 D dalvikvm: DexOpt: --- BEGIN 'explorerflxZI8.jar' (bootstrap=0) ---
+12-12 12:16:27.258  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.258  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x40f4b000 with sizes 17456 9068 22916 7820
+12-12 12:16:27.258  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.258  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x412e9000 with sizes 3488 1968 3700 1000
+12-12 12:16:27.258  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.258  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x41323000 with sizes 1212 1216 2416 256
+12-12 12:16:27.258  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.258  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x41330000 with sizes 132 296 392 8
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x41331000 with sizes 8748 4364 7932 3996
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x43465000 with sizes 22496 5184 8544 1804
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x43fda000 with sizes 56984 26392 103956 34404
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x441f5000 with sizes 9456 6512 11508 3328
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44369000 with sizes 20776 3532 10520 3092
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x41340000 with sizes 1660 956 2388 56
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x41345000 with sizes 1312 504 800 184
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x43470000 with sizes 1704 1896 3404 216
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44801000 with sizes 41708 10740 31748 2024
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x4496f000 with sizes 13340 3572 6468 560
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a4c000 with sizes 3752 5072 11996 2620
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a5d000 with sizes 864 112 12 8
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a66000 with sizes 144 424 416 84
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a6a000 with sizes 8 84 20 52
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a6b000 with sizes 2300 1284 1900 732
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a6e000 with sizes 3104 1556 4388 1468
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a72000 with sizes 2512 2028 2656 348
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a75000 with sizes 244 632 480 120
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.268  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44a78000 with sizes 44 16 4 16
+12-12 12:16:27.268  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44dc9000 with sizes 17456 5180 15016 5508
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44b60000 with sizes 17648 1196 1848 1084
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44ff9000 with sizes 5448 6248 17376 5152
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x44b66000 with sizes 92 272 204 12
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x4500a000 with sizes 368 52 8 52
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x45027000 with sizes 848 488 512 692
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x4502a000 with sizes 20 36 20 8
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x45033000 with sizes 360 232 320 68
+12-12 12:16:27.278  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.278  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x45043000 with sizes 864 272 320 208
+12-12 12:16:27.288  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x450c5000 with sizes 19072 2644 19520 10284
+12-12 12:16:27.408  7918  7918 D dalvikvm: DexOpt: load 14ms, verify+opt 109ms, 889324 bytes
+12-12 12:16:27.408  7918  7918 D dalvikvm: DexOpt: CompactRef Generated 565 fields for 2571 entries
+12-12 12:16:27.418  7918  7918 D dalvikvm: DexOpt: CompactRef Generated 2405 methods for 4880 entries
+12-12 12:16:27.418  7918  7918 D dalvikvm: DexOpt: CompactRef Generated 1549 strings for 4768 entries
+12-12 12:16:27.418  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x450c5000 with sizes 19072 2644 19520 10284
+12-12 12:16:27.468  7906  7906 D dalvikvm: DexOpt: --- END 'explorerflxZI8.jar' (success) ---
+12-12 12:16:27.468  7906  7906 D dalvikvm: DEX prep '/storage/emulated/legacy/explorerflxZI8.jar': unzip in 8ms, rewrite 224ms
+12-12 12:16:27.468  7906  7906 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:27.468  7906  7906 D dalvikvm: dalvik-aux-structure mapped at 0x5b8f1000 with sizes 6196 2644 9620 2260
+12-12 12:16:27.468  7906  7906 I dalvikvm: Zip is good, but no classes.dex inside, and no valid .odex file in the same directory
+12-12 12:16:27.508  7906  7906 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:16:27.648  7906  7906 D AndroidRuntime: Calling main entry com.android.commands.uiautomator.Launcher
+12-12 12:16:27.718  7906  7906 D MAS.AVS : Initializing R9ActivityThread
+--------- beginning of /dev/log/system
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_GROUP_LIST="AmazonPackageManager:AmazonWifiManager:LibraryWhitelister:AmazonAccountManager:CRLSetManager:AmazonConnectivityManager:AmazonDownloadManager:AmazonInputManager:AmazonLibrary:AmazonWindowManager:Chronos:ClassReplacer:ContentSupportManager:DeviceInfo:FileSharing:IDME:Marketplace:SearchManager:SoftkeyBar:TimeService:WakelockDebug:FileLinker:ForwardUtil:IntentSpreaderService:AmazonActivityManager:SmartSuspend:AmazonKeyguardManager:SarService". processing these as possible system services.
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="AmazonPackageManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.service.AmazonWifiManager"  namespace ="AmazonWifiManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="LibraryWhitelister"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="amazon.accounts.AmazonAccountManager"  namespace ="AmazonAccountManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.crl.CRLsetManager"  namespace ="CRLSetManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.connectivity.AmazonConnectivityManager"  namespace ="AmazonConnectivityManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.app.AmazonDownloadManager"  namespace ="AmazonDownloadManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.hardware.input.AmazonInputManager"  namespace ="AmazonInputManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="AmazonLibrary"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.internal.view.AmazonWindowManagerImpl"  namespace ="AmazonWindowManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.chronos.ChronosManager"  namespace ="Chronos"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="ClassReplacer"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.app.ContentSupportManager"  namespace ="ContentSupportManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="DeviceInfo"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="FileSharing"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="IDME"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.marketplace.MarketplaceServiceManager"  namespace ="Marketplace"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="SearchManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="com.amazon.android.softkey.SoftkeyBarManager"  namespace ="SoftkeyBar"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="TimeService"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="WakelockDebug"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="FileLinker"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="ForwardUtil"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="IntentSpreaderService"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="AmazonActivityManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="SmartSuspend"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="amazon.app.AmazonKeyguardManager"  namespace ="AmazonKeyguardManager"
+12-12 12:16:27.778  7906  7930 D VendorConfHelper: Properties $VENDOR_SERVICE_MANAGER="null"  namespace ="SarService"
+12-12 12:16:27.788  7906  7930 E ContextImpl: Failed to register system service "com.amazon.android.crl.CRLsetManager". The class was not found for the provided classloader.
+12-12 12:16:27.818  7906  7930 D ProfileManager: Create ProfileManager instance
+12-12 12:16:27.818  7906  7930 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-12 12:16:27.818  7906  7930 I Dispatch: No dispatch information file found
+12-12 12:16:28.728  7906  7906 D dalvikvm: Trying to load lib /storage/emulated/legacy/libopencv_java.so 0x41612668
+12-12 12:16:28.788  7906  7906 D dalvikvm: Added shared lib /storage/emulated/legacy/libopencv_java.so 0x41612668
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   926   975 I PowerManagerService:  input brightness = 247 normalized brighness =96.86274509803921 transformed brightness =242.30596240343894 final brightness =230.42109207348744
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   926   975 I PowerManagerService:  input brightness = 247 normalized brighness =96.86274509803921 transformed brightness =242.30596240343894 final brightness =230.42109207348744
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   926   975 I PowerManagerService:  input brightness = 247 normalized brighness =96.86274509803921 transformed brightness =242.30596240343894 final brightness =230.42109207348744
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.878   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.878   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   269   269 D audio_hw_extn: audio_extn_get_parameters: returns 
+12-12 12:16:28.888   269   269 I str_params: key: 'headset_bypass_mode' value: '***'
+12-12 12:16:28.888   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:28.888   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:28.898   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:28.958   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:28.968   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:28.978   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:29.088  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@281d6; boundsInParent: Rect(0, 0 - 260, 170); boundsInScreen: Rect(1304, 51 - 1564, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Audiobooks; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_audiobooks_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:29.088  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28597; boundsInParent: Rect(0, 0 - 132, 170); boundsInScreen: Rect(1564, 51 - 1696, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Web; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_web_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:29.088  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28958; boundsInParent: Rect(0, 0 - 176, 170); boundsInScreen: Rect(1696, 51 - 1872, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Photos; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_photos_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:29.088  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28d19; boundsInParent: Rect(0, 0 - 138, 170); boundsInScreen: Rect(1872, 51 - 2010, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Docs; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_docs_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:29.088  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@2588b; boundsInParent: Rect(0, 0 - 98, 129); boundsInScreen: Rect(0, 51 - 98, 180); packageName: com.amazon.kindle.otter; className: android.widget.ImageView; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:16:29.088  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@99d4; boundsInParent: Rect(0, 0 - 1200, 1389); boundsInScreen: Rect(0, -1209 - 1200, 179); packageName: com.amazon.kindle.otter; className: android.widget.FrameLayout; text: null; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/carousel_page; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:16:29.128  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 72ms
+12-12 12:16:29.278  7906  7906 D TextLayoutCache: Using debug level = 0 - Debug Enabled = 0
+12-12 12:16:29.558   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:29.728  7974  7974 D AndroidRuntime: 
+12-12 12:16:29.728  7974  7974 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:16:29.738  7974  7974 D AndroidRuntime: CheckJNI is OFF
+12-12 12:16:29.738  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.738  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x588fd000 with sizes 17456 9068 22916 7820
+12-12 12:16:29.738  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.738  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5890b000 with sizes 3488 1968 3700 1000
+12-12 12:16:29.748  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.748  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5890f000 with sizes 1212 1216 2416 256
+12-12 12:16:29.748  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.748  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x58916000 with sizes 132 296 392 8
+12-12 12:16:29.748  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.748  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x58ad5000 with sizes 8748 4364 7932 3996
+12-12 12:16:29.748  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.748  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x58adc000 with sizes 22496 5184 8544 1804
+12-12 12:16:29.748  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.748  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x59651000 with sizes 56984 26392 103956 34404
+12-12 12:16:29.748  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.748  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5986c000 with sizes 9456 6512 11508 3328
+12-12 12:16:29.748  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.748  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x599e0000 with sizes 20776 3532 10520 3092
+12-12 12:16:29.758  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.758  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x58aeb000 with sizes 1660 956 2388 56
+12-12 12:16:29.758  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.758  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x59a48000 with sizes 1312 504 800 184
+12-12 12:16:29.758  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.758  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x59a49000 with sizes 1704 1896 3404 216
+12-12 12:16:29.758  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.768  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x59e8d000 with sizes 41708 10740 31748 2024
+12-12 12:16:29.768  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.768  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x59a4e000 with sizes 13340 3572 6468 560
+12-12 12:16:29.768  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.768  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a0d2000 with sizes 3752 5072 11996 2620
+12-12 12:16:29.768  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.768  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x59a56000 with sizes 864 112 12 8
+12-12 12:16:29.768  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.768  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x59a58000 with sizes 144 424 416 84
+12-12 12:16:29.768  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.768  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a0eb000 with sizes 8 84 20 52
+12-12 12:16:29.768  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.768  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a0ec000 with sizes 2300 1284 1900 732
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a0ef000 with sizes 3104 1556 4388 1468
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a0f3000 with sizes 2512 2028 2656 348
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a0f6000 with sizes 244 632 480 120
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a0f9000 with sizes 44 16 4 16
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a44a000 with sizes 17456 5180 15016 5508
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a1e1000 with sizes 17648 1196 1848 1084
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a67a000 with sizes 5448 6248 17376 5152
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.778  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a1e7000 with sizes 92 272 204 12
+12-12 12:16:29.778  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.788  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a68b000 with sizes 368 52 8 52
+12-12 12:16:29.788  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.788  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a6a8000 with sizes 848 488 512 692
+12-12 12:16:29.788  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.788  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a6ab000 with sizes 20 36 20 8
+12-12 12:16:29.788  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.788  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a6b4000 with sizes 360 232 320 68
+12-12 12:16:29.788  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.788  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5a6c4000 with sizes 864 272 320 208
+12-12 12:16:29.798  7974  7974 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:16:29.798  7974  7974 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:16:29.798  7974  7974 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:16:29.798  7974  7974 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:16:29.798  7974  7974 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:16:29.808  7974  7974 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:29.808  7974  7974 D dalvikvm: dalvik-aux-structure mapped at 0x5b929000 with sizes 936 360 416 20
+12-12 12:16:29.838  7974  7974 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:16:29.958  7974  7974 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+12-12 12:16:30.008  7974  7974 D AndroidRuntime: Shutting down VM
+12-12 12:16:30.358  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@281d6; boundsInParent: Rect(0, 0 - 260, 170); boundsInScreen: Rect(1304, 51 - 1564, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Audiobooks; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_audiobooks_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:30.358  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28597; boundsInParent: Rect(0, 0 - 132, 170); boundsInScreen: Rect(1564, 51 - 1696, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Web; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_web_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:30.358  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28958; boundsInParent: Rect(0, 0 - 176, 170); boundsInScreen: Rect(1696, 51 - 1872, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Photos; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_photos_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:30.358  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28d19; boundsInParent: Rect(0, 0 - 138, 170); boundsInScreen: Rect(1872, 51 - 2010, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Docs; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_docs_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:30.358  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@2588b; boundsInParent: Rect(0, 0 - 98, 129); boundsInScreen: Rect(0, 51 - 98, 180); packageName: com.amazon.kindle.otter; className: android.widget.ImageView; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:16:30.368  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@99d4; boundsInParent: Rect(0, 0 - 1200, 1389); boundsInScreen: Rect(0, -1209 - 1200, 179); packageName: com.amazon.kindle.otter; className: android.widget.FrameLayout; text: null; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/carousel_page; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:16:30.378  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 28ms
+12-12 12:16:30.748  7998  7998 D AndroidRuntime: 
+12-12 12:16:30.748  7998  7998 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:16:30.748  7998  7998 D AndroidRuntime: CheckJNI is OFF
+12-12 12:16:30.748  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.748  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5886d000 with sizes 17456 9068 22916 7820
+12-12 12:16:30.748  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.748  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5887b000 with sizes 3488 1968 3700 1000
+12-12 12:16:30.748  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.748  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5887f000 with sizes 1212 1216 2416 256
+12-12 12:16:30.748  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x58886000 with sizes 132 296 392 8
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x58a45000 with sizes 8748 4364 7932 3996
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x58a4c000 with sizes 22496 5184 8544 1804
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x595c1000 with sizes 56984 26392 103956 34404
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x597dc000 with sizes 9456 6512 11508 3328
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x59950000 with sizes 20776 3532 10520 3092
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x58a5b000 with sizes 1660 956 2388 56
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x599b8000 with sizes 1312 504 800 184
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x599b9000 with sizes 1704 1896 3404 216
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.758  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x59dfd000 with sizes 41708 10740 31748 2024
+12-12 12:16:30.758  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x599be000 with sizes 13340 3572 6468 560
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a042000 with sizes 3752 5072 11996 2620
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x599c6000 with sizes 864 112 12 8
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x599c8000 with sizes 144 424 416 84
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a05b000 with sizes 8 84 20 52
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a05c000 with sizes 2300 1284 1900 732
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a05f000 with sizes 3104 1556 4388 1468
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a063000 with sizes 2512 2028 2656 348
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a066000 with sizes 244 632 480 120
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a069000 with sizes 44 16 4 16
+12-12 12:16:30.768  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.768  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a3ba000 with sizes 17456 5180 15016 5508
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a151000 with sizes 17648 1196 1848 1084
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a5ea000 with sizes 5448 6248 17376 5152
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a157000 with sizes 92 272 204 12
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a5fb000 with sizes 368 52 8 52
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a618000 with sizes 848 488 512 692
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a61b000 with sizes 20 36 20 8
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a624000 with sizes 360 232 320 68
+12-12 12:16:30.778  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.778  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5a634000 with sizes 864 272 320 208
+12-12 12:16:30.788  7998  7998 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:16:30.788  7998  7998 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:16:30.788  7998  7998 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:16:30.788  7998  7998 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:16:30.788  7998  7998 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:16:30.798  7998  7998 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:30.798  7998  7998 D dalvikvm: dalvik-aux-structure mapped at 0x5b89b000 with sizes 912 344 448 12
+12-12 12:16:30.818  7998  7998 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:16:30.938  7998  7998 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+12-12 12:16:30.948  7998  7998 D AndroidRuntime: Shutting down VM
+12-12 12:16:30.948   926   959 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:30.948   926  1236 I ActivityManager: Force stopping com.example.snoopy appid=10002 user=0: from pid 7998
+12-12 12:16:31.238  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@281d6; boundsInParent: Rect(0, 0 - 260, 170); boundsInScreen: Rect(1304, 51 - 1564, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Audiobooks; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_audiobooks_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:31.238  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28597; boundsInParent: Rect(0, 0 - 132, 170); boundsInScreen: Rect(1564, 51 - 1696, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Web; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_web_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:31.238  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28958; boundsInParent: Rect(0, 0 - 176, 170); boundsInScreen: Rect(1696, 51 - 1872, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Photos; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_photos_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:31.238  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@28d19; boundsInParent: Rect(0, 0 - 138, 170); boundsInScreen: Rect(1872, 51 - 2010, 221); packageName: com.amazon.kindle.otter; className: android.widget.Button; text: Docs; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/home_navbar_docs_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]
+12-12 12:16:31.248  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@2588b; boundsInParent: Rect(0, 0 - 98, 129); boundsInScreen: Rect(0, 51 - 98, 180); packageName: com.amazon.kindle.otter; className: android.widget.ImageView; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:16:31.248  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@99d4; boundsInParent: Rect(0, 0 - 1200, 1389); boundsInScreen: Rect(0, -1209 - 1200, 179); packageName: com.amazon.kindle.otter; className: android.widget.FrameLayout; text: null; contentDescription: null; viewIdResName: com.amazon.kindle.otter:id/carousel_page; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:16:31.268  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 28ms
+12-12 12:16:31.558   926   980 I ActivityManager: START u0 {xxxx} from pid 926
+12-12 12:16:31.568  1036  1036 I LAB126  : PhoneStatusBar hears intent. action: android.intent.action.CLOSE_SYSTEM_DIALOGS
+12-12 12:16:32.068   926   958 W SharedAssetStorage: Launching com.amazon.kindle (32070) with AMZ_APP_GID
+12-12 12:16:32.078   926   958 I ActivityManager: Start proc com.amazon.kindle for broadcast com.amazon.kindle/.PrimeAppReceiver: pid=8044 uid=32070 gids={72070, 1028, 1015, 3003, 1023, 9001}
+12-12 12:16:32.558  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:16:32.668   926   937 D ActivityManager: single user service: com.amazon.kindle.cms
+12-12 12:16:32.698  8067  8067 D AndroidRuntime: 
+12-12 12:16:32.698  8067  8067 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:16:32.698  8067  8067 D AndroidRuntime: CheckJNI is OFF
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5890b000 with sizes 17456 9068 22916 7820
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x58919000 with sizes 3488 1968 3700 1000
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5891d000 with sizes 1212 1216 2416 256
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x58924000 with sizes 132 296 392 8
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x58ae3000 with sizes 8748 4364 7932 3996
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x58aea000 with sizes 22496 5184 8544 1804
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5965f000 with sizes 56984 26392 103956 34404
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5987a000 with sizes 9456 6512 11508 3328
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x599ee000 with sizes 20776 3532 10520 3092
+12-12 12:16:32.698  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.698  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x58af9000 with sizes 1660 956 2388 56
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x59a56000 with sizes 1312 504 800 184
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x59a57000 with sizes 1704 1896 3404 216
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x59e9b000 with sizes 41708 10740 31748 2024
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x59a5c000 with sizes 13340 3572 6468 560
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a0e0000 with sizes 3752 5072 11996 2620
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x59a64000 with sizes 864 112 12 8
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x59a66000 with sizes 144 424 416 84
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a0f9000 with sizes 8 84 20 52
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a0fa000 with sizes 2300 1284 1900 732
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a0fd000 with sizes 3104 1556 4388 1468
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a101000 with sizes 2512 2028 2656 348
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a104000 with sizes 244 632 480 120
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a107000 with sizes 44 16 4 16
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a458000 with sizes 17456 5180 15016 5508
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a1ef000 with sizes 17648 1196 1848 1084
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a688000 with sizes 5448 6248 17376 5152
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a1f5000 with sizes 92 272 204 12
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a699000 with sizes 368 52 8 52
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a6b6000 with sizes 848 488 512 692
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a6b9000 with sizes 20 36 20 8
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a6c2000 with sizes 360 232 320 68
+12-12 12:16:32.708  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.708  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5a6d2000 with sizes 864 272 320 208
+12-12 12:16:32.718  8067  8067 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:16:32.718  8067  8067 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:16:32.718  8067  8067 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:16:32.718  8067  8067 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:16:32.718  8067  8067 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:16:32.728  8067  8067 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:32.728  8067  8067 D dalvikvm: dalvik-aux-structure mapped at 0x5b939000 with sizes 912 344 448 12
+12-12 12:16:32.758  8067  8067 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:16:32.878  8067  8067 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+12-12 12:16:32.888  8067  8067 D AndroidRuntime: Shutting down VM
+12-12 12:16:32.888   926   959 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:32.888   926  1746 I ActivityManager: Force stopping com.example.snoopy appid=10002 user=0: from pid 8067
+12-12 12:16:33.038   926   936 D ActivityManager: single user service: com.amazon.kindle.cms
+12-12 12:16:33.068   926  1127 D ActivityManager: single user service: com.amazon.kindle.cms
+12-12 12:16:33.108  1036  1036 I LAB126  : PhoneStatusBar hears intent. action: android.intent.action.CLOSE_SYSTEM_DIALOGS
+12-12 12:16:33.108   926   980 I ActivityManager: START u0 {xxxx} from pid 926
+12-12 12:16:34.108  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:16:34.268  8166  8166 D AndroidRuntime: 
+12-12 12:16:34.268  8166  8166 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:16:34.278  8166  8166 D AndroidRuntime: CheckJNI is OFF
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x58898000 with sizes 17456 9068 22916 7820
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x588a6000 with sizes 3488 1968 3700 1000
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x588aa000 with sizes 1212 1216 2416 256
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x588b1000 with sizes 132 296 392 8
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x58a70000 with sizes 8748 4364 7932 3996
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x58a77000 with sizes 22496 5184 8544 1804
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x595ec000 with sizes 56984 26392 103956 34404
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.278  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x59807000 with sizes 9456 6512 11508 3328
+12-12 12:16:34.278  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5997b000 with sizes 20776 3532 10520 3092
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x58a86000 with sizes 1660 956 2388 56
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x599e3000 with sizes 1312 504 800 184
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x599e4000 with sizes 1704 1896 3404 216
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x59e28000 with sizes 41708 10740 31748 2024
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x599e9000 with sizes 13340 3572 6468 560
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a06d000 with sizes 3752 5072 11996 2620
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x599f1000 with sizes 864 112 12 8
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x599f3000 with sizes 144 424 416 84
+12-12 12:16:34.288  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.288  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a086000 with sizes 8 84 20 52
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a087000 with sizes 2300 1284 1900 732
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a08a000 with sizes 3104 1556 4388 1468
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a08e000 with sizes 2512 2028 2656 348
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a091000 with sizes 244 632 480 120
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a094000 with sizes 44 16 4 16
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a3e5000 with sizes 17456 5180 15016 5508
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a17c000 with sizes 17648 1196 1848 1084
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a615000 with sizes 5448 6248 17376 5152
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a182000 with sizes 92 272 204 12
+12-12 12:16:34.298  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.298  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a626000 with sizes 368 52 8 52
+12-12 12:16:34.308  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.308  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a643000 with sizes 848 488 512 692
+12-12 12:16:34.308  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.308  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a646000 with sizes 20 36 20 8
+12-12 12:16:34.308  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.308  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a64f000 with sizes 360 232 320 68
+12-12 12:16:34.308  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.308  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5a65f000 with sizes 864 272 320 208
+12-12 12:16:34.308  8166  8166 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:16:34.308  8166  8166 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:16:34.318  8166  8166 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:16:34.318  8166  8166 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:16:34.318  8166  8166 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:16:34.328  8166  8166 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.328  8166  8166 D dalvikvm: dalvik-aux-structure mapped at 0x5b8c6000 with sizes 912 344 448 12
+12-12 12:16:34.348  8166  8166 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:16:34.498  8166  8166 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+12-12 12:16:34.508   926  1747 I ActivityManager: Force stopping com.example.snoopy appid=10002 user=0: from pid 8166
+12-12 12:16:34.518   926   959 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:16:34.768   926  1236 I ActivityManager: START u0 {xxxx} from pid 8166
+12-12 12:16:34.778   926  1236 W ActivityManager: Input dispatching paused for current ActivityRecord: ActivityRecord{4259ef78 u0 com.example.snoopy/.MainActivity t4}
+12-12 12:16:34.788  8166  8166 D AndroidRuntime: Shutting down VM
+12-12 12:16:34.788  8188  8188 D dalvikvm: Late-enabling CheckJNI
+12-12 12:16:34.788   926  1532 I ActivityManager: Start proc com.example.snoopy for activity com.example.snoopy/.MainActivity: pid=8188 uid=10002 gids={50002, 3003, 1028, 1015}
+12-12 12:16:34.858   926  1344 D AmazonTransitionManager: openingActivityName = com.example.snoopy.MainActivity, animationType = ZOOM
+12-12 12:16:34.948  8188  8188 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.948  8188  8188 D dalvikvm: dalvik-aux-structure mapped at 0x60a05000 with sizes 17256 15772 38280 8156
+12-12 12:16:34.948  8188  8188 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.948  8188  8188 D dalvikvm: dalvik-aux-structure mapped at 0x605a1000 with sizes 752 564 744 248
+12-12 12:16:34.948  8188  8188 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:16:34.948  8188  8188 D dalvikvm: dalvik-aux-structure mapped at 0x605a3000 with sizes 80 112 108 44
+12-12 12:16:34.948  8188  8188 D ProfileManager: Create ProfileManager instance
+12-12 12:16:34.968  8188  8188 I dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.zzo.zzx
+12-12 12:16:34.968  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 4346: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+12-12 12:16:34.968  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0013
+12-12 12:16:34.968  8188  8188 I dalvikvm: Could not find method android.content.Context.getNoBackupFilesDir, referenced from method com.google.android.gms.common.util.zzu.getNoBackupFilesDir
+12-12 12:16:34.968  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 863: Landroid/content/Context;.getNoBackupFilesDir ()Ljava/io/File;
+12-12 12:16:34.968  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 12:16:34.978  8188  8208 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 12:16:34.978  8188  8188 W InstanceID/Rpc: Failed to resolve IID implementation package, falling back
+12-12 12:16:34.978   926  1236 W PackageManager: com.google.android.gms is not installed for user 0
+12-12 12:16:34.978   926  1740 W PackageManager: com.google.android.gsf is not installed for user 0
+12-12 12:16:34.978  8188  8188 W InstanceID/Rpc: Google Play services is missing, unable to get tokens
+12-12 12:16:34.978  8188  8188 D FirebaseApp: com.google.firebase.crash.FirebaseCrash is not linked. Skipping initialization.
+12-12 12:16:34.988  8188  8208 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbec.zzalq
+12-12 12:16:34.988  8188  8208 W dalvikvm: VFY: unable to resolve virtual method 4531: Landroid/content/pm/PackageManager;.isInstantApp (Ljava/lang/String;)Z
+12-12 12:16:34.988  8188  8208 D dalvikvm: VFY: replacing opcode 0x6e at 0x002d
+12-12 12:16:34.988  8188  8208 W GooglePlayServicesUtil: Google Play Store is missing.
+12-12 12:16:34.988  8188  8188 I FA      : App measurement is starting up, version: 11400
+12-12 12:16:34.988  8188  8188 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-12 12:16:34.988  8188  8188 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbeb.zzcp
+12-12 12:16:34.988  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 4523: Landroid/content/pm/PackageManager;.isInstantApp ()Z
+12-12 12:16:34.988  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0028
+12-12 12:16:34.988  8188  8188 I FA      : To enable faster debug mode event logging run:
+12-12 12:16:34.988  8188  8188 I FA      :   adb shell setprop debug.firebase.analytics.app com.example.snoopy
+12-12 12:16:34.998  8188  8188 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzazv
+12-12 12:16:34.998  8188  8188 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 12:16:34.998  8188  8188 D dalvikvm: VFY: replacing opcode 0x1f at 0x000b
+12-12 12:16:34.998  8188  8188 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzs
+12-12 12:16:34.998  8188  8188 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 12:16:34.998  8188  8188 D dalvikvm: VFY: replacing opcode 0x1f at 0x0098
+12-12 12:16:34.998  8188  8188 D dalvikvm: DexOpt: unable to opt direct call 0x2262 at 0xa0 in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 12:16:34.998  8188  8188 D dalvikvm: DexOpt: unable to opt direct call 0x2265 at 0xae in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 12:16:35.008  8188  8188 I FirebaseInitProvider: FirebaseApp initialization successful
+12-12 12:16:35.008  8188  8213 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:16:35.008  8188  8188 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-12 12:16:35.008  8188  8188 I Dispatch: No dispatch information file found
+12-12 12:16:35.008  8188  8213 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:16:35.008  8188  8213 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:16:35.008  8188  8213 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:16:35.008  8188  8213 I dalvikvm: Could not find method android.app.job.JobParameters.getExtras, referenced from method com.google.android.gms.internal.zzcfh.onStartJob
+12-12 12:16:35.008  8188  8213 W dalvikvm: VFY: unable to resolve virtual method 4778: Landroid/app/job/JobParameters;.getExtras ()Landroid/os/PersistableBundle;
+12-12 12:16:35.008  8188  8213 D dalvikvm: VFY: replacing opcode 0x6e at 0x000a
+12-12 12:16:35.018  8188  8188 I Activity: No ActvityExender defined. Proceed with default activity behavior.
+12-12 12:16:35.028  8188  8188 I dalvikvm: Could not find method android.view.Window$Callback.onProvideKeyboardShortcuts, referenced from method android.support.v7.view.WindowCallbackWrapper.onProvideKeyboardShortcuts
+12-12 12:16:35.028  8188  8188 W dalvikvm: VFY: unable to resolve interface method 3283: Landroid/view/Window$Callback;.onProvideKeyboardShortcuts (Ljava/util/List;Landroid/view/Menu;I)V
+12-12 12:16:35.028  8188  8188 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 12:16:35.028  8188  8188 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/view/SearchEvent;)
+12-12 12:16:35.028  8188  8188 I dalvikvm: Could not find method android.view.Window$Callback.onSearchRequested, referenced from method android.support.v7.view.WindowCallbackWrapper.onSearchRequested
+12-12 12:16:35.028  8188  8188 W dalvikvm: VFY: unable to resolve interface method 3285: Landroid/view/Window$Callback;.onSearchRequested (Landroid/view/SearchEvent;)Z
+12-12 12:16:35.028  8188  8188 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 12:16:35.028  8188  8188 I dalvikvm: Could not find method android.view.Window$Callback.onWindowStartingActionMode, referenced from method android.support.v7.view.WindowCallbackWrapper.onWindowStartingActionMode
+12-12 12:16:35.028  8188  8188 W dalvikvm: VFY: unable to resolve interface method 3289: Landroid/view/Window$Callback;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 12:16:35.028  8188  8188 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 12:16:35.028  8188  8188 I dalvikvm: Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.widget.TintTypedArray.getChangingConfigurations
+12-12 12:16:35.028  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 3746: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+12-12 12:16:35.028  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 12:16:35.028  8188  8188 I dalvikvm: Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.widget.TintTypedArray.getType
+12-12 12:16:35.028  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 3760: Landroid/content/res/TypedArray;.getType (I)I
+12-12 12:16:35.028  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0008
+12-12 12:16:35.058  8188  8188 I dalvikvm: Could not find method android.widget.FrameLayout.startActionModeForChild, referenced from method android.support.v7.widget.ActionBarContainer.startActionModeForChild
+12-12 12:16:35.058  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 3336: Landroid/widget/FrameLayout;.startActionModeForChild (Landroid/view/View;Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 12:16:35.058  8188  8188 D dalvikvm: VFY: replacing opcode 0x6f at 0x0002
+12-12 12:16:35.068  8188  8188 I dalvikvm: Could not find method android.content.Context.getColorStateList, referenced from method android.support.v7.content.res.AppCompatResources.getColorStateList
+12-12 12:16:35.068  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 865: Landroid/content/Context;.getColorStateList (I)Landroid/content/res/ColorStateList;
+12-12 12:16:35.068  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 12:16:35.068  8188  8188 I dalvikvm: Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawable
+12-12 12:16:35.068  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 950: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 12:16:35.068  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 12:16:35.068  8188  8188 I dalvikvm: Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawableForDensity
+12-12 12:16:35.068  8188  8188 W dalvikvm: VFY: unable to resolve virtual method 951: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 12:16:35.068  8188  8188 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 12:16:35.078  8188  8188 E dalvikvm: Could not find class 'android.graphics.drawable.RippleDrawable', referenced from method android.support.v7.widget.AppCompatImageHelper.hasOverlappingRendering
+12-12 12:16:35.078  8188  8188 W dalvikvm: VFY: unable to resolve instanceof 173 (Landroid/graphics/drawable/RippleDrawable;) in Landroid/support/v7/widget/AppCompatImageHelper;
+12-12 12:16:35.078  8188  8188 D dalvikvm: VFY: replacing opcode 0x20 at 0x000c
+12-12 12:16:35.088  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:16:35.088  8188  8188 I Dispatch: Dispatch information file known to not exist or be corrupt. Not loading dispatch rules while trying to load : ITextViewDispatcher
+12-12 12:16:35.098  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:16:35.378  8188  8188 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build: AGARWALR_AU_LINUX_ANDROID_LNX.LA.3.5.1.2.04.04.02.052.139+PATCH[ES]_msm8974_LNX.LA.3.5.1.2__release_ENGG ()
+12-12 12:16:35.378  8188  8188 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.15
+12-12 12:16:35.378  8188  8188 I Adreno-EGL: Build Date: 10/10/14 Fri
+12-12 12:16:35.378  8188  8188 I Adreno-EGL: Local Branch: 
+12-12 12:16:35.378  8188  8188 I Adreno-EGL: Remote Branch: quic/LNX.LA.3.5.1.2_3
+12-12 12:16:35.378  8188  8188 I Adreno-EGL: Local Patches: 1731ce61bba412e91e291c7a39fdde0e3e6eef32 Revert "Fix the hint for pre-rotation of 90/270."
+12-12 12:16:35.378  8188  8188 I Adreno-EGL:                  08ba22c0f7083457f048a1c2f74a205e43442dc7 Fixes a pink icon artifact.
+12-12 12:16:35.378  8188  8188 I Adreno-EGL: Reconstruct Branch: LOCAL_PATCH[ES]
+12-12 12:16:35.408  8188  8188 D OpenGLRenderer: Enabling debug mode 0
+12-12 12:16:35.438   926   937 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:16:35.438  8188  8188 I Dispatch: Dispatch information file known to not exist or be corrupt. Not loading dispatch rules while trying to load : ICanvasDispatcher
+12-12 12:16:35.458   926  1450 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:16:35.518   269   969 I ExtendedUtils: AV Sync late margin : Intended=40ms Using=0ms
+12-12 12:16:35.518   926   954 I ActivityManager: Displayed com.example.snoopy/.MainActivity: +734ms
+12-12 12:16:35.528   261   557 D PRDrmPlugIn: PRDrmPlugin::onInitialize, uniqueId = 5285
+12-12 12:16:35.528   261   557 D PRDrmPlugIn: PRDrmPlugin::onSetOnInfoListener: uniqueId = 5285
+12-12 12:16:35.528   261  1953 D PRDrmPlugIn: PRDrmPlugin::onTerminate, uniqueId = 5285
+12-12 12:16:35.548   269   969 D ExtendedUtils: extended extractor not needed, return default
+12-12 12:16:35.548   269  8222 I AwesomePlayer: Could not offload audio decode, try pcm offload
+12-12 12:16:35.548   269   969 D AwesomePlayer: Mime = audio/vorbis
+12-12 12:16:35.558   269   969 D AudioPlayer: updateDolbyProcessedAudioState(processed=0, playing=1)
+12-12 12:16:35.558   269  8225 D AudioPlayer: setDolbyProcessedAudioState(processed=0)
+12-12 12:16:35.558   269  8222 D AudioPlayer: updateDolbyProcessedAudioState(processed=0, playing=0)
+12-12 12:16:35.558   269   969 D AudioPlayer: setDolbyProcessedAudioState(processed=0)
+12-12 12:16:37.768  8188  8195 I dalvikvm: Total arena pages for JIT: 11
+12-12 12:16:37.768  8188  8195 I dalvikvm: Total arena pages for JIT: 12
+12-12 12:16:37.768  8188  8195 I dalvikvm: Total arena pages for JIT: 13
+12-12 12:16:37.768  8188  8195 I dalvikvm: Total arena pages for JIT: 14
+12-12 12:16:37.788  8188  8213 W GooglePlayServicesUtil: Google Play Store is missing.
+12-12 12:16:37.788  8188  8213 W FA      : Service invalid
+12-12 12:16:37.808  8188  8213 I FA      : This instance being marked as an uploader
+12-12 12:16:37.818   926   958 I ActivityManager: Waited long enough for: ServiceRecord{427d39c8 u0 com.amazon.venezia/com.amazon.mas.client.locker.service.appmgr.AppManagerService}
+12-12 12:16:38.408   926   936 W PackageManager: com.google.android.gms is not installed for user 0
+12-12 12:16:38.528  8188  8213 W FA      : Callable skipped the worker queue.
+12-12 12:16:38.538  8188  8213 I FA      : Tag Manager is not found and thus will not be used
+12-12 12:16:45.348  8188  8326 D CRLSetManager: getInstance binder: android.os.BinderProxy@41d8cc88
+12-12 12:16:52.848   926  1096 I ActivityManager: Killing 7208:com.amazon.webapp/u0a22096 (adj 12): empty #17
+12-12 12:16:59.588  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:17:00.658  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@a8db; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:00.658  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 6ms
+12-12 12:17:01.208  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@a8db; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:01.208  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 6ms
+12-12 12:17:02.068   926  1165 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: general
+12-12 12:17:02.068   926  1165 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: network
+12-12 12:17:02.068   926  1165 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: passive
+12-12 12:17:02.068   926  1165 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: fused
+12-12 12:17:02.068   926  1165 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: geofence
+12-12 12:17:02.068   926  1165 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: gps
+12-12 12:17:03.378  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@a8db; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:03.388  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 5ms
+12-12 12:17:03.508  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@780e; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 209 - 706, 300); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your email; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextEmail; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:03.518  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@780e; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 209 - 706, 300); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your email; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextEmail; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:04.578  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@780e; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 209 - 706, 300); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your email; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextEmail; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:05.828  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@a8db; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:05.828  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 4ms
+12-12 12:17:07.188   926  1001 D DeviceStorageMonitorService: Sending broadcast for delta increase in free memory. Delta memory: 12181504 freeMem: 57658265600
+12-12 12:17:09.098  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@8351; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 360 - 706, 451); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your password; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:09.138  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@8351; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 360 - 706, 451); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your password; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:10.238  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@8351; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 360 - 706, 451); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your password; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:11.438  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@a8db; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:11.448  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 5ms
+12-12 12:17:14.738  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.Button, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@7bcf; boundsInParent: Rect(0, 0 - 676, 96); boundsInScreen: Rect(30, 511 - 706, 607); packageName: com.example.snoopy; className: android.widget.Button; text: Register User; contentDescription: null; viewIdResName: com.example.snoopy:id/buttonRegister; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:14.808  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.Button, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@7bcf; boundsInParent: Rect(0, 0 - 676, 96); boundsInScreen: Rect(30, 511 - 706, 607); packageName: com.example.snoopy; className: android.widget.Button; text: Register User; contentDescription: null; viewIdResName: com.example.snoopy:id/buttonRegister; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:15.878  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.Button, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@7bcf; boundsInParent: Rect(0, 0 - 676, 96); boundsInScreen: Rect(30, 511 - 706, 607); packageName: com.example.snoopy; className: android.widget.Button; text: Register User; contentDescription: null; viewIdResName: com.example.snoopy:id/buttonRegister; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:15.888  7906  7906 D InteractionController: clickAndSync(368, 559)
+12-12 12:17:16.028  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:17:16.108  8188  8208 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 12:17:16.108  8188  8208 W GooglePlayServicesUtil: Google Play Store is missing.
+12-12 12:17:16.188   926  1740 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@423dfce0 attribute=null, token = android.os.BinderProxy@4256d4b0
+12-12 12:17:18.998  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:17:20.328  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@a8db; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:20.328  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 5ms
+12-12 12:17:20.518  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@8712; boundsInParent: Rect(0, 0 - 736, 38); boundsInScreen: Rect(0, 637 - 736, 675); packageName: com.example.snoopy; className: android.widget.TextView; text: Already Registered? Login Now; contentDescription: null; viewIdResName: com.example.snoopy:id/textViewSignin; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:20.528  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@8712; boundsInParent: Rect(0, 0 - 736, 38); boundsInScreen: Rect(0, 637 - 736, 675); packageName: com.example.snoopy; className: android.widget.TextView; text: Already Registered? Login Now; contentDescription: null; viewIdResName: com.example.snoopy:id/textViewSignin; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:21.298   926   958 W ProcessCpuTracker: Skipping unknown process pid 8952
+12-12 12:17:21.298   926   958 W ProcessCpuTracker: Skipping unknown process pid 8953
+12-12 12:17:21.298   926   958 W ProcessCpuTracker: Skipping unknown process pid 8955
+12-12 12:17:21.298   926   958 W ProcessCpuTracker: Skipping unknown process pid 8956
+12-12 12:17:21.618  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@8712; boundsInParent: Rect(0, 0 - 736, 38); boundsInScreen: Rect(0, 637 - 736, 675); packageName: com.example.snoopy; className: android.widget.TextView; text: Already Registered? Login Now; contentDescription: null; viewIdResName: com.example.snoopy:id/textViewSignin; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:21.628  7906  7906 D InteractionController: clickAndSync(368, 656)
+12-12 12:17:21.748   926  1096 I ActivityManager: START u0 {xxxx} from pid 8188
+12-12 12:17:21.748   926  1096 W ActivityManager: Input dispatching paused for current ActivityRecord: ActivityRecord{42499608 u0 com.example.snoopy/.LoginActivity t4}
+12-12 12:17:21.798   926  1539 D AmazonTransitionManager: openingActivityName = com.example.snoopy.LoginActivity, animationType = Activity open/close (tablet:FADE phone:SLIDE)
+12-12 12:17:21.808  8188  8188 I Activity: No ActvityExender defined. Proceed with default activity behavior.
+12-12 12:17:21.818  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:17:21.818  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:17:21.928   926  1746 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:17:21.958   926  1213 W PackageManager: com.google.android.gms is not installed for user 0
+12-12 12:17:21.978   926   954 I ActivityManager: Displayed com.example.snoopy/.LoginActivity: +179ms
+12-12 12:17:25.898  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:17:26.938  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@f7b6; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:26.948  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 18ms
+12-12 12:17:27.438  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@c6e9; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 263 - 706, 354); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your email; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextEmail; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:27.448  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@c6e9; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 263 - 706, 354); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your email; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextEmail; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:28.578  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@c6e9; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 263 - 706, 354); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your email; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextEmail; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:29.098   926  1214 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:17:29.098   926  1214 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:17:31.708  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:17:32.748  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@f7b6; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:32.748  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 11ms
+12-12 12:17:35.968  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@caaa; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 414 - 706, 505); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your password; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:36.018  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@caaa; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 414 - 706, 505); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your password; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:37.128  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.EditText, INSTANCE=1, PACKAGE NAME=com.example.snoopy, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@caaa; boundsInParent: Rect(0, 0 - 676, 91); boundsInScreen: Rect(30, 414 - 706, 505); packageName: com.example.snoopy; className: android.widget.EditText; text: Enter your password; contentDescription: null; viewIdResName: com.example.snoopy:id/editTextPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+12-12 12:17:37.648   926  1741 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:17:37.658   926  1741 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:17:37.658   926   976 V BatteryDrain: sending alarm Alarm{427bb4d0 type 0 com.nuance.swype.input}
+12-12 12:17:40.308  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:17:41.318  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@f7b6; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:41.318  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 5ms
+12-12 12:17:44.528  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.Button, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@d5ed; boundsInParent: Rect(0, 0 - 676, 96); boundsInScreen: Rect(30, 565 - 706, 661); packageName: com.example.snoopy; className: android.widget.Button; text: SIGN IN; contentDescription: null; viewIdResName: com.example.snoopy:id/buttonSignin; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:44.588  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.Button, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@d5ed; boundsInParent: Rect(0, 0 - 676, 96); boundsInScreen: Rect(30, 565 - 706, 661); packageName: com.example.snoopy; className: android.widget.Button; text: SIGN IN; contentDescription: null; viewIdResName: com.example.snoopy:id/buttonSignin; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:45.688  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.Button, INSTANCE=0, PACKAGE NAME=com.example.snoopy] <<==>> [android.view.accessibility.AccessibilityNodeInfo@d5ed; boundsInParent: Rect(0, 0 - 676, 96); boundsInScreen: Rect(30, 565 - 706, 661); packageName: com.example.snoopy; className: android.widget.Button; text: SIGN IN; contentDescription: null; viewIdResName: com.example.snoopy:id/buttonSignin; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:45.688  7906  7906 D InteractionController: clickAndSync(368, 613)
+12-12 12:17:45.878  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:17:45.918  8188  8208 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 12:17:45.918  8188  8208 W GooglePlayServicesUtil: Google Play Store is missing.
+12-12 12:17:45.968   926  1344 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42362740 attribute=null, token = android.os.BinderProxy@424e3f78
+12-12 12:17:48.798  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:17:50.098  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@f7b6; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:50.108  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 9ms
+12-12 12:17:50.258  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=2, PACKAGE NAME=com.example.snoopy, COUNT=2] <<==>> [android.view.accessibility.AccessibilityNodeInfo@d9ae; boundsInParent: Rect(0, 0 - 736, 38); boundsInScreen: Rect(0, 691 - 736, 729); packageName: com.example.snoopy; className: android.widget.TextView; text: CREATE ACCOUNT; contentDescription: null; viewIdResName: com.example.snoopy:id/textViewSignup; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:50.258  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=2, PACKAGE NAME=com.example.snoopy, COUNT=2] <<==>> [android.view.accessibility.AccessibilityNodeInfo@d9ae; boundsInParent: Rect(0, 0 - 736, 38); boundsInScreen: Rect(0, 691 - 736, 729); packageName: com.example.snoopy; className: android.widget.TextView; text: CREATE ACCOUNT; contentDescription: null; viewIdResName: com.example.snoopy:id/textViewSignup; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:51.348  7906  7906 I QueryController: Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=2, PACKAGE NAME=com.example.snoopy, COUNT=2] <<==>> [android.view.accessibility.AccessibilityNodeInfo@d9ae; boundsInParent: Rect(0, 0 - 736, 38); boundsInScreen: Rect(0, 691 - 736, 729); packageName: com.example.snoopy; className: android.widget.TextView; text: CREATE ACCOUNT; contentDescription: null; viewIdResName: com.example.snoopy:id/textViewSignup; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+12-12 12:17:51.348  7906  7906 D InteractionController: clickAndSync(368, 710)
+12-12 12:17:51.468   926  1004 I ActivityManager: Next activity is on the same task, skipping moveHomeToTop()
+12-12 12:17:51.468   926  1746 I ActivityManager: START u0 {xxxx} from pid 8188
+12-12 12:17:51.468   926  1746 W ActivityManager: startActivity called from finishing ActivityRecord{42499608 u0 com.example.snoopy/.LoginActivity t4 f}; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { cmp=com.example.snoopy/.MainActivity }
+12-12 12:17:51.468   926  1746 W ActivityManager: Input dispatching paused for current ActivityRecord: ActivityRecord{4256dc88 u0 com.example.snoopy/.MainActivity t4}
+12-12 12:17:51.498   926  1214 D AmazonTransitionManager: openingActivityName = com.example.snoopy.MainActivity, animationType = Activity open/close (tablet:FADE phone:SLIDE)
+12-12 12:17:51.528  8188  8188 I Activity: No ActvityExender defined. Proceed with default activity behavior.
+12-12 12:17:51.558  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:17:51.578  8188  8188 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:17:51.648   926  1746 W InputMethodManagerService: Settings not found for 'safe mode' for current user
+12-12 12:17:51.668   926  1747 W PackageManager: com.google.android.gms is not installed for user 0
+12-12 12:17:51.688   926   954 I ActivityManager: Displayed com.example.snoopy/.MainActivity: +194ms
+12-12 12:17:55.708  7906  7906 W InteractionController: runAndwaitForEvent timedout waiting for events
+12-12 12:17:56.728  7906  7906 I AccessibilityNodeInfoDumper: Skipping invisible child: android.view.accessibility.AccessibilityNodeInfo@13789; boundsInParent: Rect(0, 0 - 0, 128); boundsInScreen: Rect(1184, 51 - 1184, 179); packageName: com.example.snoopy; className: android.support.v7.widget.LinearLayoutCompat; text: null; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]
+12-12 12:17:56.728  7906  7906 W AccessibilityNodeInfoDumper: Fetch time: 8ms
+12-12 12:17:56.988  9646  9646 D AndroidRuntime: 
+12-12 12:17:56.988  9646  9646 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:17:56.988  9646  9646 D AndroidRuntime: CheckJNI is OFF
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41df3000 with sizes 17456 9068 22916 7820
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41e01000 with sizes 3488 1968 3700 1000
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41e05000 with sizes 1212 1216 2416 256
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41e0c000 with sizes 132 296 392 8
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41eb1000 with sizes 8748 4364 7932 3996
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41eb8000 with sizes 22496 5184 8544 1804
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41edc000 with sizes 56984 26392 103956 34404
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f13000 with sizes 9456 6512 11508 3328
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f1b000 with sizes 20776 3532 10520 3092
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41ec7000 with sizes 1660 956 2388 56
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f83000 with sizes 1312 504 800 184
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f84000 with sizes 1704 1896 3404 216
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f96000 with sizes 41708 10740 31748 2024
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f89000 with sizes 13340 3572 6468 560
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41fac000 with sizes 3752 5072 11996 2620
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f91000 with sizes 864 112 12 8
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41f93000 with sizes 144 424 416 84
+12-12 12:17:56.998  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:56.998  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x41fbc000 with sizes 8 84 20 52
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a06d000 with sizes 2300 1284 1900 732
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a070000 with sizes 3104 1556 4388 1468
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a074000 with sizes 2512 2028 2656 348
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a077000 with sizes 244 632 480 120
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a07a000 with sizes 44 16 4 16
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a3cb000 with sizes 17456 5180 15016 5508
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a162000 with sizes 17648 1196 1848 1084
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a5fb000 with sizes 5448 6248 17376 5152
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a168000 with sizes 92 272 204 12
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a60c000 with sizes 368 52 8 52
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a629000 with sizes 848 488 512 692
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a62c000 with sizes 20 36 20 8
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a635000 with sizes 360 232 320 68
+12-12 12:17:57.008  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.008  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5a645000 with sizes 864 272 320 208
+12-12 12:17:57.018  9646  9646 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:17:57.018  9646  9646 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:17:57.018  9646  9646 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:17:57.018  9646  9646 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:17:57.018  9646  9646 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:17:57.028  9646  9646 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:57.028  9646  9646 D dalvikvm: dalvik-aux-structure mapped at 0x5b8ac000 with sizes 912 344 448 12
+12-12 12:17:57.048  9646  9646 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:17:57.188  9646  9646 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+12-12 12:17:57.188   926   936 I ActivityManager: Force stopping com.example.snoopy appid=10002 user=0: from pid 9646
+12-12 12:17:57.188   926   936 I ActivityManager: Killing 8188:com.example.snoopy/u0a2 (adj 0): stop com.example.snoopy
+12-12 12:17:57.188   926   936 W ActivityManager: Force removing ActivityRecord{4256dc88 u0 com.example.snoopy/.MainActivity t4}: app died, no saved state
+12-12 12:17:57.198   926   936 I ActivityManager:   Force finishing activity ActivityRecord{4259ef78 u0 com.example.snoopy/.MainActivity t4}
+12-12 12:17:57.208   926   936 W WindowManager: Rebuild removed 3 windows but added 2
+12-12 12:17:57.208   926   936 W WindowManager: java.lang.RuntimeException: here
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.wm.WindowManagerService.rebuildAppWindowListLocked(WindowManagerService.java:8899)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.wm.WindowManagerService.rebuildAppWindowListLocked(WindowManagerService.java:8835)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.wm.WindowManagerService.handleAppTransitionReadyLocked(WindowManagerService.java:9330)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner(WindowManagerService.java:10138)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop(WindowManagerService.java:9051)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked(WindowManagerService.java:8993)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.wm.WindowManagerService.executeAppTransition(WindowManagerService.java:4583)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStackSupervisor.reportResumedActivityLocked(ActivityStackSupervisor.java:2421)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStack.completeResumeLocked(ActivityStack.java:1115)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStack.resumeTopActivityLocked(ActivityStack.java:1827)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked(ActivityStackSupervisor.java:2186)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStackSupervisor.resumeHomeActivity(ActivityStackSupervisor.java:311)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStack.resumeTopActivityLocked(ActivityStack.java:1446)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStack.resumeTopActivityLocked(ActivityStack.java:1421)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStack.finishCurrentActivityLocked(ActivityStack.java:2768)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStack.finishActivityLocked(ActivityStack.java:2701)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStack.forceStopPackageLocked(ActivityStack.java:3650)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityStackSupervisor.forceStopPackageLocked(ActivityStackSupervisor.java:2134)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityManagerService.forceStopPackageLocked(ActivityManagerService.java:5246)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityManagerService.forceStopPackageLocked(ActivityManagerService.java:5087)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityManagerService.forceStopPackage(ActivityManagerService.java:4914)
+12-12 12:17:57.208   926   936 W WindowManager: 	at android.app.ActivityManagerNative.onTransact(ActivityManagerNative.java:1364)
+12-12 12:17:57.208   926   936 W WindowManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2293)
+12-12 12:17:57.208   926   936 W WindowManager: 	at android.os.Binder.execTransact(Binder.java:404)
+12-12 12:17:57.208   926   936 W WindowManager: 	at dalvik.system.NativeStart.run(Native Method)
+12-12 12:17:57.208   926   936 W WindowManager: This window was lost: Window{426fe520 u0 com.example.snoopy/com.example.snoopy.MainActivity}
+12-12 12:17:57.208   926   936 W WindowManager: mAttrs.type=1
+12-12 12:17:57.208   926   936 W WindowManager: attachedWindow=nullmTouchableRegion=SkRegion((0,0,1200,1803))mDisplayId=0 mSession=Session{425be310 8188:u0a10002} mClient=android.os.BinderProxy@42670410
+12-12 12:17:57.208   926   936 W WindowManager: mOwnerUid=10002 mShowToOwnerOnly=true package=com.example.snoopy appop=NONE
+12-12 12:17:57.208   926   936 W WindowManager: mAttrs=WM.LayoutParams{(0,0)(fillxfill) sim=#120 ty=1 fl=#1810100 pfl=0x8 wanim=0x10302a1}
+12-12 12:17:57.208   926   936 W WindowManager: Requested w=1200 h=1920 mLayoutSeq=135
+12-12 12:17:57.208   926   936 W WindowManager: mBaseLayer=21000 mSubLayer=0 mAnimLayer=21010+0=21010 mLastLayer=21010
+12-12 12:17:57.208   926   936 W WindowManager: mToken=AppWindowToken{42397dd8 token=Token{4256ddf0 ActivityRecord{4256dc88 u0 com.example.snoopy/.MainActivity t4}}}
+12-12 12:17:57.208   926   936 W WindowManager: mRootToken=AppWindowToken{42397dd8 token=Token{4256ddf0 ActivityRecord{4256dc88 u0 com.example.snoopy/.MainActivity t4}}}
+12-12 12:17:57.208   926   936 W WindowManager: mAppToken=AppWindowToken{42397dd8 token=Token{4256ddf0 ActivityRecord{4256dc88 u0 com.example.snoopy/.MainActivity t4}}}
+12-12 12:17:57.208   926   936 W WindowManager: mViewVisibility=0x0 mHaveFrame=true mObscured=false
+12-12 12:17:57.208   926   936 W WindowManager: mSeq=0 mSystemUiVisibility=0x0
+12-12 12:17:57.208   926   936 W WindowManager: mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+12-12 12:17:57.208   926   936 W WindowManager: mConfiguration={1.0 ?mcc?mnc en_US ldltr sw600dp w600dp h934dp 320dpi lrg port rot_0 finger -keyb/v/h -nav/h s.4}
+12-12 12:17:57.208   926   936 W WindowManager: mHasSurface=true mShownFrame=[0.0,0.0][1200.0,1803.0] isReadyForDisplay()=false
+12-12 12:17:57.208   926   936 W WindowManager: mFrame=[0,0][1200,1803] last=[0,0][1200,1803]
+12-12 12:17:57.208   926   936 W WindowManager: mSystemDecorRect=[0,51][1200,1803] last=[0,51][1200,1803]
+12-12 12:17:57.208   926   936 W WindowManager: Frames: containing=[0,0][1200,1803] parent=[0,0][1200,1803]
+12-12 12:17:57.208   926   936 W WindowManager:     display=[0,0][1200,1803] overscan=[0,0][1200,1920]
+12-12 12:17:57.208   926   936 W WindowManager:     content=[0,51][1200,1803] visible=[0,51][1200,1803]
+12-12 12:17:57.208   926   936 W WindowManager:     decor=[0,51][1200,1803]
+12-12 12:17:57.208   926   936 W WindowManager: Cur insets: overscan=[0,0][0,0] content=[0,51][0,0] visible=[0,51][0,0]
+12-12 12:17:57.208   926   936 W WindowManager: Lst insets: overscan=[0,0][0,0] content=[0,51][0,0] visible=[0,51][0,0]
+12-12 12:17:57.208   926   936 W WindowManager: WindowStateAnimator{427da470 com.example.snoopy/com.example.snoopy.MainActivity}:
+12-12 12:17:57.208   926   936 W WindowManager:   mSurface=Surface(name=com.example.snoopy/com.example.snoopy.MainActivity)
+12-12 12:17:57.208   926   936 W WindowManager:   mDrawState=HAS_DRAWN mLastHidden=false
+12-12 12:17:57.208   926   936 W WindowManager:   Surface: shown=true layer=21010 alpha=1.0 rect=(0.0,0.0) 1200.0 x 1803.0
+12-12 12:17:57.208   926   980 W InputDispatcher: channel '427f6518 com.example.snoopy/com.example.snoopy.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-12 12:17:57.208   926   980 E InputDispatcher: channel '427f6518 com.example.snoopy/com.example.snoopy.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-12 12:17:57.208   926   980 W InputDispatcher: channel '426fe520 com.example.snoopy/com.example.snoopy.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-12 12:17:57.208   926   980 E InputDispatcher: channel '426fe520 com.example.snoopy/com.example.snoopy.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-12 12:17:57.208   926   936 W WindowManager: Current app token list:
+12-12 12:17:57.208   926   936 V WindowManager:   Display 0
+12-12 12:17:57.208   926   936 V WindowManager:   #1: Token{422a19b8 ActivityRecord{422a1608 u0 com.amazon.kindle.otter/.Launcher t1}}
+12-12 12:17:57.208   926   936 V WindowManager:   #0: Token{4259f0e0 ActivityRecord{4259ef78 u0 com.example.snoopy/.MainActivity t4 f}}
+12-12 12:17:57.208   926   936 W WindowManager: Final window list:
+12-12 12:17:57.208   926   936 V WindowManager:   #0: Window{422712f8 u0 NavigationBar}
+12-12 12:17:57.208   926   936 V WindowManager:   #1: Window{42269bd8 u0 StatusBar}
+12-12 12:17:57.208   926   936 V WindowManager:   #2: Window{423a7538 u0 Keyguard}
+12-12 12:17:57.208   926   936 V WindowManager:   #3: Window{422de980 u0 KeyguardScrim}
+12-12 12:17:57.208   926   936 V WindowManager:   #4: Window{4252b478 u0 InputMethod}
+12-12 12:17:57.208   926   936 V WindowManager:   #5: Window{422951a8 u0 com.amazon.kindle.otter/com.amazon.kindle.otter.Launcher}
+12-12 12:17:57.208   926   936 V WindowManager:   #6: Window{427f6518 u0 com.example.snoopy/com.example.snoopy.MainActivity}
+12-12 12:17:57.218   926  1004 W InputDispatcher: Attempted to unregister already unregistered input channel '427f6518 com.example.snoopy/com.example.snoopy.MainActivity (server)'
+12-12 12:17:57.218   926  1740 W InputDispatcher: Attempted to unregister already unregistered input channel '426fe520 com.example.snoopy/com.example.snoopy.MainActivity (server)'
+12-12 12:17:57.218   926   936 D AmazonTransitionManager: openingActivityName = com.amazon.kindle.otter.Launcher, animationType = HOME
+12-12 12:17:57.218   926  1004 I WindowState: WIN DEATH: Window{427f6518 u0 com.example.snoopy/com.example.snoopy.MainActivity}
+12-12 12:17:57.218   926  1740 I WindowState: WIN DEATH: Window{426fe520 u0 com.example.snoopy/com.example.snoopy.MainActivity}
+12-12 12:17:57.228  9646  9646 D AndroidRuntime: Shutting down VM
+12-12 12:17:57.238   926   959 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:17:57.288   926  1745 W InputMethodManagerService: Got RemoteException sending setActive(false) notification to pid 8188 uid 10002
+12-12 12:17:57.478   926   963 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:17:59.058  9688  9688 D AndroidRuntime: 
+12-12 12:17:59.058  9688  9688 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:17:59.058  9688  9688 D AndroidRuntime: CheckJNI is OFF
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x588f0000 with sizes 17456 9068 22916 7820
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x588fe000 with sizes 3488 1968 3700 1000
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x58902000 with sizes 1212 1216 2416 256
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x58909000 with sizes 132 296 392 8
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x58ac8000 with sizes 8748 4364 7932 3996
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x58acf000 with sizes 22496 5184 8544 1804
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x59644000 with sizes 56984 26392 103956 34404
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5985f000 with sizes 9456 6512 11508 3328
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x599d3000 with sizes 20776 3532 10520 3092
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x58ade000 with sizes 1660 956 2388 56
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x59a3b000 with sizes 1312 504 800 184
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x59a3c000 with sizes 1704 1896 3404 216
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x59e80000 with sizes 41708 10740 31748 2024
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x59a41000 with sizes 13340 3572 6468 560
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a0c5000 with sizes 3752 5072 11996 2620
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x59a49000 with sizes 864 112 12 8
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x59a4b000 with sizes 144 424 416 84
+12-12 12:17:59.068  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.068  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a0de000 with sizes 8 84 20 52
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a0df000 with sizes 2300 1284 1900 732
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a0e2000 with sizes 3104 1556 4388 1468
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a0e6000 with sizes 2512 2028 2656 348
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a0e9000 with sizes 244 632 480 120
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a0ec000 with sizes 44 16 4 16
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a43d000 with sizes 17456 5180 15016 5508
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a1d4000 with sizes 17648 1196 1848 1084
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a66d000 with sizes 5448 6248 17376 5152
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a1da000 with sizes 92 272 204 12
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a67e000 with sizes 368 52 8 52
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a69b000 with sizes 848 488 512 692
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a69e000 with sizes 20 36 20 8
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a6a7000 with sizes 360 232 320 68
+12-12 12:17:59.078  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.078  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5a6b7000 with sizes 864 272 320 208
+12-12 12:17:59.088  9688  9688 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:17:59.088  9688  9688 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:17:59.088  9688  9688 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:17:59.088  9688  9688 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:17:59.088  9688  9688 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:17:59.098  9688  9688 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:17:59.098  9688  9688 D dalvikvm: dalvik-aux-structure mapped at 0x5b91e000 with sizes 912 344 448 12
+12-12 12:17:59.128  9688  9688 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:17:59.268  9688  9688 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+12-12 12:17:59.278  9688  9688 D AndroidRuntime: Shutting down VM
+12-12 12:17:59.278   926   959 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:17:59.278   926   937 I ActivityManager: Force stopping com.example.snoopy appid=10002 user=0: from pid 9688
+12-12 12:17:59.508  7906  7906 I AndroidRuntime: VM exiting with result code 0.

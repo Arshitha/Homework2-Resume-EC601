@@ -1,0 +1,291 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on wlan0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:17:31.963212 IP 192.168.1.10.50905 > sea15s11-in-f10.1e100.net.https: Flags [F.], seq 3171333751, ack 2117901770, win 5507, options [nop,nop,TS val 2802291 ecr 2130976180], length 0
+20:17:31.995615 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50905: Flags [F.], seq 1, ack 1, win 308, options [nop,nop,TS val 2131015641 ecr 2802291], length 0
+20:17:31.996828 IP 192.168.1.10.50905 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 2, win 5507, options [nop,nop,TS val 2802295 ecr 2131015641], length 0
+20:17:40.130584 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [S], seq 1491408525, win 14600, options [mss 1460,sackOK,TS val 2803108 ecr 0,nop,wscale 7], length 0
+20:17:40.161098 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [S.], seq 2678256545, ack 1491408526, win 42408, options [mss 1360,sackOK,TS val 3069162745 ecr 2803108,nop,wscale 8], length 0
+20:17:40.162516 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2803111 ecr 3069162745], length 0
+20:17:40.173918 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [P.], seq 1:221, ack 1, win 115, options [nop,nop,TS val 2803112 ecr 3069162745], length 220
+20:17:40.204238 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [.], ack 221, win 170, options [nop,nop,TS val 3069162788 ecr 2803112], length 0
+20:17:40.204891 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [P.], seq 1:177, ack 221, win 170, options [nop,nop,TS val 3069162788 ecr 2803112], length 176
+20:17:40.205987 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [.], ack 177, win 123, options [nop,nop,TS val 2803116 ecr 3069162788], length 0
+20:17:40.212813 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [P.], seq 221:349, ack 177, win 123, options [nop,nop,TS val 2803116 ecr 3069162788], length 128
+20:17:40.273331 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [.], seq 349:1697, ack 177, win 123, options [nop,nop,TS val 2803122 ecr 3069162788], length 1348
+20:17:40.274395 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [.], seq 1697:3045, ack 177, win 123, options [nop,nop,TS val 2803123 ecr 3069162788], length 1348
+20:17:40.283115 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [.], ack 349, win 175, options [nop,nop,TS val 3069162827 ecr 2803116], length 0
+20:17:40.286867 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [P.], seq 3045:3793, ack 177, win 123, options [nop,nop,TS val 2803124 ecr 3069162827], length 748
+20:17:40.303673 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [.], ack 1697, win 185, options [nop,nop,TS val 3069162887 ecr 2803122], length 0
+20:17:40.304557 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [.], ack 3045, win 196, options [nop,nop,TS val 3069162888 ecr 2803123], length 0
+20:17:40.317028 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [.], ack 3793, win 206, options [nop,nop,TS val 3069162901 ecr 2803124], length 0
+20:17:40.586853 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [P.], seq 177:886, ack 3793, win 206, options [nop,nop,TS val 3069163170 ecr 2803124], length 709
+20:17:40.587006 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [P.], seq 886:1003, ack 3793, win 206, options [nop,nop,TS val 3069163171 ecr 2803124], length 117
+20:17:40.587067 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [P.], seq 1003:1152, ack 3793, win 206, options [nop,nop,TS val 3069163171 ecr 2803124], length 149
+20:17:40.587117 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [P.], seq 1152:1189, ack 3793, win 206, options [nop,nop,TS val 3069163171 ecr 2803124], length 37
+20:17:40.652787 IP sea15s01-in-f132.1e100.net.https > 192.168.1.10.35445: Flags [P.], seq 1152:1189, ack 3793, win 206, options [nop,nop,TS val 3069163236 ecr 2803124], length 37
+20:17:40.654376 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [.], ack 1003, win 134, options [nop,nop,TS val 2803160 ecr 3069163170], length 0
+20:17:40.654397 IP 192.168.1.10.35445 > sea15s01-in-f132.1e100.net.https: Flags [.], ack 1189, win 145, options [nop,nop,TS val 2803160 ecr 3069163171,nop,nop,sack 1 {1152:1189}], length 0
+20:17:41.823513 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 2759486857:2759487276, ack 2080388685, win 346, options [nop,nop,TS val 2803277 ecr 90923705], length 419
+20:17:41.854072 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47603: Flags [.], ack 419, win 269, options [nop,nop,TS val 90968621 ecr 2803277], length 0
+20:17:41.856660 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 419:1585, ack 1, win 346, options [nop,nop,TS val 2803281 ecr 90968621], length 1166
+20:17:41.886968 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47603: Flags [.], ack 1585, win 280, options [nop,nop,TS val 90968654 ecr 2803281], length 0
+20:17:42.467464 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47603: Flags [P.], seq 1:505, ack 1585, win 280, options [nop,nop,TS val 90969235 ecr 2803281], length 504
+20:17:42.468072 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47603: Flags [P.], seq 505:782, ack 1585, win 280, options [nop,nop,TS val 90969235 ecr 2803281], length 277
+20:17:42.468146 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47603: Flags [P.], seq 782:808, ack 1585, win 280, options [nop,nop,TS val 90969235 ecr 2803281], length 26
+20:17:42.497908 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 505, win 367, options [nop,nop,TS val 2803345 ecr 90969235], length 0
+20:17:42.497922 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 782, win 388, options [nop,nop,TS val 2803345 ecr 90969235], length 0
+20:17:42.497936 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 808, win 388, options [nop,nop,TS val 2803345 ecr 90969235], length 0
+20:17:43.305258 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [S], seq 4199975874, win 14600, options [mss 1460,sackOK,TS val 2803425 ecr 0,nop,wscale 7], length 0
+20:17:43.335698 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [S.], seq 832520209, ack 4199975875, win 42408, options [mss 1360,sackOK,TS val 1209823349 ecr 2803425,nop,wscale 8], length 0
+20:17:43.336940 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2803429 ecr 1209823349], length 0
+20:17:43.360330 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 1:167, ack 1, win 115, options [nop,nop,TS val 2803431 ecr 1209823349], length 166
+20:17:43.390551 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [.], ack 167, win 170, options [nop,nop,TS val 1209823404 ecr 2803431], length 0
+20:17:43.397770 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [.], seq 1:1349, ack 167, win 170, options [nop,nop,TS val 1209823411 ecr 2803431], length 1348
+20:17:43.397826 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [.], seq 1349:2697, ack 167, win 170, options [nop,nop,TS val 1209823411 ecr 2803431], length 1348
+20:17:43.397869 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [P.], seq 2697:3264, ack 167, win 170, options [nop,nop,TS val 1209823411 ecr 2803431], length 567
+20:17:43.399795 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1349, win 136, options [nop,nop,TS val 2803435 ecr 1209823411], length 0
+20:17:43.399809 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 2697, win 157, options [nop,nop,TS val 2803435 ecr 1209823411], length 0
+20:17:43.399828 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 3264, win 178, options [nop,nop,TS val 2803435 ecr 1209823411], length 0
+20:17:43.445046 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 167:252, ack 3264, win 178, options [nop,nop,TS val 2803440 ecr 1209823411], length 85
+20:17:43.475400 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [P.], seq 3264:3307, ack 252, win 170, options [nop,nop,TS val 1209823489 ecr 2803440], length 43
+20:17:43.507739 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 3307, win 178, options [nop,nop,TS val 2803443 ecr 1209823489], length 0
+20:17:43.623454 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 252:694, ack 3307, win 178, options [nop,nop,TS val 2803455 ecr 1209823489], length 442
+20:17:43.623481 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 694:2042, ack 3307, win 178, options [nop,nop,TS val 2803455 ecr 1209823489], length 1348
+20:17:43.653817 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [.], ack 2042, win 185, options [nop,nop,TS val 1209823667 ecr 2803455], length 0
+20:17:43.655567 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 2042:2318, ack 3307, win 178, options [nop,nop,TS val 2803461 ecr 1209823667], length 276
+20:17:43.713446 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [P.], seq 3307:3929, ack 2318, win 196, options [nop,nop,TS val 1209823727 ecr 2803461], length 622
+20:17:43.713637 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [P.], seq 3929:3955, ack 2318, win 196, options [nop,nop,TS val 1209823727 ecr 2803461], length 26
+20:17:43.715185 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 3929, win 199, options [nop,nop,TS val 2803467 ecr 1209823727], length 0
+20:17:43.753795 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 3955, win 199, options [nop,nop,TS val 2803470 ecr 1209823727], length 0
+20:17:43.940584 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 2318:3666, ack 3955, win 199, options [nop,nop,TS val 2803489 ecr 1209823727], length 1348
+20:17:43.940607 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 3666:3837, ack 3955, win 199, options [nop,nop,TS val 2803489 ecr 1209823727], length 171
+20:17:43.970975 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [.], ack 3837, win 208, options [nop,nop,TS val 1209823984 ecr 2803489], length 0
+20:17:44.002909 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 3837:3863, ack 3955, win 199, options [nop,nop,TS val 2803495 ecr 1209823984], length 26
+20:17:44.045845 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [P.], seq 3955:4552, ack 3863, win 208, options [nop,nop,TS val 1209824059 ecr 2803495], length 597
+20:17:44.046026 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [P.], seq 4552:4578, ack 3863, win 208, options [nop,nop,TS val 1209824059 ecr 2803495], length 26
+20:17:44.054658 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4552, win 220, options [nop,nop,TS val 2803500 ecr 1209824059], length 0
+20:17:44.054682 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4578, win 220, options [nop,nop,TS val 2803500 ecr 1209824059], length 0
+20:17:44.227857 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [S], seq 369941504, win 14600, options [mss 1460,sackOK,TS val 2803518 ecr 0,nop,wscale 7], length 0
+20:17:44.250851 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [S], seq 3674310567, win 14600, options [mss 1460,sackOK,TS val 2803520 ecr 0,nop,wscale 7], length 0
+20:17:44.259157 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [S.], seq 4073616342, ack 369941505, win 42408, options [mss 1360,sackOK,TS val 2589792222 ecr 2803518,nop,wscale 8], length 0
+20:17:44.260194 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2803521 ecr 2589792222], length 0
+20:17:44.270079 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 1:198, ack 1, win 115, options [nop,nop,TS val 2803522 ecr 2589792222], length 197
+20:17:44.281217 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [S.], seq 2258459677, ack 3674310568, win 42408, options [mss 1360,sackOK,TS val 820823227 ecr 2803520,nop,wscale 8], length 0
+20:17:44.282197 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2803523 ecr 820823227], length 0
+20:17:44.287977 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 1:199, ack 1, win 115, options [nop,nop,TS val 2803524 ecr 820823227], length 198
+20:17:44.301286 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [.], ack 198, win 170, options [nop,nop,TS val 2589792265 ecr 2803522], length 0
+20:17:44.301783 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [P.], seq 1:140, ack 198, win 170, options [nop,nop,TS val 2589792265 ecr 2803522], length 139
+20:17:44.318196 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [.], ack 199, win 170, options [nop,nop,TS val 820823264 ecr 2803524], length 0
+20:17:44.318716 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [P.], seq 1:140, ack 199, win 170, options [nop,nop,TS val 820823265 ecr 2803524], length 139
+20:17:44.324095 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 140, win 123, options [nop,nop,TS val 2803525 ecr 2589792265], length 0
+20:17:44.324110 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 198:241, ack 140, win 123, options [nop,nop,TS val 2803525 ecr 2589792265], length 43
+20:17:44.324120 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 140, win 123, options [nop,nop,TS val 2803527 ecr 820823265], length 0
+20:17:44.324139 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 199:242, ack 140, win 123, options [nop,nop,TS val 2803527 ecr 820823265], length 43
+20:17:44.394255 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [.], ack 242, win 170, options [nop,nop,TS val 820823301 ecr 2803527], length 0
+20:17:44.395864 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [.], ack 241, win 170, options [nop,nop,TS val 2589792319 ecr 2803525], length 0
+20:17:44.409964 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 241:1589, ack 140, win 123, options [nop,nop,TS val 2803535 ecr 2589792265], length 1348
+20:17:44.409992 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 1589:2937, ack 140, win 123, options [nop,nop,TS val 2803535 ecr 2589792265], length 1348
+20:17:44.410937 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 2937:4120, ack 140, win 123, options [nop,nop,TS val 2803536 ecr 2589792319], length 1183
+20:17:44.412054 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 242:684, ack 140, win 123, options [nop,nop,TS val 2803536 ecr 820823301], length 442
+20:17:44.412429 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 684:2032, ack 140, win 123, options [nop,nop,TS val 2803536 ecr 820823301], length 1348
+20:17:44.441249 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [.], ack 2937, win 191, options [nop,nop,TS val 2589792405 ecr 2803535], length 0
+20:17:44.442059 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [.], ack 4120, win 202, options [nop,nop,TS val 2589792405 ecr 2803536], length 0
+20:17:44.442139 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [.], ack 684, win 175, options [nop,nop,TS val 820823388 ecr 2803536], length 0
+20:17:44.442520 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [.], ack 2032, win 185, options [nop,nop,TS val 820823389 ecr 2803536], length 0
+20:17:44.443166 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 2032:2378, ack 140, win 123, options [nop,nop,TS val 2803539 ecr 820823388], length 346
+20:17:44.469932 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [P.], seq 140:1488, ack 4120, win 202, options [nop,nop,TS val 2589792433 ecr 2803536], length 1348
+20:17:44.470104 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [P.], seq 1488:2836, ack 4120, win 202, options [nop,nop,TS val 2589792433 ecr 2803536], length 1348
+20:17:44.470724 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [.], seq 2836:4184, ack 4120, win 202, options [nop,nop,TS val 2589792433 ecr 2803536], length 1348
+20:17:44.470775 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [P.], seq 4184:4920, ack 4120, win 202, options [nop,nop,TS val 2589792433 ecr 2803536], length 736
+20:17:44.471688 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 2836, win 165, options [nop,nop,TS val 2803542 ecr 2589792433], length 0
+20:17:44.471926 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4920, win 207, options [nop,nop,TS val 2803542 ecr 2589792433], length 0
+20:17:44.472036 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50919: Flags [P.], seq 4920:4946, ack 4120, win 202, options [nop,nop,TS val 2589792434 ecr 2803536], length 26
+20:17:44.473331 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [.], ack 2378, win 196, options [nop,nop,TS val 820823419 ecr 2803539], length 0
+20:17:44.491497 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [P.], seq 140:702, ack 2378, win 196, options [nop,nop,TS val 820823438 ecr 2803539], length 562
+20:17:44.491636 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [P.], seq 702:728, ack 2378, win 196, options [nop,nop,TS val 820823438 ecr 2803539], length 26
+20:17:44.494219 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 728, win 132, options [nop,nop,TS val 2803545 ecr 820823438], length 0
+20:17:44.500181 IP 192.168.1.10.50914 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 3120516714:3120516737, ack 2715156860, win 494, options [nop,nop,TS val 2803545 ecr 1163525135], length 23
+20:17:44.500791 IP 192.168.1.10.50914 > sea15s11-in-f10.1e100.net.https: Flags [F.], seq 23, ack 1, win 494, options [nop,nop,TS val 2803545 ecr 1163525135], length 0
+20:17:44.504413 IP 192.168.1.10.50919 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4946, win 207, options [nop,nop,TS val 2803546 ecr 2589792434], length 0
+20:17:44.531255 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50914: Flags [F.], seq 1, ack 23, win 206, options [nop,nop,TS val 1163573283 ecr 2803545], length 0
+20:17:44.531781 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50914: Flags [.], ack 24, win 206, options [nop,nop,TS val 1163573283 ecr 2803545], length 0
+20:17:44.534292 IP 192.168.1.10.50914 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 2, win 494, options [nop,nop,TS val 2803548 ecr 1163573283], length 0
+20:17:44.572003 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 2378:3726, ack 728, win 132, options [nop,nop,TS val 2803552 ecr 820823438], length 1348
+20:17:44.572027 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 3726:3740, ack 728, win 132, options [nop,nop,TS val 2803552 ecr 820823438], length 14
+20:17:44.602542 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [.], ack 3740, win 206, options [nop,nop,TS val 820823549 ecr 2803552], length 0
+20:17:44.614912 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [P.], seq 728:1401, ack 3740, win 206, options [nop,nop,TS val 820823561 ecr 2803552], length 673
+20:17:44.615113 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50920: Flags [P.], seq 1401:1427, ack 3740, win 206, options [nop,nop,TS val 820823561 ecr 2803552], length 26
+20:17:44.616482 IP 192.168.1.10.50920 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1427, win 142, options [nop,nop,TS val 2803557 ecr 820823561], length 0
+20:17:51.353456 IP sea15s01-in-f142.1e100.net.www > 192.168.1.10.34519: Flags [F.], seq 3450660804, ack 771656148, win 219, options [nop,nop,TS val 3174832218 ecr 2792212], length 0
+20:17:51.394702 IP 192.168.1.10.34519 > sea15s01-in-f142.1e100.net.www: Flags [.], ack 1, win 123, options [nop,nop,TS val 2804235 ecr 3174832218], length 0
+20:17:51.558429 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [S], seq 3329684365, win 14600, options [mss 1460,sackOK,TS val 2804251 ecr 0,nop,wscale 7], length 0
+20:17:51.590519 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [S.], seq 3124013251, ack 3329684366, win 42408, options [mss 1360,sackOK,TS val 3858833111 ecr 2804251,nop,wscale 8], length 0
+20:17:51.591676 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2804254 ecr 3858833111], length 0
+20:17:51.593277 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [P.], seq 1:171, ack 1, win 115, options [nop,nop,TS val 2804254 ecr 3858833111], length 170
+20:17:51.604291 IP 192.168.1.10.49209 > 52.216.130.53.www: Flags [S], seq 3324069047, win 14600, options [mss 1460,sackOK,TS val 2804255 ecr 0,nop,wscale 7], length 0
+20:17:51.612593 IP 52.216.130.53.www > 192.168.1.10.49209: Flags [S.], seq 1517762416, ack 3324069048, win 26960, options [mss 1360,sackOK,TS val 3174832283 ecr 2804255,nop,wscale 7], length 0
+20:17:51.614293 IP 192.168.1.10.49209 > 52.216.130.53.www: Flags [.], ack 1, win 115, options [nop,nop,TS val 2804256 ecr 3174832283], length 0
+20:17:51.625192 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [.], ack 171, win 170, options [nop,nop,TS val 3858833146 ecr 2804254], length 0
+20:17:51.633576 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [.], seq 1:1349, ack 171, win 170, options [nop,nop,TS val 3858833154 ecr 2804254], length 1348
+20:17:51.633639 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [.], seq 1349:2697, ack 171, win 170, options [nop,nop,TS val 3858833154 ecr 2804254], length 1348
+20:17:51.633670 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [P.], seq 2697:2873, ack 171, win 170, options [nop,nop,TS val 3858833154 ecr 2804254], length 176
+20:17:51.635903 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [.], ack 1349, win 136, options [nop,nop,TS val 2804259 ecr 3858833154], length 0
+20:17:51.635918 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [.], ack 2697, win 157, options [nop,nop,TS val 2804259 ecr 3858833154], length 0
+20:17:51.635928 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [.], ack 2873, win 178, options [nop,nop,TS val 2804259 ecr 3858833154], length 0
+20:17:51.635945 IP 192.168.1.10.49209 > 52.216.130.53.www: Flags [P.], seq 1:197, ack 1, win 115, options [nop,nop,TS val 2804259 ecr 3174832283], length 196: HTTP: GET /dc2-global/ping-pixel.png HTTP/1.1
+20:17:51.644283 IP 52.216.130.53.www > 192.168.1.10.49209: Flags [.], ack 197, win 219, options [nop,nop,TS val 3174832291 ecr 2804259], length 0
+20:17:51.667376 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [P.], seq 171:256, ack 2873, win 178, options [nop,nop,TS val 2804262 ecr 3858833154], length 85
+20:17:51.700062 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [P.], seq 2873:3149, ack 256, win 170, options [nop,nop,TS val 3858833220 ecr 2804262], length 276
+20:17:51.734213 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [.], ack 3149, win 199, options [nop,nop,TS val 2804269 ecr 3858833220], length 0
+20:17:51.747329 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [P.], seq 256:591, ack 3149, win 199, options [nop,nop,TS val 2804270 ecr 3858833220], length 335
+20:17:51.788765 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [P.], seq 3149:3811, ack 591, win 175, options [nop,nop,TS val 3858833309 ecr 2804270], length 662
+20:17:51.793560 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [.], ack 3811, win 220, options [nop,nop,TS val 2804274 ecr 3858833309], length 0
+20:17:51.804693 IP 192.168.1.10.42104 > sea15s01-in-f3.1e100.net.https: Flags [P.], seq 2400749395:2400749418, ack 3900787375, win 1715, options [nop,nop,TS val 2804276 ecr 1563424288], length 23
+20:17:51.805163 IP 192.168.1.10.42104 > sea15s01-in-f3.1e100.net.https: Flags [F.], seq 23, ack 1, win 1715, options [nop,nop,TS val 2804276 ecr 1563424288], length 0
+20:17:51.810488 IP 52.216.130.53.www > 192.168.1.10.49209: Flags [P.], seq 1:499, ack 197, win 219, options [nop,nop,TS val 3174832332 ecr 2804259], length 498: HTTP: HTTP/1.1 200 OK
+20:17:51.810626 IP 52.216.130.53.www > 192.168.1.10.49209: Flags [P.], seq 499:594, ack 197, win 219, options [nop,nop,TS val 3174832332 ecr 2804259], length 95: HTTP
+20:17:51.815769 IP 192.168.1.10.49209 > 52.216.130.53.www: Flags [.], ack 499, win 123, options [nop,nop,TS val 2804276 ecr 3174832332], length 0
+20:17:51.815788 IP 192.168.1.10.49209 > 52.216.130.53.www: Flags [.], ack 594, win 123, options [nop,nop,TS val 2804276 ecr 3174832332], length 0
+20:17:51.835909 IP sea15s01-in-f3.1e100.net.https > 192.168.1.10.42104: Flags [F.], seq 1, ack 23, win 175, options [nop,nop,TS val 1563495668 ecr 2804276], length 0
+20:17:51.836114 IP sea15s01-in-f3.1e100.net.https > 192.168.1.10.42104: Flags [.], ack 24, win 175, options [nop,nop,TS val 1563495668 ecr 2804276], length 0
+20:17:51.837295 IP 192.168.1.10.42104 > sea15s01-in-f3.1e100.net.https: Flags [.], ack 2, win 1715, options [nop,nop,TS val 2804279 ecr 1563495668], length 0
+20:17:51.954490 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [P.], seq 591:1344, ack 3811, win 220, options [nop,nop,TS val 2804290 ecr 3858833309], length 753
+20:17:51.994229 IP sea15s01-in-f142.1e100.net.https > 192.168.1.10.55633: Flags [P.], seq 3811:4217, ack 1344, win 180, options [nop,nop,TS val 3858833515 ecr 2804290], length 406
+20:17:51.997150 IP 192.168.1.10.55633 > sea15s01-in-f142.1e100.net.https: Flags [.], ack 4217, win 241, options [nop,nop,TS val 2804295 ecr 3858833515], length 0
+20:17:52.482123 IP 192.168.1.10.49209 > 52.216.130.53.www: Flags [F.], seq 197, ack 594, win 123, options [nop,nop,TS val 2804342 ecr 3174832332], length 0
+20:17:52.490620 IP 52.216.130.53.www > 192.168.1.10.49209: Flags [F.], seq 594, ack 198, win 219, options [nop,nop,TS val 3174832502 ecr 2804342], length 0
+20:17:52.492093 IP 192.168.1.10.49209 > 52.216.130.53.www: Flags [.], ack 595, win 123, options [nop,nop,TS val 2804344 ecr 3174832502], length 0
+20:17:59.040978 IP sea15s01-in-f142.1e100.net.www > 192.168.1.10.34543: Flags [F.], seq 971458744, ack 4150756235, win 219, options [nop,nop,TS val 3174834140 ecr 2793055], length 0
+20:17:59.145671 IP 192.168.1.10.34543 > sea15s01-in-f142.1e100.net.www: Flags [.], ack 1, win 123, options [nop,nop,TS val 2805008 ecr 3174834140], length 0
+20:18:12.881808 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [S], seq 712659015, win 14600, options [mss 1460,sackOK,TS val 2806382 ecr 0,nop,wscale 7], length 0
+20:18:12.913265 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [S.], seq 3966353171, ack 712659016, win 42408, options [mss 1360,sackOK,TS val 16897812 ecr 2806382,nop,wscale 8], length 0
+20:18:12.915737 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2806387 ecr 16897812], length 0
+20:18:12.936274 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 1:170, ack 1, win 115, options [nop,nop,TS val 2806389 ecr 16897812], length 169
+20:18:12.967722 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [.], ack 170, win 170, options [nop,nop,TS val 16897867 ecr 2806389], length 0
+20:18:12.976422 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [.], seq 1:1349, ack 170, win 170, options [nop,nop,TS val 16897875 ecr 2806389], length 1348
+20:18:12.976534 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [.], seq 1349:2697, ack 170, win 170, options [nop,nop,TS val 16897875 ecr 2806389], length 1348
+20:18:12.976569 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 2697:3268, ack 170, win 170, options [nop,nop,TS val 16897875 ecr 2806389], length 571
+20:18:12.978930 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1349, win 136, options [nop,nop,TS val 2806393 ecr 16897875], length 0
+20:18:12.979346 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 2697, win 157, options [nop,nop,TS val 2806393 ecr 16897875], length 0
+20:18:12.979367 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 3268, win 178, options [nop,nop,TS val 2806393 ecr 16897875], length 0
+20:18:13.038426 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 170:412, ack 3268, win 178, options [nop,nop,TS val 2806399 ecr 16897875], length 242
+20:18:13.070086 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 3268:3311, ack 412, win 175, options [nop,nop,TS val 16897969 ecr 2806399], length 43
+20:18:13.072358 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 3311, win 178, options [nop,nop,TS val 2806402 ecr 16897969], length 0
+20:18:13.109621 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 412:1388, ack 3311, win 178, options [nop,nop,TS val 2806406 ecr 16897969], length 976
+20:18:13.180646 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [.], ack 1388, win 182, options [nop,nop,TS val 16898040 ecr 2806406], length 0
+20:18:13.828884 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 3311:3986, ack 1388, win 182, options [nop,nop,TS val 16898728 ecr 2806406], length 675
+20:18:13.829225 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 3986:5204, ack 1388, win 182, options [nop,nop,TS val 16898728 ecr 2806406], length 1218
+20:18:13.829304 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 5204:5230, ack 1388, win 182, options [nop,nop,TS val 16898728 ecr 2806406], length 26
+20:18:13.899691 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 5204:5230, ack 1388, win 182, options [nop,nop,TS val 16898799 ecr 2806406], length 26
+20:18:13.934862 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 3986, win 199, options [nop,nop,TS val 2806489 ecr 16898728], length 0
+20:18:13.934876 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 5204, win 220, options [nop,nop,TS val 2806489 ecr 16898728], length 0
+20:18:13.934886 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 5230, win 220, options [nop,nop,TS val 2806489 ecr 16898728], length 0
+20:18:13.934901 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 5230, win 220, options [nop,nop,TS val 2806489 ecr 16898799,nop,nop,sack 1 {5204:5230}], length 0
+20:18:13.946804 IP 192.168.1.10.47601 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 2713252138:2713252161, ack 3796736756, win 220, options [nop,nop,TS val 2806490 ecr 2815736557], length 23
+20:18:13.946838 IP 192.168.1.10.47601 > sea15s11-in-f14.1e100.net.https: Flags [F.], seq 23, ack 1, win 220, options [nop,nop,TS val 2806490 ecr 2815736557], length 0
+20:18:13.979028 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47601: Flags [.], ack 23, win 281, options [nop,nop,TS val 2815820937 ecr 2806490], length 0
+20:18:13.979243 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47601: Flags [F.], seq 1, ack 24, win 281, options [nop,nop,TS val 2815820937 ecr 2806490], length 0
+20:18:13.984023 IP 192.168.1.10.47601 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 2, win 220, options [nop,nop,TS val 2806493 ecr 2815820937], length 0
+20:18:14.030279 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 1388:2326, ack 5230, win 220, options [nop,nop,TS val 2806498 ecr 16898799], length 938
+20:18:14.061732 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [.], ack 2326, win 190, options [nop,nop,TS val 16898961 ecr 2806498], length 0
+20:18:14.063251 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 2326:3242, ack 5230, win 220, options [nop,nop,TS val 2806501 ecr 16898961], length 916
+20:18:14.094678 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [.], ack 3242, win 197, options [nop,nop,TS val 16898994 ecr 2806501], length 0
+20:18:14.279151 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 5230:5905, ack 3242, win 197, options [nop,nop,TS val 16899178 ecr 2806501], length 675
+20:18:14.279391 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 5905:6233, ack 3242, win 197, options [nop,nop,TS val 16899179 ecr 2806501], length 328
+20:18:14.279586 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 6233:6259, ack 3242, win 197, options [nop,nop,TS val 16899179 ecr 2806501], length 26
+20:18:14.280883 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 5905, win 241, options [nop,nop,TS val 2806523 ecr 16899178], length 0
+20:18:14.281339 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 6233, win 262, options [nop,nop,TS val 2806523 ecr 16899179], length 0
+20:18:14.281355 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 6259, win 262, options [nop,nop,TS val 2806523 ecr 16899179], length 0
+20:18:14.899872 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [S], seq 943164377, win 14600, options [mss 1460,sackOK,TS val 2806585 ecr 0,nop,wscale 7], length 0
+20:18:14.931913 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [S.], seq 3164025026, ack 943164378, win 42408, options [mss 1360,sackOK,TS val 279052317 ecr 2806585,nop,wscale 8], length 0
+20:18:14.934756 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2806589 ecr 279052317], length 0
+20:18:14.947310 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [P.], seq 1:174, ack 1, win 115, options [nop,nop,TS val 2806590 ecr 279052317], length 173
+20:18:14.979356 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [.], ack 174, win 170, options [nop,nop,TS val 279052365 ecr 2806590], length 0
+20:18:14.988204 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [.], seq 1:1349, ack 174, win 170, options [nop,nop,TS val 279052373 ecr 2806590], length 1348
+20:18:14.988300 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [.], seq 1349:2697, ack 174, win 170, options [nop,nop,TS val 279052373 ecr 2806590], length 1348
+20:18:14.988332 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [P.], seq 2697:3265, ack 174, win 170, options [nop,nop,TS val 279052373 ecr 2806590], length 568
+20:18:14.989905 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 1349, win 136, options [nop,nop,TS val 2806594 ecr 279052373], length 0
+20:18:14.992261 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 2697, win 157, options [nop,nop,TS val 2806594 ecr 279052373], length 0
+20:18:14.992285 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 3265, win 178, options [nop,nop,TS val 2806594 ecr 279052373], length 0
+20:18:15.038667 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [P.], seq 174:259, ack 3265, win 178, options [nop,nop,TS val 2806599 ecr 279052373], length 85
+20:18:15.070948 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [P.], seq 3265:3308, ack 259, win 170, options [nop,nop,TS val 279052456 ecr 2806599], length 43
+20:18:15.079518 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 3308, win 178, options [nop,nop,TS val 2806603 ecr 279052456], length 0
+20:18:15.141283 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [P.], seq 259:878, ack 3308, win 178, options [nop,nop,TS val 2806609 ecr 279052456], length 619
+20:18:15.192047 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [P.], seq 3308:3858, ack 878, win 175, options [nop,nop,TS val 279052577 ecr 2806609], length 550
+20:18:15.192258 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [P.], seq 3858:5206, ack 878, win 175, options [nop,nop,TS val 279052578 ecr 2806609], length 1348
+20:18:15.192387 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [P.], seq 5206:5452, ack 878, win 175, options [nop,nop,TS val 279052578 ecr 2806609], length 246
+20:18:15.192727 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [P.], seq 5452:5515, ack 878, win 175, options [nop,nop,TS val 279052578 ecr 2806609], length 63
+20:18:15.193116 IP sea15s02-in-f10.1e100.net.https > 192.168.1.10.60391: Flags [P.], seq 5515:5541, ack 878, win 175, options [nop,nop,TS val 279052579 ecr 2806609], length 26
+20:18:15.197049 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 3858, win 199, options [nop,nop,TS val 2806614 ecr 279052577], length 0
+20:18:15.197066 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 5206, win 220, options [nop,nop,TS val 2806614 ecr 279052578], length 0
+20:18:15.197085 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 5452, win 241, options [nop,nop,TS val 2806615 ecr 279052578], length 0
+20:18:15.217918 IP 192.168.1.10.60391 > sea15s02-in-f10.1e100.net.https: Flags [.], ack 5541, win 241, options [nop,nop,TS val 2806617 ecr 279052578], length 0
+20:18:15.218637 IP 192.168.1.10.47602 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 4264138456:4264138479, ack 1102660479, win 304, options [nop,nop,TS val 2806617 ecr 2368843348], length 23
+20:18:15.219020 IP 192.168.1.10.47602 > sea15s11-in-f14.1e100.net.https: Flags [F.], seq 23, ack 1, win 304, options [nop,nop,TS val 2806617 ecr 2368843348], length 0
+20:18:15.250885 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47602: Flags [.], ack 23, win 248, options [nop,nop,TS val 2368919985 ecr 2806617], length 0
+20:18:15.251112 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47602: Flags [F.], seq 1, ack 24, win 248, options [nop,nop,TS val 2368919986 ecr 2806617], length 0
+20:18:15.258931 IP 192.168.1.10.47602 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 2, win 304, options [nop,nop,TS val 2806621 ecr 2368919986], length 0
+20:18:30.455263 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [S], seq 2724615515, win 14600, options [mss 1460,sackOK,TS val 2808140 ecr 0,nop,wscale 7], length 0
+20:18:30.487523 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [S.], seq 170405842, ack 2724615516, win 42408, options [mss 1360,sackOK,TS val 2889688455 ecr 2808140,nop,wscale 8], length 0
+20:18:30.489256 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2808144 ecr 2889688455], length 0
+20:18:30.499772 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 1:198, ack 1, win 115, options [nop,nop,TS val 2808145 ecr 2889688455], length 197
+20:18:30.532142 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [.], ack 198, win 170, options [nop,nop,TS val 2889688499 ecr 2808145], length 0
+20:18:30.532579 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [P.], seq 1:140, ack 198, win 170, options [nop,nop,TS val 2889688500 ecr 2808145], length 139
+20:18:30.541669 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 140, win 123, options [nop,nop,TS val 2808149 ecr 2889688500], length 0
+20:18:30.542053 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 198:241, ack 140, win 123, options [nop,nop,TS val 2808149 ecr 2889688500], length 43
+20:18:30.613966 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [.], ack 241, win 170, options [nop,nop,TS val 2889688542 ecr 2808149], length 0
+20:18:30.659511 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 241:647, ack 140, win 123, options [nop,nop,TS val 2808161 ecr 2889688542], length 406
+20:18:30.659981 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 647:1995, ack 140, win 123, options [nop,nop,TS val 2808161 ecr 2889688542], length 1348
+20:18:30.660679 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 1995:3343, ack 140, win 123, options [nop,nop,TS val 2808161 ecr 2889688542], length 1348
+20:18:30.691766 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [.], ack 647, win 175, options [nop,nop,TS val 2889688659 ecr 2808161], length 0
+20:18:30.692066 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [.], ack 1995, win 185, options [nop,nop,TS val 2889688660 ecr 2808161], length 0
+20:18:30.692858 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [.], ack 3343, win 196, options [nop,nop,TS val 2889688660 ecr 2808161], length 0
+20:18:30.693860 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 3343:4145, ack 140, win 123, options [nop,nop,TS val 2808164 ecr 2889688659], length 802
+20:18:30.726111 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [.], ack 4145, win 206, options [nop,nop,TS val 2889688693 ecr 2808164], length 0
+20:18:30.749749 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [P.], seq 140:1488, ack 4145, win 206, options [nop,nop,TS val 2889688717 ecr 2808164], length 1348
+20:18:30.749927 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [P.], seq 1488:2836, ack 4145, win 206, options [nop,nop,TS val 2889688717 ecr 2808164], length 1348
+20:18:30.750537 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [.], seq 2836:4184, ack 4145, win 206, options [nop,nop,TS val 2889688717 ecr 2808164], length 1348
+20:18:30.750592 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [P.], seq 4184:4402, ack 4145, win 206, options [nop,nop,TS val 2889688717 ecr 2808164], length 218
+20:18:30.751478 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 2836, win 165, options [nop,nop,TS val 2808170 ecr 2889688717], length 0
+20:18:30.751541 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50925: Flags [P.], seq 4402:4428, ack 4145, win 206, options [nop,nop,TS val 2889688717 ecr 2808164], length 26
+20:18:30.753717 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4402, win 207, options [nop,nop,TS val 2808170 ecr 2889688717], length 0
+20:18:30.765267 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 1585:1608, ack 808, win 388, options [nop,nop,TS val 2808172 ecr 90969235], length 23
+20:18:30.765294 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [F.], seq 1608, ack 808, win 388, options [nop,nop,TS val 2808172 ecr 90969235], length 0
+20:18:30.784135 IP 192.168.1.10.50925 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4428, win 207, options [nop,nop,TS val 2808174 ecr 2889688717], length 0
+20:18:30.795661 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47603: Flags [.], ack 1608, win 280, options [nop,nop,TS val 91017563 ecr 2808172], length 0
+20:18:30.795832 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.47603: Flags [F.], seq 808, ack 1609, win 280, options [nop,nop,TS val 91017563 ecr 2808172], length 0
+20:18:30.797097 IP 192.168.1.10.47603 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 809, win 388, options [nop,nop,TS val 2808175 ecr 91017563], length 0
+20:18:33.395088 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [S], seq 2532669549, win 14600, options [mss 1460,sackOK,TS val 2808434 ecr 0,nop,wscale 7], length 0
+20:18:33.427255 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [S.], seq 2036142877, ack 2532669550, win 42408, options [mss 1360,sackOK,TS val 1209873441 ecr 2808434,nop,wscale 8], length 0
+20:18:33.428520 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 2808438 ecr 1209873441], length 0
+20:18:33.440165 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 1:198, ack 1, win 115, options [nop,nop,TS val 2808439 ecr 1209873441], length 197
+20:18:33.472123 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [.], ack 198, win 170, options [nop,nop,TS val 1209873486 ecr 2808439], length 0
+20:18:33.472597 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [P.], seq 1:140, ack 198, win 170, options [nop,nop,TS val 1209873486 ecr 2808439], length 139
+20:18:33.473518 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 140, win 123, options [nop,nop,TS val 2808442 ecr 1209873486], length 0
+20:18:33.474123 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 198:241, ack 140, win 123, options [nop,nop,TS val 2808443 ecr 1209873486], length 43
+20:18:33.498913 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 241:1589, ack 140, win 123, options [nop,nop,TS val 2808445 ecr 1209873486], length 1348
+20:18:33.498938 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [.], seq 1589:2937, ack 140, win 123, options [nop,nop,TS val 2808445 ecr 1209873486], length 1348
+20:18:33.530998 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [.], ack 1589, win 181, options [nop,nop,TS val 1209873545 ecr 2808443], length 0
+20:18:33.532632 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 2937:4158, ack 140, win 123, options [nop,nop,TS val 2808448 ecr 1209873545], length 1221
+20:18:33.564673 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [.], ack 4158, win 202, options [nop,nop,TS val 1209873578 ecr 2808445], length 0
+20:18:33.584813 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [P.], seq 140:1488, ack 4158, win 202, options [nop,nop,TS val 1209873598 ecr 2808445], length 1348
+20:18:33.585015 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [P.], seq 1488:2836, ack 4158, win 202, options [nop,nop,TS val 1209873598 ecr 2808445], length 1348
+20:18:33.585609 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [.], seq 2836:4184, ack 4158, win 202, options [nop,nop,TS val 1209873598 ecr 2808445], length 1348
+20:18:33.585665 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [P.], seq 4184:4744, ack 4158, win 202, options [nop,nop,TS val 1209873598 ecr 2808445], length 560
+20:18:33.586905 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50926: Flags [P.], seq 4744:4770, ack 4158, win 202, options [nop,nop,TS val 1209873598 ecr 2808445], length 26
+20:18:33.589309 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 2836, win 165, options [nop,nop,TS val 2808454 ecr 1209873598], length 0
+20:18:33.589334 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4744, win 207, options [nop,nop,TS val 2808454 ecr 1209873598], length 0
+20:18:33.605680 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 3863:3886, ack 4578, win 220, options [nop,nop,TS val 2808456 ecr 1209824059], length 23
+20:18:33.624059 IP 192.168.1.10.50926 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4770, win 207, options [nop,nop,TS val 2808458 ecr 1209873598], length 0
+20:18:33.636049 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50918: Flags [F.], seq 4578, ack 3886, win 208, options [nop,nop,TS val 1209873650 ecr 2808456], length 0
+20:18:33.695059 IP 192.168.1.10.50918 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 4579, win 220, options [nop,nop,TS val 2808463 ecr 1209873650], length 0
+20:19:06.004202 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [P.], seq 3242:4221, ack 6259, win 262, options [nop,nop,TS val 2811694 ecr 16899179], length 979
+20:19:06.035644 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [.], ack 4221, win 205, options [nop,nop,TS val 16950935 ecr 2811694], length 0
+20:19:06.491870 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 6259:6934, ack 4221, win 205, options [nop,nop,TS val 16951391 ecr 2811694], length 675
+20:19:06.492075 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 6934:8113, ack 4221, win 205, options [nop,nop,TS val 16951391 ecr 2811694], length 1179
+20:19:06.492160 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 8113:8139, ack 4221, win 205, options [nop,nop,TS val 16951391 ecr 2811694], length 26
+20:19:06.578875 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 6934, win 283, options [nop,nop,TS val 2811752 ecr 16951391], length 0
+20:19:06.578893 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 8113, win 304, options [nop,nop,TS val 2811752 ecr 16951391], length 0
+20:19:06.578910 IP 192.168.1.10.50923 > sea15s11-in-f10.1e100.net.https: Flags [.], ack 8139, win 304, options [nop,nop,TS val 2811752 ecr 16951391], length 0
+20:19:06.606602 IP sea15s11-in-f10.1e100.net.https > 192.168.1.10.50923: Flags [P.], seq 8113:8139, ack 4221, win 205, options [nop,nop,TS val 16951506 ecr 2811694], length 26
+20:19:06.607653 IP 192.168

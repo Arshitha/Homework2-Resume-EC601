@@ -1,0 +1,26 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on wlan0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:16:45.210369 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [S], seq 2117351414, win 14600, options [mss 1460,sackOK,TS val 258395 ecr 0,nop,wscale 8], length 0
+20:16:45.242521 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [S.], seq 4176457383, ack 2117351415, win 42408, options [mss 1360,sackOK,TS val 252178683 ecr 258395,nop,wscale 8], length 0
+20:16:45.247998 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [.], ack 1, win 58, options [nop,nop,TS val 258399 ecr 252178683], length 0
+20:16:45.252356 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [P.], seq 1:217, ack 1, win 58, options [nop,nop,TS val 258400 ecr 252178683], length 216
+20:16:45.284495 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [.], ack 217, win 170, options [nop,nop,TS val 252178725 ecr 258400], length 0
+20:16:45.293803 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [.], seq 1:1349, ack 217, win 170, options [nop,nop,TS val 252178734 ecr 258400], length 1348
+20:16:45.293875 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [.], seq 1349:2697, ack 217, win 170, options [nop,nop,TS val 252178734 ecr 258400], length 1348
+20:16:45.293906 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [P.], seq 2697:2900, ack 217, win 170, options [nop,nop,TS val 252178734 ecr 258400], length 203
+20:16:45.300135 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [.], ack 1349, win 68, options [nop,nop,TS val 258404 ecr 252178734], length 0
+20:16:45.300154 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [.], ack 2697, win 79, options [nop,nop,TS val 258404 ecr 252178734], length 0
+20:16:45.300165 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [.], ack 2900, win 89, options [nop,nop,TS val 258405 ecr 252178734], length 0
+20:16:45.401787 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [P.], seq 217:351, ack 2900, win 89, options [nop,nop,TS val 258414 ecr 252178734], length 134
+20:16:45.434410 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [P.], seq 2900:3187, ack 351, win 175, options [nop,nop,TS val 252178875 ecr 258414], length 287
+20:16:45.439900 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [.], ack 3187, win 100, options [nop,nop,TS val 258418 ecr 252178875], length 0
+20:16:45.439919 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [P.], seq 351:692, ack 3187, win 100, options [nop,nop,TS val 258419 ecr 252178875], length 341
+20:16:45.481701 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [P.], seq 3187:3864, ack 692, win 179, options [nop,nop,TS val 252178922 ecr 258419], length 677
+20:16:45.530697 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [.], ack 3864, win 110, options [nop,nop,TS val 258428 ecr 252178922], length 0
+20:16:45.587461 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [P.], seq 692:1417, ack 3864, win 110, options [nop,nop,TS val 258433 ecr 252178922], length 725
+20:16:45.628591 IP sea15s07-in-f78.1e100.net.https > 192.168.1.10.49342: Flags [P.], seq 3864:4285, ack 1417, win 184, options [nop,nop,TS val 252179069 ecr 258433], length 421
+20:16:45.635318 IP 192.168.1.10.49342 > sea15s07-in-f78.1e100.net.https: Flags [.], ack 4285, win 121, options [nop,nop,TS val 258438 ecr 252179069], length 0
+20:16:56.455196 IP 192.168.1.10.35088 > s3-1.amazonaws.com.www: Flags [S], seq 3089430688, win 14600, options [mss 1460,sackOK,TS val 259520 ecr 0,nop,wscale 8], length 0
+20:16:56.463509 IP s3-1.amazonaws.com.www > 192.168.1.10.35088: Flags [S.], seq 3856785854, ack 3089430689, win 26960, options [mss 1360,sackOK,TS val 3174818308 ecr 259520,nop,wscale 7], length 0
+20:16:56.482574 IP 192.168.1.10.35088 > s3-1.amazonaws.com.www: Flags [.], ack 1, win 58, options [nop,nop,TS val 259522 ecr 3174818308], length 0
+20:16:56.482592 IP 192.168.1.10.35088 > s3-1.amazonaws.com.www: Flags [P.], seq 1:188, ack 1, win 58, options [nop,nop,TS val 259522 ecr 3174818308], length 187: HTTP: GET /dc2-global/
