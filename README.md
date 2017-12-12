@@ -10,7 +10,13 @@ To build a sample web application using bootstrap template and integrating fireb
 Google authentication has been added just as a demo in the last section of the Resume.
 
 ## Testing 
+### Resume Webpage
 Test cases are listed here: https://docs.google.com/spreadsheets/d/14exO64J3PGW9Si2ufvBrapw1r-Ltf3DHhnxSDcoVYdw/edit?usp=sharing
+
+Link to webpage: https://homework2-d7436.firebaseapp.com
+
+### Snoopy App (Automated Tests)
+HW2 UNIT TESTING folder contains results of the AWS automated tests that were run on a borrowed android app named "Snoopy"
 
 
 ## Viewing
