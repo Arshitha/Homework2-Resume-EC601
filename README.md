@@ -9,6 +9,10 @@ Link: https://startbootstrap.com/template-overviews/resume/
 To build a sample web application using bootstrap template and integrating firebase user authentication. 
 Google authentication has been added just as a demo in the last section of the Resume.
 
+## Testing 
+Test cases are listed here: https://docs.google.com/spreadsheets/d/14exO64J3PGW9Si2ufvBrapw1r-Ltf3DHhnxSDcoVYdw/edit?usp=sharing
+
+
 ## Viewing
 Resume page has been deployed using firebase hosting on https://homework2-d7436.firebaseapp.com .
 To view the page locally, download all the files in the repository on your local machine and open the
