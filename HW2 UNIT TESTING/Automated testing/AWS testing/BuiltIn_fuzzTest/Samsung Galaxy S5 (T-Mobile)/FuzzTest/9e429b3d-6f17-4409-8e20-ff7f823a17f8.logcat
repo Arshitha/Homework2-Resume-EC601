@@ -1,0 +1,1374 @@
+--------- beginning of /dev/log/main
+12-13 01:28:40.763  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:40.763  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:40.793  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:40.793  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:40.823  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:40.823  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:40.833   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:40.833   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:40.833   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:40.833   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:40.873  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:40.873  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:40.913  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:40.913  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:40.963  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:40.963  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.013  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.013  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.053  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.053  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.093  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.093  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.093   356 15057 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-13 01:28:41.133  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.133  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.143   717  1218 I EDMNativeHelperService: isScreenCaptureEnabled
+12-13 01:28:41.183  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.183  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.233  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.233  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.283  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.283  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+--------- beginning of /dev/log/system
+12-13 01:28:41.323   717  4391 E PersonaManagerService: Unable to read user list
+12-13 01:28:41.343  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.343  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.393  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.393  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.393  7789  7793 D dalvikvm: GC_CONCURRENT freed 1939K, 36% free 17340K/26744K, paused 2ms+2ms, total 23ms
+12-13 01:28:41.423  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.423  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.453  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.453  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.493  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.493  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.523  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.523  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.563  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.563  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.593  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.593  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.633  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.633  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: 
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: CheckJNI is OFF
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: setted country_code = USA
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: setted countryiso_code = US
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: setted sales_code = TMB
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: readGMSProperty: start
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: readGMSProperty: already setted!!
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: readGMSProperty: end
+12-13 01:28:41.663 15064 15064 D AndroidRuntime: addProductProperty: start
+12-13 01:28:41.673  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.673  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.683 15064 15064 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-13 01:28:41.683 15064 15064 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-13 01:28:41.683 15064 15064 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-13 01:28:41.683 15064 15064 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-13 01:28:41.683 15064 15064 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-13 01:28:41.703  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.703  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.743  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.743  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.773  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.773  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.783 15064 15064 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-13 01:28:41.783 15064 15064 E android.os.Debug: failed to load memtrack module: -2
+12-13 01:28:41.803  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.803  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.813 15064 15064 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 192 unimplemented (abstract) methods
+12-13 01:28:41.833   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:41.833   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:41.833   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:41.833   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:41.843  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.843  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.853 15064 15064 D AndroidRuntime: Calling main entry com.android.commands.monkey.Monkey
+12-13 01:28:41.883  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.883  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.903   717   936 W BroadcastQueue: Skipping deliver [background] BroadcastRecord{43eeb098 u-1 android.net.conn.CONNECTIVITY_CHANGE} to ReceiverList{43eb9f88 15064 (unknown name)/2000/u-1 remote:43eb33d8}: process crashing
+12-13 01:28:41.913  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.913  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.953  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.953  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.983   717  1272 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:41.983   717  1272 V ApplicationPolicy: isApplicationStateBlocked userId 0 pkgname com.example.snoopy
+12-13 01:28:41.983   264   264 I SurfaceFlinger: id=23 createSurf (16x16),-1 flag=20004, EimLayer
+12-13 01:28:41.983   264   264 I SurfaceFlinger: id=24 createSurf (16x16),-1 flag=20004, EimLayer
+12-13 01:28:41.983   717  1272 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  pkgName : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:41.983   717  1272 W ActivityManager: mDVFSHelper.acquire()
+12-13 01:28:41.993  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:41.993  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:41.993   717   935 D StatusBarManagerService: tr p:717,o:f
+12-13 01:28:42.003  1067  1067 D PhoneStatusBar: setTransGradationMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-13 01:28:42.013   264   264 I SurfaceFlinger: id=25 createSurf (1x1),1 flag=404, tnoopy
+12-13 01:28:42.043  1286  1286 D Launcher.HomeView: onPause
+12-13 01:28:42.053   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.053   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.053  1319  1319 D WfcActivityStateReceiver: onReceive(): packageName=com.sec.android.app.launcher, activityState=pause
+12-13 01:28:42.053   717  1048 V SmartFaceService - 3rd party pause: onReceive [android.intent.action.ACTIVITY_STATE/com.sec.android.app.launcher/pause]
+12-13 01:28:42.053   717  1397 D StatusBarManagerService: tr p:1286,o:f
+12-13 01:28:42.063  1067  1067 D PhoneStatusBar: setTransGradationMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-13 01:28:42.083  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.083  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.083 15077 15077 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-13 01:28:42.083 15077 15077 I SELinux :  
+12-13 01:28:42.093   717   935 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-13 01:28:42.093   717   935 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-13 01:28:42.093   717   935 D PointerIcon: setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+12-13 01:28:42.093   717   935 D PointerIcon: setHoveringSpenCustomIcon IconType is same.1
+12-13 01:28:42.113 15077 15077 I SELinux : Function: selinux_android_load_priority , spota verifySig and checkHash pass. priority version is VE=SEPF_SM-G900T_4.4.2_0055
+12-13 01:28:42.113 15077 15077 I SELinux :  
+12-13 01:28:42.113 15077 15077 I SELinux :  
+12-13 01:28:42.113 15077 15077 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts
+12-13 01:28:42.113 15077 15077 E dalvikvm: >>>>> Normal User
+12-13 01:28:42.113 15077 15077 E dalvikvm: >>>>> com.sec.android.widgetapp.activeapplicationwidget [ userId:0 | appId:10174 ]
+12-13 01:28:42.113   717  1000 D InputDispatcher: Waiting for application to become ready for input: xxxx Reason: Waiting because the touched window is paused.
+12-13 01:28:42.113   717  1071 D lights  : button : 1 +
+12-13 01:28:42.123   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.123   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.133 15089 15089 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-13 01:28:42.133 15089 15089 I SELinux :  
+12-13 01:28:42.133   717   961 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationStart:28 com.android.server.am.ActivityStackSupervisor.startSpecificActivityLocked:1424 com.android.server.am.ActivityStack.resumeTopActivityLocked:2349 
+12-13 01:28:42.133   717   961 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationFocusLoss:40 com.android.server.am.ActivityStack.resumeTopActivityLocked:2361 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3313 
+12-13 01:28:42.133   717   961 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationFocusGain:34 com.android.server.am.ActivityStack.resumeTopActivityLocked:2362 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3313 
+12-13 01:28:42.143   717  1000 I Analytics: Analytics()
+12-13 01:28:42.143   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.143   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.143   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:42.143   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:42.143  1286  1286 D AbsListView: unregisterIRListener() is called 
+12-13 01:28:42.153   717  1071 D lights  : button : 1 -
+12-13 01:28:42.153   717  1403 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationStart:28 com.android.server.am.ActivityStackSupervisor.startSpecificActivityLocked:1424 com.android.server.am.ActivityStack.ensureActivitiesVisibleLocked:1656 
+12-13 01:28:42.163 15089 15089 I SELinux : Function: selinux_android_load_priority , spota verifySig and checkHash pass. priority version is VE=SEPF_SM-G900T_4.4.2_0055
+12-13 01:28:42.163 15089 15089 I SELinux :  
+12-13 01:28:42.163 15089 15089 I SELinux :  
+12-13 01:28:42.163 15089 15089 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts
+12-13 01:28:42.163 15089 15089 E dalvikvm: >>>>> Normal User
+12-13 01:28:42.163 15089 15089 E dalvikvm: >>>>> com.example.snoopy [ userId:0 | appId:14037 ]
+12-13 01:28:42.163 15089 15089 D dalvikvm: Late-enabling CheckJNI
+12-13 01:28:42.173  1431  1576 I MicrophoneInputStream: mic_close fib@42a6c070
+12-13 01:28:42.173   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:42.173   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:42.183  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.183  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.183   272 12607 V audio_hw_primary: in_standby: enter
+12-13 01:28:42.183  1286  1286 D Launcher.HomeView: onStop
+12-13 01:28:42.193   717  1402 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:42.193  1286  1286 D SurfaceWidgetConnection: .SurfaceWidgetWeather#1 is being paused by launcher
+12-13 01:28:42.193   717  1402 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: 0
+12-13 01:28:42.193  1608  1622 D SurfaceWidgetClient$ISurfaceWidgetStub: [237392/2] Surface widget pause on instance = 1
+12-13 01:28:42.193   717  1402 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:42.193   717  1402 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: 0
+12-13 01:28:42.193  1608  1623 D SurfaceWidgetClient$ISurfaceWidgetStub: [237392/2] Surface widget visibility changed visibility = false on instance = 1
+12-13 01:28:42.193   717  1402 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=0 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:42.203  1286  1286 D AbsListView: onVisibilityChanged() is called, visibility : 4
+12-13 01:28:42.203  1286  1286 D AbsListView: unregisterIRListener() is called 
+12-13 01:28:42.203  1286  1286 D Launcher: onTrimMemory. Level: 20
+12-13 01:28:42.203  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:216 [0:0] [SWW] onPause : instance = 1
+12-13 01:28:42.203  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:231 [0:0] onPause : size = 0
+12-13 01:28:42.203  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:476 [0:0]  unRegisterTTReceiver !! 
+12-13 01:28:42.213  1286  1286 D SurfaceWidgetView: destroyHardwareResources():1146939200
+12-13 01:28:42.223   717   953 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:42.223   717   953 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-13 01:28:42.233   272 12607 V audio_hw_primary: stop_input_stream: enter: usecase(7: audio-record)
+12-13 01:28:42.233   272 12607 V audio_hw_primary: disable_audio_route: enter: usecase(7)
+12-13 01:28:42.233   272 12607 V audio_hw_primary: disable_audio_route: reset mixer path: audio-record
+12-13 01:28:42.233   272 12607 D audio_route: ++++ audio_route_update_mixer ==============
+12-13 01:28:42.233   272 12607 D audio_route: Setting mixer control: MultiMedia1 Mixer SLIM_0_TX, value: 0
+12-13 01:28:42.233   272 12607 D audio_route: ------ audio_route_update_mixer ==============
+12-13 01:28:42.233   272 12607 V audio_hw_primary: disable_audio_route: exit
+12-13 01:28:42.233   272 12607 V audio_hw_primary: disable_snd_device: snd_device(121: vr-main-mic)
+12-13 01:28:42.233   272 12607 D audio_route: ++++ audio_route_update_mixer ==============
+12-13 01:28:42.233   272 12607 D audio_route: Setting mixer control: DEC2 Volume, value: 0
+12-13 01:28:42.233   272 12607 D audio_route: Setting mixer control: SLIM TX7 MUX, value: 0
+12-13 01:28:42.233   272 12607 D audio_route: Setting mixer control: AIF1_CAP Mixer SLIM TX7, value: 0
+12-13 01:28:42.233   272 12607 D audio_route: Setting mixer control: DEC2 MUX, value: 0
+12-13 01:28:42.243   272 12607 D audio_route: ------ audio_route_update_mixer ==============
+12-13 01:28:42.243   272 12607 V audio_hw_primary: stop_input_stream: exit: status(0)
+12-13 01:28:42.243   272 12607 V audio_hw_primary: in_standby: exit:  status(0)
+12-13 01:28:42.243   717  1000 I InputDispatcher: Dropping event because there is no touchable window at (1023, 223).
+12-13 01:28:42.243   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.243   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.243   272   856 V AudioPolicyManagerBase: stopInput() input 20
+12-13 01:28:42.243   717   744 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.243   717  1400 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.253   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.253   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.253   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.253   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.253  1319  1319 D WfcActivityStateReceiver: onReceive(): packageName=com.example.snoopy, activityState=create
+12-13 01:28:42.253   272   846 V AudioPolicyManagerBase: releaseInput() 20
+12-13 01:28:42.253  1608  1608 D accuweather: [KK AccuPhone]>>> WR:125 [0:0] onPause
+12-13 01:28:42.253  1608  1608 D accuweather: [KK AccuPhone]>>> SM:415 [0:0] onPause
+12-13 01:28:42.253  1431  1577 I HotwordRecognitionRnr: Stopping hotword detection.
+12-13 01:28:42.253  1431 12606 I HotwordRecognitionRnr: Hotword detection finished
+12-13 01:28:42.253   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.253   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.253   717  1048 V SmartFaceService - 3rd party pause: onReceive [android.intent.action.ACTIVITY_STATE/com.example.snoopy/create]
+12-13 01:28:42.263   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.263   272   846 V audio_hw_primary: adev_close_input_stream
+12-13 01:28:42.263   272   846 V audio_hw_primary: in_standby: enter
+12-13 01:28:42.263   272   846 V audio_hw_primary: in_standby: exit:  status(0)
+12-13 01:28:42.263   272   846 V AudioPolicyManagerBase: releaseInput() exit
+12-13 01:28:42.263   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.273 15077 15077 V TaskCloserActivity: TaskCloserActivity enter()
+12-13 01:28:42.273 15077 15077 V TaskCloserActivity: TaskCloserActivity onReceive() - com.sec.android.intent.action.HOME_PAUSE
+12-13 01:28:42.273   717  1403 I ActivityManager: Killing 14365:com.sec.factory/1000 (adj 15): empty #31
+12-13 01:28:42.273  1286  1286 D skia    : GFXPNG PNG bitmap created width:96 height:96 bitmap id is 559 
+12-13 01:28:42.283 15089 15089 I dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.zzo.zzx
+12-13 01:28:42.283 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 525: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+12-13 01:28:42.283 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0013
+12-13 01:28:42.293 15089 15089 I dalvikvm: Could not find method android.content.Context.getNoBackupFilesDir, referenced from method com.google.android.gms.common.util.zzu.getNoBackupFilesDir
+12-13 01:28:42.293 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 391: Landroid/content/Context;.getNoBackupFilesDir ()Ljava/io/File;
+12-13 01:28:42.293 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-13 01:28:42.293 15089 15105 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-13 01:28:42.303   717  1000 I InputDispatcher: Dropping event because there is no touchable window at (268, 1864).
+12-13 01:28:42.303 15089 15105 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbec.zzalq
+12-13 01:28:42.303 15089 15105 W dalvikvm: VFY: unable to resolve virtual method 532: Landroid/content/pm/PackageManager;.isInstantApp (Ljava/lang/String;)Z
+12-13 01:28:42.303 15089 15105 D dalvikvm: VFY: replacing opcode 0x6e at 0x002d
+12-13 01:28:42.303   717   743 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.303  1286  1286 D SurfaceWidgetView: destroyHardwareResources():1146939200
+12-13 01:28:42.313 15089 15089 D FirebaseApp: com.google.firebase.crash.FirebaseCrash is not linked. Skipping initialization.
+12-13 01:28:42.313   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.313   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.313   717   744 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.313   717  1397 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.313   717   961 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.313   717  1400 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.323 15089 15089 I FA      : App measurement is starting up, version: 11400
+12-13 01:28:42.323 15089 15089 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-13 01:28:42.323   717  1888 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.323   717  7178 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.323   717  1402 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.333   717   744 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.353 15089 15089 I PersonaManager: getPersonaService() name persona_policy
+12-13 01:28:42.353 15089 15089 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbeb.zzcp
+12-13 01:28:42.353 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 531: Landroid/content/pm/PackageManager;.isInstantApp ()Z
+12-13 01:28:42.353 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0028
+12-13 01:28:42.363 15089 15089 I FA      : To enable faster debug mode event logging run:
+12-13 01:28:42.363 15089 15089 I FA      :   adb shell setprop debug.firebase.analytics.app com.example.snoopy
+12-13 01:28:42.363  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.363  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.363 15089 15105 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-13 01:28:42.363 15089 15089 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzazv
+12-13 01:28:42.363 15089 15089 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-13 01:28:42.363 15089 15089 D dalvikvm: VFY: replacing opcode 0x1f at 0x000b
+12-13 01:28:42.363 15089 15089 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzs
+12-13 01:28:42.363 15089 15089 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-13 01:28:42.363 15089 15089 D dalvikvm: VFY: replacing opcode 0x1f at 0x0098
+12-13 01:28:42.363 15089 15089 D dalvikvm: DexOpt: unable to opt direct call 0x0142 at 0xa0 in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-13 01:28:42.363 15089 15089 D dalvikvm: DexOpt: unable to opt direct call 0x0597 at 0xae in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-13 01:28:42.373 15089 15089 I FirebaseInitProvider: FirebaseApp initialization successful
+12-13 01:28:42.373 15089 15110 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-13 01:28:42.373 15089 15110 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-13 01:28:42.373 15089 15110 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-13 01:28:42.373 15089 15110 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-13 01:28:42.373 15089 15110 I dalvikvm: Could not find method android.app.job.JobParameters.getExtras, referenced from method com.google.android.gms.internal.zzcfh.onStartJob
+12-13 01:28:42.373 15089 15110 W dalvikvm: VFY: unable to resolve virtual method 327: Landroid/app/job/JobParameters;.getExtras ()Landroid/os/PersistableBundle;
+12-13 01:28:42.373 15089 15110 D dalvikvm: VFY: replacing opcode 0x6e at 0x000a
+12-13 01:28:42.383   717  1000 I InputDispatcher: Dropping event because there is no touchable window at (531, 1041).
+12-13 01:28:42.383   717  4391 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.393   717  1284 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.393   717  1218 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.403 15089 15089 I dalvikvm: Could not find method android.view.Window$Callback.onProvideKeyboardShortcuts, referenced from method android.support.v7.view.WindowCallbackWrapper.onProvideKeyboardShortcuts
+12-13 01:28:42.413 15089 15089 W dalvikvm: VFY: unable to resolve interface method 17293: Landroid/view/Window$Callback;.onProvideKeyboardShortcuts (Ljava/util/List;Landroid/view/Menu;I)V
+12-13 01:28:42.413 15089 15089 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-13 01:28:42.413 15089 15089 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/view/SearchEvent;)
+12-13 01:28:42.413 15089 15089 I dalvikvm: Could not find method android.view.Window$Callback.onSearchRequested, referenced from method android.support.v7.view.WindowCallbackWrapper.onSearchRequested
+12-13 01:28:42.413 15089 15089 W dalvikvm: VFY: unable to resolve interface method 17295: Landroid/view/Window$Callback;.onSearchRequested (Landroid/view/SearchEvent;)Z
+12-13 01:28:42.413 15089 15089 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-13 01:28:42.413 15089 15089 I dalvikvm: Could not find method android.view.Window$Callback.onWindowStartingActionMode, referenced from method android.support.v7.view.WindowCallbackWrapper.onWindowStartingActionMode
+12-13 01:28:42.413 15089 15089 W dalvikvm: VFY: unable to resolve interface method 17299: Landroid/view/Window$Callback;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-13 01:28:42.413 15089 15089 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-13 01:28:42.413 15089 15089 I dalvikvm: Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.widget.TintTypedArray.getChangingConfigurations
+12-13 01:28:42.413 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 610: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+12-13 01:28:42.413 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-13 01:28:42.413 15089 15089 I dalvikvm: Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.widget.TintTypedArray.getType
+12-13 01:28:42.413 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 632: Landroid/content/res/TypedArray;.getType (I)I
+12-13 01:28:42.413 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0008
+12-13 01:28:42.423 15089 15089 I PersonaManager: getPersonaService() name persona_policy
+12-13 01:28:42.443  1067  1067 D PhoneStatusBar: setTransGradationMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-13 01:28:42.443   717  1000 I InputDispatcher: Dropping event because there is no touchable window at (1072, 1792).
+12-13 01:28:42.443   717  1235 D StatusBarManagerService: tr p:15089,o:f
+12-13 01:28:42.443   717   744 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.443   717  4391 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.453   717  1272 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.463  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.463  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.473  7789  7793 D dalvikvm: GC_CONCURRENT freed 1952K, 36% free 17339K/26744K, paused 11ms+1ms, total 46ms
+12-13 01:28:42.473 15089 15089 I dalvikvm: Could not find method android.widget.FrameLayout.startActionModeForChild, referenced from method android.support.v7.widget.ActionBarContainer.startActionModeForChild
+12-13 01:28:42.473 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 17735: Landroid/widget/FrameLayout;.startActionModeForChild (Landroid/view/View;Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-13 01:28:42.473 15089 15089 D dalvikvm: VFY: replacing opcode 0x6f at 0x0002
+12-13 01:28:42.493 15089 15089 I dalvikvm: Could not find method android.content.Context.getColorStateList, referenced from method android.support.v7.content.res.AppCompatResources.getColorStateList
+12-13 01:28:42.493 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 380: Landroid/content/Context;.getColorStateList (I)Landroid/content/res/ColorStateList;
+12-13 01:28:42.493 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-13 01:28:42.493 15089 15089 I dalvikvm: Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawable
+12-13 01:28:42.493 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 573: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-13 01:28:42.493 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-13 01:28:42.493 15089 15089 I dalvikvm: Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawableForDensity
+12-13 01:28:42.493 15089 15089 W dalvikvm: VFY: unable to resolve virtual method 575: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-13 01:28:42.493 15089 15089 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-13 01:28:42.493 15089 15089 D skia    : GFXPNG PNG bitmap created width:42 height:126 bitmap id is 270 
+12-13 01:28:42.503 15089 15089 D skia    : GFXPNG PNG bitmap created width:18 height:18 bitmap id is 271 
+12-13 01:28:42.503 15089 15089 D skia    : GFXPNG PNG bitmap created width:18 height:18 bitmap id is 272 
+12-13 01:28:42.503 15089 15089 D skia    : GFXPNG PNG bitmap created width:18 height:18 bitmap id is 273 
+12-13 01:28:42.503  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.503  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.503 15089 15089 E dalvikvm: Could not find class 'android.graphics.drawable.RippleDrawable', referenced from method android.support.v7.widget.AppCompatImageHelper.hasOverlappingRendering
+12-13 01:28:42.503 15089 15089 W dalvikvm: VFY: unable to resolve instanceof 173 (Landroid/graphics/drawable/RippleDrawable;) in Landroid/support/v7/widget/AppCompatImageHelper;
+12-13 01:28:42.503 15089 15089 D dalvikvm: VFY: replacing opcode 0x20 at 0x000c
+12-13 01:28:42.513   717  1000 I InputDispatcher: Dropping event because there is no touchable window at (865, 1721).
+12-13 01:28:42.513 15089 15089 D skia    : GFXPNG PNG bitmap created width:72 height:72 bitmap id is 274 
+12-13 01:28:42.513   717  1235 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.523   717  1235 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.533 15089 15089 D skia    : GFXPNG PNG bitmap created width:38 height:33 bitmap id is 275 
+12-13 01:28:42.533 15089 15089 D skia    : GFXPNG PNG bitmap created width:38 height:33 bitmap id is 276 
+12-13 01:28:42.553  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.553  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.563   264 12589 I SurfaceFlinger: id=8 Removed Mauncher (7/12)
+12-13 01:28:42.563   264 12589 I SurfaceFlinger: id=8 Removed Mauncher (-2/12)
+12-13 01:28:42.563   717   961 D StatusBarManagerService: semi p:15089,o:f
+12-13 01:28:42.573  1067  1067 D PhoneStatusBar: setSemiTransparentMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-13 01:28:42.573   717  1000 I InputDispatcher: Dropping event because there is no touchable window at (43, 1574).
+12-13 01:28:42.573   717  1819 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.573   717  1272 W InputManager: Input event injection from pid 15064 failed.
+12-13 01:28:42.613  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.613  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.613   264   264 I SurfaceFlinger: id=26 createSurf (1x1),1 flag=404, NainActivit
+12-13 01:28:42.613   717  1819 I SpenGestureManager: setFocusWindow21010
+12-13 01:28:42.623   717   935 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-13 01:28:42.623   717   935 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-13 01:28:42.623   717   935 D PointerIcon: setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+12-13 01:28:42.623   717   935 D PointerIcon: setHoveringSpenCustomIcon IconType is same.1
+12-13 01:28:42.623 15089 15089 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+12-13 01:28:42.623 15089 15089 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.08
+12-13 01:28:42.623 15089 15089 I Adreno-EGL: Build Date: 02/20/14 Thu
+12-13 01:28:42.623 15089 15089 I Adreno-EGL: Local Branch: AU200_patches_ms_memleak_libsc_profiler
+12-13 01:28:42.623 15089 15089 I Adreno-EGL: Remote Branch: 
+12-13 01:28:42.623 15089 15089 I Adreno-EGL: Local Patches: 
+12-13 01:28:42.623 15089 15089 I Adreno-EGL: Reconstruct Branch: 
+12-13 01:28:42.623   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.623   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.623   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:42.623   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:42.643   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.643   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.653  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.653  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.663 15089 15089 D OpenGLRenderer: Enabling debug mode 0
+12-13 01:28:42.673   717  1403 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:42.683   717  1403 D CustomFrequencyManagerService: releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  tag : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:42.683   717  1403 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  pkgName : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:42.683   717  1403 W ActivityManager: mDVFSHelper.acquire()
+12-13 01:28:42.683   717 15113 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1491 com.android.server.InputMethodManagerService$4.run:2827 java.lang.Thread.run:841 <bottom of call stack> <bottom of call stack> 
+12-13 01:28:42.713  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.713  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.733   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.733   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.733   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:42.733   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:42.763  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.763  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.763   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.773   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.783   717   936 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  pkgName : ACTIVITY_RESUME_BOOSTER@9
+12-13 01:28:42.783   717   935 D CustomFrequencyManagerService: releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  tag : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:42.783   717   935 D CustomFrequencyManagerService: FrequencyrequestList.getNextMaxCPUCoreRequest, index: 0
+12-13 01:28:42.783   717   935 W ActivityManager: mDVFSHelper.release()
+12-13 01:28:42.793   717  1397 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:42.793   717  1397 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  pkgName : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:42.793   717  1397 W ActivityManager: mDVFSHelper.acquire()
+12-13 01:28:42.803  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.803  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.803   257   257 E SMD     : DCD ON
+12-13 01:28:42.843   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.843   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.843   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:42.843   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:42.843  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.843  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.853   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.853   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.853   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:42.853   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:42.883  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.883  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.903   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.903   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.903   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:42.913   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:42.923  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.923  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.963   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.963   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:42.963   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:42.963   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:42.963  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:42.963  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:42.983   264  1007 I SurfaceFlinger: id=25 Removed tnoopy (10/12)
+12-13 01:28:42.983   264   469 I SurfaceFlinger: id=25 Removed tnoopy (-2/12)
+12-13 01:28:43.013   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.023   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.023   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.023   264   264 I SurfaceFlinger: id=27 createSurf (1x1),1 flag=4, Uoast
+12-13 01:28:43.023   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.023  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.023  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.033   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.033   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.033   717  1402 D PowerManagerService: [api] acquire WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=717
+12-13 01:28:43.063  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.063  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.073   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.073   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.073   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.073   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.073   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.073   717  1218 I NotificationService: cancelToast pkg=com.example.snoopy callback=android.app.ITransientNotification$Stub$Proxy@432db7d0
+12-13 01:28:43.083   717   717 D CustomFrequencyManagerService: releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  tag : ACTIVITY_RESUME_BOOSTER@9
+12-13 01:28:43.083   717   717 D CustomFrequencyManagerService: FrequencyrequestList.getNextMaxCPUCoreRequest, index: 0
+12-13 01:28:43.093   717   744 D PowerManagerService: [api] [s] userActivity : event: 0 flags: 0 (uid: 1000 pid: 717)
+12-13 01:28:43.093   717   744 D PowerManagerService: [api] release WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=717 (0x0)
+12-13 01:28:43.093   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.093   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.093   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.093   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.093   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.093   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.093   264   264 I SurfaceFlinger: id=28 createSurf (1x1),1 flag=4, Uoast
+12-13 01:28:43.093   717   744 D PowerManagerService: [api] applyWakeLockFlagsOnReleaseLocked : userActivityNoUpdateLocked is called : SCREEN_BRIGHT_WAKE_LOCK        'WindowManager' ON_AFTER_RELEASE (uid=1000, pid=717, ws=WorkSource{14037}) (elapsedTime=60)
+12-13 01:28:43.103   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.103   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.103  1501  1501 I SamsungIME: getCurrentKeyboard
+12-13 01:28:43.103  1501  1501 I SamsungIME: getTextKeyboard
+12-13 01:28:43.103   717  1285 D PowerManagerService: [api] acquire WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=717
+12-13 01:28:43.123   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.123   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.123   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.123   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.123   717  1397 I NotificationService: cancelToast pkg=com.example.snoopy callback=android.app.ITransientNotification$Stub$Proxy@44269a38
+12-13 01:28:43.133   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.133   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.133  1501  1501 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-13 01:28:43.143   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.143  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.143  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.143   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.143   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.143  1501  1501 D SamsungIME: onStartInputView
+12-13 01:28:43.143   717  7178 D PowerManagerService: [api] [s] userActivity : event: 0 flags: 0 (uid: 1000 pid: 717)
+12-13 01:28:43.143   717  7178 D PowerManagerService: [api] release WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=717 (0x0)
+12-13 01:28:43.143   717  7178 D PowerManagerService: [api] applyWakeLockFlagsOnReleaseLocked : userActivityNoUpdateLocked is called : SCREEN_BRIGHT_WAKE_LOCK        'WindowManager' ON_AFTER_RELEASE (uid=1000, pid=717, ws=WorkSource{14037}) (elapsedTime=44)
+12-13 01:28:43.153   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.153   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.153   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.153   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.173  1501  1501 I SamsungIME: Update SetupWizard State usc : 1 pss : false
+12-13 01:28:43.173  1501  1501 I SamsungIME: getCurrentCandidateView
+12-13 01:28:43.173  1501  1501 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1491 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9297 com.diotek.ime.framework.common.InputManagerImpl.initDefaultLanguage:4874 com.diotek.ime.framework.common.InputManagerImpl.initSelectedLanguage:5116 
+12-13 01:28:43.193   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.193   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.193   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.193   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.223  1501  1501 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1491 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9297 com.diotek.ime.framework.common.InputManagerImpl.setLanguage:5447 com.diotek.ime.framework.common.InputManagerImpl.startInputViewContinue:3336 
+12-13 01:28:43.233  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.233  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.233  1501  1501 I SamsungIME: getDebugLevel  : 0x4f4c
+12-13 01:28:43.243  1501  1501 I SamsungIME: getDebugLevel  : 0x4f4c
+12-13 01:28:43.253   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.253   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.253   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.253   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.263  1501  1501 I SamsungIME: KeybaordView init() : load resources
+12-13 01:28:43.283  1501  1501 I SamsungIME: getCurrentKeyboard
+12-13 01:28:43.283  1501  1501 I SamsungIME: getTextKeyboard
+12-13 01:28:43.293  1501  1501 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-13 01:28:43.293  1501  1501 I SamsungIME: getCurrentKeyboard
+12-13 01:28:43.293  1501  1501 I SamsungIME: getTextKeyboard
+12-13 01:28:43.293  1501  1501 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-13 01:28:43.303  1501  1501 D SamsungIME: startInputViewContinue : true true
+12-13 01:28:43.303  1501  1501 D SamsungIME: conditions for show dialog : true true false false
+12-13 01:28:43.303  1501  1501 D SamsungIME: showDlgMsgBox : true true true
+12-13 01:28:43.303  1501  1501 D SamsungIME: showDlgMsgBox inner condition : true true
+12-13 01:28:43.303  1501  1501 I SamsungIME: [IMI] startInputView - caller pid : 15089, caller uid : 14037
+12-13 01:28:43.303  1501  1501 D SamsungIME: onWindowShown
+12-13 01:28:43.303  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.303  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.313   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.313   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.313   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.313   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.313  1501  1501 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1491 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:542 android.inputmethodservice.InputMethodService.showWindow:2225 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:719 
+12-13 01:28:43.313   717  2645 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-13 01:28:43.313   717  2645 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-13 01:28:43.323  1785  1785 I MultiUserPreferences: commit
+12-13 01:28:43.333   717   717 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.StatusBarManagerService.sendNotification:985 com.android.server.StatusBarManagerService.addNotification:674 com.android.server.NotificationManagerService$7.run:2142 android.os.Handler.handleCallback:733 
+12-13 01:28:43.333  1067  1067 D skia    : GFXPNG PNG bitmap created width:72 height:72 bitmap id is 437 
+12-13 01:28:43.333   717   717 D NotificationService: Sending broadcast with sbn as extra = StatusBarNotification(pkg=android user=UserHandle{-1} id=17041265 tag=null score=0: Notification(pri=0 icon=108053a contentView=android/0x109007f vibrate=null sound=null defaults=0x0 flags=0x1002 when=0 ledARGB=0x0 contentIntent=Y deleteIntent=N contentTitle=19 contentText=16 tickerText=N kind=[android.system.imeswitcher]))
+12-13 01:28:43.333  1067  1067 I PersonaManager: getPersonaService() name persona_policy
+12-13 01:28:43.333   717   717 D STATUSBAR-StatusBarManagerService: sendNotification(1) - 17041265
+12-13 01:28:43.333   717   717 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.NotificationManagerService$7.run:2172 android.os.Handler.handleCallback:733 android.os.Handler.dispatchMessage:95 android.os.Looper.loop:136 
+12-13 01:28:43.343   717   717 D RCPManagerService: NotificationReceiver onReceive()
+12-13 01:28:43.343   717   717 D RCPManagerService:  NotificationReceiver sbn.getPackageName() android sbn.getUser().getIdentifier() -1
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.343   717   717 D RCPManagerService: getPolicy: Policy checking block entered for Notifications; for user/persona = -1 ; Policy = knox-sanitize-data ; token = 4294967296717
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.343   717   717 D RCPManagerService: getPolicy: policy value returned = false
+12-13 01:28:43.343   717   717 D RCPManagerService: going to get the app label for pkg == android
+12-13 01:28:43.343   717   717 D RCPManagerService: app label == android
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.343   717   717 D RCPManagerService: getPolicy: Policy checking block entered for Notifications; for user/persona = -1 ; Policy = knox-export-data ; token = 4294967296717
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.343   717   717 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.343   717   717 D RCPManagerService: getPolicy: policy value returned = true
+12-13 01:28:43.343  1067  1067 D ProgressBar: setProgressDrawable drawableHeight = 18
+12-13 01:28:43.343   717   717 D RCPManagerService: Calling User is -1
+12-13 01:28:43.343   717   717 D UserManagerService: User -1does not exists!!
+12-13 01:28:43.353   717   717 D RCPManagerService: userid of SBN ==-1
+12-13 01:28:43.353  1067  1067 D skia    : GFXPNG PNG bitmap created width:72 height:72 bitmap id is 438 
+12-13 01:28:43.353   717   717 E PersonaManagerService: Unable to read user list
+12-13 01:28:43.353   717   717 E PersonaManagerService: returning null in  getPersonasForUser
+12-13 01:28:43.353  1067  1067 D PhoneStatusBar: tick(): knoxCustomManager = android.app.enterprise.knoxcustom.KnoxCustomManager@4299fe68
+12-13 01:28:43.363   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.363   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.363   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.373  1501  1501 E SamsungIME: AbstractCandidateLayout-setCandidates suggestions count : 9
+12-13 01:28:43.373   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.383  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.383  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.383  1501  1501 D skia    : GFXPNG PNG bitmap created width:18 height:104 bitmap id is 297 
+12-13 01:28:43.393  1501  1501 D SamsungIME: Magnification Enabled = false
+12-13 01:28:43.413   264   264 I SurfaceFlinger: id=29 createSurf (1x1),1 flag=4, JnputMethod
+12-13 01:28:43.433  1501  1501 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+12-13 01:28:43.433  1501  1501 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.08
+12-13 01:28:43.433  1501  1501 I Adreno-EGL: Build Date: 02/20/14 Thu
+12-13 01:28:43.433  1501  1501 I Adreno-EGL: Local Branch: AU200_patches_ms_memleak_libsc_profiler
+12-13 01:28:43.433  1501  1501 I Adreno-EGL: Remote Branch: 
+12-13 01:28:43.433  1501  1501 I Adreno-EGL: Local Patches: 
+12-13 01:28:43.433  1501  1501 I Adreno-EGL: Reconstruct Branch: 
+12-13 01:28:43.433   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.433   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.433   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.433   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.443  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.443  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.473  1501  1501 D OpenGLRenderer: Enabling debug mode 0
+12-13 01:28:43.493   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.493   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.493   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.493   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.523  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.523  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.533  1785  1785 I MultiUserPreferences: commit
+12-13 01:28:43.553   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.553   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.553   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.553   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.563  1501  1501 D dalvikvm: GC_FOR_ALLOC freed 3165K, 24% free 20351K/26744K, paused 52ms, total 52ms
+12-13 01:28:43.583  1501  1501 I SamsungIME: drawAllKey
+12-13 01:28:43.583  1501  1501 D skia    : GFXPNG PNG bitmap created width:60 height:75 bitmap id is 298 
+12-13 01:28:43.593  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.593  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.613   717  7178 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:43.613   717  7178 D CustomFrequencyManagerService: releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  tag : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:43.613   717  7178 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  pkgName : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:43.613   717  7178 W ActivityManager: mDVFSHelper.acquire()
+12-13 01:28:43.633   264 12589 I SurfaceFlinger: id=27 Removed Uoast (13/14)
+12-13 01:28:43.633   264   469 I SurfaceFlinger: id=27 Removed Uoast (-2/14)
+12-13 01:28:43.643  1501  1501 D skia    : GFXPNG PNG bitmap created width:128 height:112 bitmap id is 299 
+12-13 01:28:43.643  1501  1501 D skia    : GFXPNG PNG bitmap created width:128 height:112 bitmap id is 300 
+12-13 01:28:43.653  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.653  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.663   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.663   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.663   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.663   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.663   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.673   264  1483 I SurfaceFlinger: id=28 Removed Uoast (13/13)
+12-13 01:28:43.673   264   465 I SurfaceFlinger: id=28 Removed Uoast (-2/13)
+12-13 01:28:43.673  7789  7793 D dalvikvm: GC_CONCURRENT freed 1971K, 36% free 17333K/26744K, paused 1ms+3ms, total 32ms
+12-13 01:28:43.683  1501  1501 D skia    : GFXPNG PNG bitmap created width:89 height:112 bitmap id is 301 
+12-13 01:28:43.683  1501  1501 D skia    : GFXPNG PNG bitmap created width:89 height:112 bitmap id is 302 
+12-13 01:28:43.693  1501  1501 D skia    : GFXPNG PNG bitmap created width:76 height:43 bitmap id is 303 
+12-13 01:28:43.703  1501  1501 D skia    : GFXPNG PNG bitmap created width:76 height:43 bitmap id is 304 
+12-13 01:28:43.703   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.703  1501  1501 D skia    : GFXPNG PNG bitmap created width:76 height:43 bitmap id is 305 
+12-13 01:28:43.703  1501  1501 D skia    : GFXPNG PNG bitmap created width:76 height:43 bitmap id is 306 
+12-13 01:28:43.703  1501  1501 D skia    : GFXPNG PNG bitmap created width:50 height:28 bitmap id is 307 
+12-13 01:28:43.713  1501  1501 D skia    : GFXPNG PNG bitmap created width:54 height:36 bitmap id is 308 
+12-13 01:28:43.713  1501  1501 D skia    : GFXPNG PNG bitmap created width:54 height:36 bitmap id is 309 
+12-13 01:28:43.723  1501  1501 D skia    : GFXPNG PNG bitmap created width:54 height:36 bitmap id is 310 
+12-13 01:28:43.723  1501  1501 D skia    : GFXPNG PNG bitmap created width:54 height:36 bitmap id is 311 
+12-13 01:28:43.723  1501  1501 D skia    : GFXPNG PNG bitmap created width:88 height:136 bitmap id is 312 
+12-13 01:28:43.723  1501  1501 D skia    : GFXPNG PNG bitmap created width:88 height:136 bitmap id is 313 
+12-13 01:28:43.723  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.723  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.733  1501  1501 D skia    : GFXPNG PNG bitmap created width:495 height:112 bitmap id is 314 
+12-13 01:28:43.733  1501  1501 D skia    : GFXPNG PNG bitmap created width:495 height:112 bitmap id is 315 
+12-13 01:28:43.743  1501  1692 V Vibrator: vibrateImmVibe - PUID: 1000, PackageName: com.sec.android.inputmethod, pattern, magType: TouchMagnitude
+12-13 01:28:43.743   717  1888 V VibratorService: vibrateImmVibePatternMagnitudeType - magnitudeType: TouchMagnitude
+12-13 01:28:43.743   717  1888 D VibratorService: ImmVibe vibratorOff()
+12-13 01:28:43.743   717  1888 V VibratorService: vibrateImmVibePattern - package: com.sec.android.inputmethod, magnitude: 6000
+12-13 01:28:43.743  1501  1501 E SamsungIME: SwiftkeyWrapper-inputKey
+12-13 01:28:43.743  1501  1501 D SamsungIME: [AbstractSwiftkeyManager-getMostLikelyCharacter]
+12-13 01:28:43.753   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.753   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.753   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.753   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.763  1501  1692 V Vibrator: vibrateImmVibe - PUID: 1000, PackageName: com.sec.android.inputmethod, pattern, magType: TouchMagnitude
+12-13 01:28:43.763  1501  1501 E SamsungIME: SwiftkeyWrapper-inputKey
+12-13 01:28:43.763  1501  1501 D SamsungIME: SwiftkeyWrapper-checkCurrentSequence : use IC
+12-13 01:28:43.763   717  7178 V VibratorService: vibrateImmVibePatternMagnitudeType - magnitudeType: TouchMagnitude
+12-13 01:28:43.763   717  7178 D VibratorService: ImmVibe vibratorOff()
+12-13 01:28:43.763   717  7178 V VibratorService: vibrateImmVibePattern - package: com.sec.android.inputmethod, magnitude: 6000
+12-13 01:28:43.773  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.773  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.803  1501  1501 E SamsungIME: AbstractCandidateLayout-setCandidates suggestions count : 9
+12-13 01:28:43.803   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.803   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.803   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.813   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.833  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.833  1067  1067 D STATUSBAR-IconMerger: checkOverflow(144), More:true, Req:true Child:6
+12-13 01:28:43.843  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.843   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.843   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.843   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:43.843   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:43.863   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.863   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.863   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.863   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.883  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.883  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.893  1501  1501 D SamsungIME: SwiftKey guide popup condition 1 : true true
+12-13 01:28:43.893  1501  1501 I SamsungIME: Update SetupWizard State usc : 1 pss : false
+12-13 01:28:43.893  1501  1501 E SamsungIME: SwiftKey guide popup condition 2 : true true true true true false true true true true
+12-13 01:28:43.923  1501  1501 E SamsungIME: AbstractCandidateLayout-setCandidates suggestions count : 9
+12-13 01:28:43.933   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.933   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.933   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.943   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.963  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:43.963  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:43.993   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.993   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:43.993   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:43.993   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:43.993   717  2645 D SSRMv2:SIOP: SIOP:: AP = 480, PST = 451, Delta = 14
+12-13 01:28:43.993   717  2645 D AmoledAdjustTimer: prevTemp = 275, currTemp = 275, prevStep = 4, currStep = 4
+12-13 01:28:44.053   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:44.053   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:44.053   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:44.053  1501  1501 D SamsungIME: [AbstractSwiftkeyManager-getMostLikelyCharacter]
+12-13 01:28:44.083   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:44.103  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.103  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.113  1501  1692 V Vibrator: vibrateImmVibe - PUID: 1000, PackageName: com.sec.android.inputmethod, pattern, magType: TouchMagnitude
+12-13 01:28:44.113   717  1285 V VibratorService: vibrateImmVibePatternMagnitudeType - magnitudeType: TouchMagnitude
+12-13 01:28:44.123   717  1285 D VibratorService: ImmVibe vibratorOff()
+12-13 01:28:44.123   717  1285 V VibratorService: vibrateImmVibePattern - package: com.sec.android.inputmethod, magnitude: 6000
+12-13 01:28:44.123  1501  1501 E SamsungIME: SwiftkeyWrapper-inputKey
+12-13 01:28:44.133   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:44.133   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:44.133   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:44.133   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:44.173   717  1819 I SpenGestureManager: setFocusWindow0
+12-13 01:28:44.173   717   935 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-13 01:28:44.173   717   935 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-13 01:28:44.173   717   935 D PointerIcon: setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+12-13 01:28:44.173   717   935 D PointerIcon: setHoveringSpenCustomIcon IconType is same.1
+12-13 01:28:44.173 15089 15089 D AndroidRuntime: Shutting down VM
+12-13 01:28:44.173 15089 15089 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x41734da0)
+12-13 01:28:44.183   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:44.183   717  1000 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-13 01:28:44.183   717  1000 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: FATAL EXCEPTION: main
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: Process: com.example.snoopy, PID: 15089
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: java.lang.IllegalArgumentException: Given String is empty or null
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at com.google.android.gms.common.internal.zzbp.zzgg(Unknown Source)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at com.google.firebase.auth.FirebaseAuth.createUserWithEmailAndPassword(Unknown Source)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at com.example.snoopy.MainActivity.registerUser(MainActivity.java:84)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at com.example.snoopy.MainActivity.onClick(MainActivity.java:107)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at android.view.View.performClick(View.java:4640)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at android.view.View$PerformClick.run(View.java:19421)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:733)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:136)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5579)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:515)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1268)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1084)
+12-13 01:28:44.183 15089 15089 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+12-13 01:28:44.193   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:44.193   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:44.193  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.193  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.193   717  1000 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-13 01:28:44.193   717   936 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationFocusLoss:40 com.android.server.am.ActivityManagerService$2.handleMessage:2145 android.os.Handler.dispatchMessage:102 
+12-13 01:28:44.203  1501  1692 V Vibrator: vibrateImmVibe - PUID: 1000, PackageName: com.sec.android.inputmethod, pattern, magType: TouchMagnitude
+12-13 01:28:44.203  1501  1501 E SamsungIME: SwiftkeyWrapper-inputKey
+12-13 01:28:44.203   717  1400 V VibratorService: vibrateImmVibePatternMagnitudeType - magnitudeType: TouchMagnitude
+12-13 01:28:44.203   717  1400 D VibratorService: ImmVibe vibratorOff()
+12-13 01:28:44.203   717  1400 V VibratorService: vibrateImmVibePattern - package: com.sec.android.inputmethod, magnitude: 6000
+12-13 01:28:44.203   717  1284 W ActivityManager:   Force finishing activity com.example.snoopy/.MainActivity
+12-13 01:28:44.253   717  1888 W PersonaManager: getPersonaIds()
+12-13 01:28:44.253   717  1888 W PersonaManager: getPersonaIds()
+12-13 01:28:44.263   717  1888 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.263   717  1888 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: 0
+12-13 01:28:44.273   717   953 D WindowManager: updateSetting mIsKidsLauncherEnabled = false isKidsLauncherEnabled = false
+12-13 01:28:44.273   717  1888 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=0 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.273   717  1048 D SmartFaceIndicator: no icon
+12-13 01:28:44.273   717  1048 E SmartFaceService: mActiveServiceType: 0
+12-13 01:28:44.273   717  1048 E SmartFaceService: mScrollEnabled:false mPauseEnabled:false mStayEnabled:false mRotationEnabled:false, (false,false)
+12-13 01:28:44.273   717  1048 E SmartFaceService: mLightIntensityEnough: true mLux: 0.0
+12-13 01:28:44.273   717  1048 D Scroll/Pause Worker: updateClientsDone.
+12-13 01:28:44.273   717  1048 D Stay/Rotation Worker: updateClientsDone. def. do nothing.
+12-13 01:28:44.273   717  1048 E SmartFaceService: Service Type to Worker: 0
+12-13 01:28:44.273   717  1048 E SmartFaceService: Last Active clients:0 Current Active clients: 0
+12-13 01:28:44.273   717  1888 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.273   717  1888 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: 0
+12-13 01:28:44.273   717  1048 E SmartFaceService: Last Smart Pause clients: 0 Current Smart Pause clients: 0
+12-13 01:28:44.283   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.283   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: 0
+12-13 01:28:44.283   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.283   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: 0
+12-13 01:28:44.283   717   953 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=0 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.283   717  1403 W PersonaManager: getPersonaIds()
+12-13 01:28:44.283   717   953 D SContextService: 	.unregisterCallback : 1, client=
+12-13 01:28:44.283   717   953 D SContextService: ===== SContext Service List =====
+12-13 01:28:44.283   717   953 D SContextService: unregisterCallback() : Listener = android.hardware.scontext.SContextService$Listener@439f9830, Service = Auto Rotation, used = 1
+12-13 01:28:44.283   717   953 W CAE     : unregisterCallback(ContextAwareService.java:194) - [unregi 01] Mutex is locked for AUTO_ROTATION
+12-13 01:28:44.283  1067  1067 D skia    : GFXPNG PNG bitmap created width:168 height:168 bitmap id is 439 
+12-13 01:28:44.283   717   953 V CAE     : stop(ContextProvider.java:147)
+12-13 01:28:44.283   717   953 V CAE     : clear(AutoRotationRunner.java:180)
+12-13 01:28:44.293   717   953 V CAE     : disable(AutoRotationRunner.java:169)
+12-13 01:28:44.293   717   953 I CAE     : sendCmdToSensorHub(SensorHubCommManager.java:142) - -78, 7, 0, 0,
+12-13 01:28:44.293   717   953 D SensorHubManager: SendSensorHubData: send data = -78, 7, 0, 0
+12-13 01:28:44.303   717  1048 D SmartFaceIndicator: no icon
+12-13 01:28:44.303   717  1048 E SmartFaceService: mActiveServiceType: 0
+12-13 01:28:44.303   717  1048 E SmartFaceService: mScrollEnabled:false mPauseEnabled:false mStayEnabled:false mRotationEnabled:false, (false,true)
+12-13 01:28:44.303   717  1048 E SmartFaceService: mLightIntensityEnough: true mLux: 0.0
+12-13 01:28:44.303   717  1048 D Scroll/Pause Worker: updateClientsDone.
+12-13 01:28:44.303   717  1048 D Stay/Rotation Worker: updateClientsDone. def. do nothing.
+12-13 01:28:44.303   717  1048 E SmartFaceService: Service Type to Worker: 0
+12-13 01:28:44.303   717  1048 E SmartFaceService: Last Active clients:0 Current Active clients: 0
+12-13 01:28:44.303   277   510 D Sensorhubs: sendContextData: -78, 7, 0, 0
+12-13 01:28:44.303   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:44.303   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:44.303   717  1048 E SmartFaceService: Last Smart Pause clients: 0 Current Smart Pause clients: 0
+12-13 01:28:44.313   717   953 D CAE     : getFaultDetectionResult(AutoRotationRunner.java:193) - true
+12-13 01:28:44.313   717   953 I CAE     : notifyCmdProcessResultObserver(ContextProvider.java:615) - CheckResult = 0, Cause = Success
+12-13 01:28:44.363   717   953 D CAE     : doCommendProcess(ContextAwareService.java:310) - complete notify the operation result.
+12-13 01:28:44.363   717   953 I CAE     : displayUsedCountForService(ContextAwareService.java:399) - totalCnt = 0, serviceCount = 0, subCollectionCount = 0
+12-13 01:28:44.363   717   953 D CAE     : showListenerList(ContextAwareService.java:243) - ===== Context Aware Service List =====
+12-13 01:28:44.363   717   953 W CAE     : unregisterCallback(ContextAwareService.java:231) - [unregi 02] Mutex is unlocked for AUTO_ROTATION
+12-13 01:28:44.363   717   953 D SContextService: removeSContextService() : service = Auto Rotation
+12-13 01:28:44.363   717   953 D SContextManager:   .unregisterListener : listener = com.android.internal.policy.impl.WindowOrientationListener$SContextListenerImpl@43c8a8a0, service=Auto Rotation
+12-13 01:28:44.373   717   953 D WindowManager: updateSetting mIsKidsLauncherEnabled = false isKidsLauncherEnabled = false
+12-13 01:28:44.423   717  1403 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.433   717  1403 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.433   717  1403 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.433   717  1403 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.433   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.433   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.433   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.433   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.433   717  1403 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.433   717   953 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.433   717   936 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationStop:53 com.android.server.am.ActivityManagerService$2.handleMessage:2141 android.os.Handler.dispatchMessage:102 
+12-13 01:28:44.443   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:44.443   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:44.443   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.443   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.443   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.443   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.443   717   953 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.453 15064 15064 I AndroidRuntime: VM exiting with result code 130.
+12-13 01:28:44.463   717   953 D SContextService: 	.registerCallback : 1, client=
+12-13 01:28:44.463   717   953 D SContextService: ===== SContext Service List =====
+12-13 01:28:44.463   717   953 D SContextService: Listener : android.hardware.scontext.SContextService$Listener@43c74718, Service : Auto Rotation
+12-13 01:28:44.463  1319  1319 D WfcActivityStateReceiver: onReceive(): packageName=com.example.snoopy, activityState=pause
+12-13 01:28:44.463   717   953 W CAE     : setCAProperty(ContextAwareService.java:454) - [setProperty 01] Mutex is locked for AUTO_ROTATION
+12-13 01:28:44.463   717   717 D CrashAnrDetector: processName: com.example.snoopy
+12-13 01:28:44.463   717   953 I CAE     : setPropertyValue(AutoRotationRunner.java:117) - Device Type = 0.0
+12-13 01:28:44.463   717   953 I CAE     : setCAProperty(ContextAwareService.java:463) - result : true
+12-13 01:28:44.463   717  1048 V SmartFaceService - 3rd party pause: onReceive [android.intent.action.ACTIVITY_STATE/com.example.snoopy/pause]
+12-13 01:28:44.473   717   953 W CAE     : setCAProperty(ContextAwareService.java:464) - [setProperty 02] Mutex is unlocked for AUTO_ROTATION
+12-13 01:28:44.473   717   953 D SContextService: SendPropertyToCAE() : service = Auto Rotation
+12-13 01:28:44.473  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.473  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.473   717   953 W CAE     : registerCallback(ContextAwareService.java:133) - [regi 01] Mutex is locked for AUTO_ROTATION
+12-13 01:28:44.473   717   717 D CrashAnrDetector: broadcastEvent : com.example.snoopy data_app_crash
+12-13 01:28:44.473   717   953 V CAE     : start(ContextProvider.java:124)
+12-13 01:28:44.473   717   953 V CAE     : clear(AutoRotationRunner.java:180)
+12-13 01:28:44.473   717   953 V CAE     : enable(AutoRotationRunner.java:156)
+12-13 01:28:44.473   717   953 I CAE     : sendCmdToSensorHub(SensorHubCommManager.java:142) - -79, 7, 0, 0,
+12-13 01:28:44.473   717   953 D SensorHubManager: SendSensorHubData: send data = -79, 7, 0, 0
+12-13 01:28:44.473   277   277 D Sensorhubs: sendContextData: -79, 7, 0, 0
+12-13 01:28:44.483   717   953 D CAE     : getFaultDetectionResult(AutoRotationRunner.java:193) - true
+12-13 01:28:44.483   717   953 I CAE     : notifyCmdProcessResultObserver(ContextProvider.java:615) - CheckResult = 0, Cause = Success
+12-13 01:28:44.483   717   717 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.analytics.data.collection.application.CrashAnrDetector.broadcastEvent:296 com.android.server.analytics.data.collection.application.CrashAnrDetector.processDropBoxEntry:254 com.android.server.analytics.data.collection.application.CrashAnrDetector.access$100:60 com.android.server.analytics.data.collection.application.CrashAnrDetector$1.onReceive:102 
+12-13 01:28:44.533 15131 15131 I dumpstate: begin
+12-13 01:28:44.533   717   953 D CAE     : doCommendProcess(ContextAwareService.java:310) - complete notify the operation result.
+12-13 01:28:44.533   717   953 I CAE     : displayUsedCountForService(ContextAwareService.java:399) - totalCnt = 1, serviceCount = 1, subCollectionCount = 0
+12-13 01:28:44.533   717   953 D CAE     : showListenerList(ContextAwareService.java:243) - ===== Context Aware Service List =====
+12-13 01:28:44.533   717   953 I CAE     : showListenerList(ContextAwareService.java:252) - Listener : android.hardware.contextaware.manager.ContextAwareService$Listener@447e3c00, Service : AUTO_ROTATION(1)
+12-13 01:28:44.533   717   953 W CAE     : registerCallback(ContextAwareService.java:171) - [regi 02] Mutex is unlocked for AUTO_ROTATION
+12-13 01:28:44.533   717   953 D SContextService: addSContextService() : service = Auto Rotation
+12-13 01:28:44.533   717   953 D SContextManager:   .registerListener : listener = com.android.internal.policy.impl.WindowOrientationListener$SContextListenerImpl@43c8a8a0, service=Auto Rotation
+12-13 01:28:44.543   717   953 D WindowManager: updateSetting mIsKidsLauncherEnabled = false isKidsLauncherEnabled = false
+12-13 01:28:44.543   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.543   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.543   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.543   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.543   717   953 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.553   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.553   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.553   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.553   717   953 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.553   717   953 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.563  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.563  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.583   717   936 I SpenGestureManager: setFocusWindow0
+12-13 01:28:44.583   717   953 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:44.583   717   935 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-13 01:28:44.583   717   935 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-13 01:28:44.583   717   935 D PointerIcon: setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+12-13 01:28:44.583   717   935 D PointerIcon: setHoveringSpenCustomIcon IconType is same.1
+12-13 01:28:44.583   717   953 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-13 01:28:44.603  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.603  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.603   264   264 I SurfaceFlinger: id=30 createSurf (1x1),1 flag=4, tnoopy
+12-13 01:28:44.633   717  1071 D lights  : button : 0 +
+12-13 01:28:44.653  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.653  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.673   717  1071 D lights  : button : 0 -
+12-13 01:28:44.703  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.703  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.753  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.753  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.793  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.793  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.813   717   936 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.813   717   936 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.813   717   936 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, mbResultFaceDectection: false
+12-13 01:28:44.813   717   936 V WindowOrientationListener: mSContextAutoRotationListener.getProposedRotation, Rotation: -1
+12-13 01:28:44.813   717   936 V WindowManager: rotationForOrientationLw(orient=1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-13 01:28:44.823   717 15130 E android.os.Debug: !@Dumpstate > sdumpstate -k -t -z -d -o /data/log/dumpstate_app_error
+12-13 01:28:44.823  1286  1286 D SurfaceWidgetView: destroyHardwareResources():1146939200
+12-13 01:28:44.833  1286  1286 D Launcher: onRestart, Launcher: 1118074888
+12-13 01:28:44.833  1286  1286 D Launcher: onStart, Launcher: 1118074888
+12-13 01:28:44.833  1286  1286 D Launcher.HomeView: onStart
+12-13 01:28:44.833  1286  1286 D Launcher: onResume, Launcher: 1118074888
+12-13 01:28:44.833  1067  1067 D PhoneStatusBar: setSemiTransparentMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-13 01:28:44.833  1286  1286 D Launcher.HomeView: onResume
+12-13 01:28:44.833  1286  1286 D SurfaceWidgetConnection: .SurfaceWidgetWeather#1 is being resumed by launcher
+12-13 01:28:44.833  1608  1623 D SurfaceWidgetClient$ISurfaceWidgetStub: [237392/2] Surface widget resume on instance = 1
+12-13 01:28:44.833  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:189 [0:0] [SWW] onResume : instance = 1
+12-13 01:28:44.833  1286  1286 D Launcher: setSystemUiTransparency.SettingNotFoundException : set as TRUE
+12-13 01:28:44.833   717   744 D StatusBarManagerService: semi p:1286,o:f
+12-13 01:28:44.843  1067  1067 D PhoneStatusBar: setTransGradationMode=true, mTransparentMode=true, mSemiTransparentMode=false, mMultiWindowMode=false
+12-13 01:28:44.843   717  1400 D StatusBarManagerService: tr p:1286,o:t
+12-13 01:28:44.853   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:44.853   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:44.873   717   936 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationFocusGain:34 com.android.server.am.ActivityStack.resumeTopActivityLocked:2362 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3313 
+12-13 01:28:44.873  1286  1286 D MenuAppsGridFragment: onResume
+12-13 01:28:44.873  1286  1286 D AbsListView: onVisibilityChanged() is called, visibility : 0
+12-13 01:28:44.873  1608  1622 D SurfaceWidgetClient$ISurfaceWidgetStub: [237392/2] Surface widget visibility changed visibility = true on instance = 1
+12-13 01:28:44.873  1286  1286 D AbsListView: unregisterIRListener() is called 
+12-13 01:28:44.873  1608  1771 D SurfaceWidget.Renderer: [237392/2] SurfaceWidget drawing first frame
+12-13 01:28:44.883   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:44.883   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:44.883   717   744 D ActivityManager: resume name com.sec.android.app.launcher/com.android.launcher2.Launcher
+12-13 01:28:44.883   717   744 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:44.883   717   744 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:44.883   717  1048 V SmartFaceService - 3rd party pause: onReceive [android.intent.action.ACTIVITY_STATE/com.sec.android.app.launcher/resume]
+12-13 01:28:44.893  1319  1319 D WfcActivityStateReceiver: onReceive(): packageName=com.sec.android.app.launcher, activityState=resume
+12-13 01:28:44.893  1785  1785 I MultiWindowTrayService: mHomeResumeReceiver : onReceive
+12-13 01:28:44.893  1785  1785 I Sally Service: removeWindow window
+12-13 01:28:44.903  1672  1687 D daemonapp: [MSC_Daemon]>>> WCP:1102 [0:0] Provider query : content://apaccuweatherprovider/weatherinfo
+12-13 01:28:44.913   264   264 I SurfaceFlinger: id=31 createSurf (1080x1920),1 flag=4, Mauncher
+12-13 01:28:44.913  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:44.913  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:44.913 14606 14606 D Mms/UIEventReceiver: ui event
+12-13 01:28:44.923  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 560 
+12-13 01:28:44.933  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 561 
+12-13 01:28:44.933  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 562 
+12-13 01:28:44.953 15138 15138 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-13 01:28:44.953 15138 15138 I SELinux :  
+12-13 01:28:44.963  1672  1989 D daemonapp: [MSC_Daemon]>>> WCP:1102 [0:0] Provider query : content://apaccuweatherprovider/settings
+12-13 01:28:44.973  1608  1608 D accuweather: [KK AccuPhone]>>> RM:150 [0:0]  onFirstUpdate :: mFU = false
+12-13 01:28:44.973  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:200 [0:0]  onResume :: isFirst = false, cnt = 0
+12-13 01:28:44.973  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:207 [0:0] onResume : size = 1
+12-13 01:28:44.973  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:448 [0:0]  registerTTReceiver ! 
+12-13 01:28:44.973  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:372 [0:0] updateView : 1
+12-13 01:28:44.973  1608  1608 D accuweather: [KK AccuPhone]>>> SWW:294 [0:0] getWeatherRenderer : 1
+12-13 01:28:44.973  1672  1689 D daemonapp: [MSC_Daemon]>>> WCP:1102 [0:0] Provider query : content://apaccuweatherprovider/settings
+12-13 01:28:44.983 15138 15138 I SELinux : Function: selinux_android_load_priority , spota verifySig and checkHash pass. priority version is VE=SEPF_SM-G900T_4.4.2_0055
+12-13 01:28:44.983 15138 15138 I SELinux :  
+12-13 01:28:44.983 15138 15138 I SELinux :  
+12-13 01:28:44.983 15138 15138 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts
+12-13 01:28:44.983 15138 15138 E dalvikvm: >>>>> Normal User
+12-13 01:28:44.983 15138 15138 E dalvikvm: >>>>> com.sec.android.app.clockpackage [ userId:0 | appId:10096 ]
+12-13 01:28:44.983   717   936 D CustomFrequencyManagerService: releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  tag : ACTIVITY_RESUME_BOOSTER@6
+12-13 01:28:44.983   717   936 W ActivityManager: mDVFSHelper.release()
+12-13 01:28:44.983   717   936 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  pkgName : ACTIVITY_RESUME_BOOSTER@9
+12-13 01:28:44.993  1286  1286 D AbsListView: unregisterIRListener() is called 
+12-13 01:28:44.993  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 563 
+12-13 01:28:45.003  1672  1687 D daemonapp: [MSC_Daemon]>>> WCP:1102 [0:0] Provider query : content://apaccuweatherprovider/weatherinfo
+12-13 01:28:45.003  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 564 
+12-13 01:28:45.003  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 565 
+12-13 01:28:45.013   717   953 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:45.013   717   953 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-13 01:28:45.023  1608  1608 D accuweather: [KK AccuPhone]>>> DBH:2680 [0:0] gADWI : count = 1
+12-13 01:28:45.023  1672  1989 D daemonapp: [MSC_Daemon]>>> WCP:1102 [0:0] Provider query : content://apaccuweatherprovider/settings
+12-13 01:28:45.043  1608  1608 D accuweather: [KK AccuPhone]>>> SM:324 [0:0] updateView iSA = false, mCI = 0, mSL = null
+12-13 01:28:45.043  1608  1608 D accuweather: [KK AccuPhone]>>> SM:329 [0:0] bg transparency val = 0
+12-13 01:28:45.043  1608  1608 D accuweather: [KK AccuPhone]>>> SM:538 [0:0] [sCCTZ] set default tZ
+12-13 01:28:45.043  1608  1608 D accuweather: [KK AccuPhone]>>> SM:858 [0:0] setLayoutContent = 2131492986
+12-13 01:28:45.053  1608  1608 D accuweather: [KK AccuPhone]>>> U:903 [0:0] icon = 99, isDay = true, type = 261
+12-13 01:28:45.063  1608  1608 D accuweather: [KK AccuPhone]>>> U:1078 [0:0] resID = 2130837970
+12-13 01:28:45.063  1608  1608 D accuweather: [KK AccuPhone]>>> SM:1183 [0:0] setClockLayoutContent
+12-13 01:28:45.063   356 15151 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-13 01:28:45.113   717   743 I EDMNativeHelperService: isScreenCaptureEnabled
+12-13 01:28:45.123   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:45.123  1286  1286 D AbsListView: unregisterIRListener() is called 
+12-13 01:28:45.133  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.133  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.163   717   986 W PersonaManager: getPersonaIds()
+12-13 01:28:45.163   717   986 V AlarmManager: waitForAlarm result :8
+12-13 01:28:45.183   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:45.183   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:45.253  1608  1771 D SurfaceWidget.Renderer: [237392/2] SurfaceWidget drawing first frame
+12-13 01:28:45.253  1608  1608 D accuweather: [KK AccuPhone]>>> SM:885 [0:0] complete Layout Content
+12-13 01:28:45.253  1608  1608 D accuweather: [KK AccuPhone]>>> WR:132 [0:0] onResume orientation = 1, from res = Port fHD
+12-13 01:28:45.253  1608  1608 D accuweather: [KK AccuPhone]>>> SM:404 [0:0] onResume : false
+12-13 01:28:45.273   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:45.283   717   717 D CustomFrequencyManagerService: releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1958400  uid : 1000  pid : 717  tag : ACTIVITY_RESUME_BOOSTER@9
+12-13 01:28:45.293   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:45.313   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:45.363  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.363  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.373  1608  1771 D SurfaceWidget.Renderer: [237392/2] SurfaceWidget drawing first frame
+12-13 01:28:45.393   717   736 D dalvikvm: GC_CONCURRENT freed 5231K, 30% free 47685K/67888K, paused 6ms+13ms, total 250ms
+12-13 01:28:45.423 15159 15159 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-13 01:28:45.423 15159 15159 I SELinux :  
+12-13 01:28:45.423   717  1403 I ActivityManager: Killing 14000:com.google.android.gms.ui/u0a15 (adj 15): empty #31
+12-13 01:28:45.463 15159 15159 I SELinux : Function: selinux_android_load_priority , spota verifySig and checkHash pass. priority version is VE=SEPF_SM-G900T_4.4.2_0055
+12-13 01:28:45.463 15159 15159 I SELinux :  
+12-13 01:28:45.463 15159 15159 I SELinux :  
+12-13 01:28:45.463 15159 15159 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts
+12-13 01:28:45.463 15159 15159 E dalvikvm: >>>>> Normal User
+12-13 01:28:45.463 15159 15159 E dalvikvm: >>>>> com.sec.android.widgetapp.digitalclock [ userId:0 | appId:10098 ]
+12-13 01:28:45.463  1286  1286 D AbsListView: unregisterIRListener() is called 
+12-13 01:28:45.473  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 566 
+12-13 01:28:45.473  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 567 
+12-13 01:28:45.473  1286  1286 D skia    : GFXPNG PNG bitmap created width:186 height:186 bitmap id is 568 
+12-13 01:28:45.523   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:45.533  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.533  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.543 15172 15172 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-13 01:28:45.543 15172 15172 I SELinux :  
+12-13 01:28:45.543   717  1400 I ActivityManager: Killing 14663:com.vlingo.midas/u0a38 (adj 15): empty #31
+12-13 01:28:45.593 15172 15172 I SELinux : Function: selinux_android_load_priority , spota verifySig and checkHash pass. priority version is VE=SEPF_SM-G900T_4.4.2_0055
+12-13 01:28:45.593 15172 15172 I SELinux :  
+12-13 01:28:45.593 15172 15172 I SELinux :  
+12-13 01:28:45.593 15172 15172 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts
+12-13 01:28:45.593 15172 15172 E dalvikvm: >>>>> Normal User
+12-13 01:28:45.593 15172 15172 E dalvikvm: >>>>> com.sec.android.widgetapp.digitalclockeasy [ userId:0 | appId:10099 ]
+12-13 01:28:45.603  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.603  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.643  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.643  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.653 15185 15185 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-13 01:28:45.653 15185 15185 I SELinux :  
+12-13 01:28:45.663   717  1819 I ActivityManager: Killing 14694:com.samsung.android.intelligenceservice/u0a6 (adj 15): empty #31
+12-13 01:28:45.683 15185 15185 I SELinux : Function: selinux_android_load_priority , spota verifySig and checkHash pass. priority version is VE=SEPF_SM-G900T_4.4.2_0055
+12-13 01:28:45.683 15185 15185 I SELinux :  
+12-13 01:28:45.683 15185 15185 I SELinux :  
+12-13 01:28:45.683 15185 15185 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts
+12-13 01:28:45.683 15185 15185 E dalvikvm: >>>>> Normal User
+12-13 01:28:45.683 15185 15185 E dalvikvm: >>>>> com.sec.android.widgetapp.easymodecontactswidget [ userId:0 | appId:10012 ]
+12-13 01:28:45.713   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:45.723  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.723  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.733   717  4391 I ActivityManager: Killing 13599:com.google.android.gms.unstable/u0a15 (adj 15): empty #31
+12-13 01:28:45.753 15077 15077 V TaskCloserActivity: TaskCloserActivity onReceive() - com.sec.android.intent.action.HOME_RESUME
+12-13 01:28:45.753  7789  7793 D dalvikvm: GC_CONCURRENT freed 1957K, 36% free 17333K/26744K, paused 7ms+5ms, total 46ms
+12-13 01:28:45.773 15200 15200 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-13 01:28:45.773 15200 15200 I SELinux :  
+12-13 01:28:45.803  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.803  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.803   257   257 E SMD     : DCD ON
+12-13 01:28:45.813 15200 15200 I SELinux : Function: selinux_android_load_priority , spota verifySig and checkHash pass. priority version is VE=SEPF_SM-G900T_4.4.2_0055
+12-13 01:28:45.813 15200 15200 I SELinux :  
+12-13 01:28:45.813 15200 15200 I SELinux :  
+12-13 01:28:45.813 15200 15200 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts
+12-13 01:28:45.813 15200 15200 E dalvikvm: >>>>> Normal User
+12-13 01:28:45.813 15200 15200 E dalvikvm: >>>>> com.android.email [ userId:0 | appId:10178 ]
+12-13 01:28:45.853  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.853  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.853   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:45.853   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:45.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:45.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:45.903  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.903  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:45.913   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:45.923   717  1403 D RCPManagerService: exchangeData() failure , invalid userId
+12-13 01:28:45.953   717   961 D RCPManagerService: exchangeData() failure , invalid userId
+12-13 01:28:45.953   717  1285 D RCPManagerService: exchangeData() failure , invalid userId
+12-13 01:28:45.993  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:45.993  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.053  1067  1067 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(true), showBoosterIcon : false
+12-13 01:28:46.053  1067  1067 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-13 01:28:46.063  1067  1067 D STATUSBAR-IconMerger: checkOverflow(144), More:true, Req:true Child:6
+12-13 01:28:46.073   717  1235 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:46.083   717  1235 W LicenseLogService: log() failed
+12-13 01:28:46.083   717   743 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:46.083   717   743 W LicenseLogService: log() failed
+12-13 01:28:46.083   717  1272 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:46.093   717  1272 W LicenseLogService: log() failed
+12-13 01:28:46.093   717  1400 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:46.093   717  1400 W LicenseLogService: log() failed
+12-13 01:28:46.093   717  1403 D EnterpriseDeviceManager: ContainerId: 0
+12-13 01:28:46.093   717  1403 W LicenseLogService: log() failed
+12-13 01:28:46.093   717  1285 D RCPManagerService: exchangeData() failure , invalid userId
+12-13 01:28:46.103  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.103  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.103   717  1402 I ActivityManager: Killing 14815:com.sec.android.provider.badge/u0a84 (adj 15): empty #31
+12-13 01:28:46.113   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:46.113   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:46.113   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:46.143   717  1403 I ActivityManager: Killing 15200:com.android.email/u0a178 (adj 9): depends on provider com.sec.android.provider.badge/.BadgeProvider in dying proc com.sec.android.provider.badge
+12-13 01:28:46.153 15200 15216 E BadgeNotification: getId() android.os.DeadObjectException
+12-13 01:28:46.153   717   936 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1505 com.android.server.am.AppStateBroadcaster.BroadcastAppState:128 com.android.server.am.AppStateBroadcaster.SendApplicationStop:53 com.android.server.am.ActivityManagerService$2.handleMessage:2141 android.os.Handler.dispatchMessage:102 
+12-13 01:28:46.173  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.173  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.213  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.213  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.253  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.253  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.293  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.293  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.313   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:46.333  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.333  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.353  1501  1501 W InputConnectionWrapper.ICC: Timed out waiting on IInputContextCallback
+12-13 01:28:46.363  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.363  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.363  1501  1501 E SamsungIME: AbstractCandidateLayout-setCandidates suggestions count : 9
+12-13 01:28:46.413  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.413  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.463  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.463  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.513  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.513  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.513   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:46.553  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.553  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.593  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.593  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.633  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.633  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.683  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.683  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.723   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:46.733  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.733  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.773  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.773  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.813  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.813  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.823  7789  7793 D dalvikvm: GC_CONCURRENT freed 1943K, 36% free 17340K/26744K, paused 1ms+2ms, total 25ms
+12-13 01:28:46.853  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.853  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:46.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:46.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:46.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:46.893  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.893  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.913   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:46.933  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.933  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:46.963   717   963 D PackageManager: [MSG] MCS_UNBIND
+12-13 01:28:46.963   717   963 I PackageManager: calling disconnectService()
+12-13 01:28:46.963   717   963 D PackageManager: Trying to unbind to DefaultContainerService
+12-13 01:28:46.973  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:46.973  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.013  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.013  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.053  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.053  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.063  1067  1067 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(true), showBoosterIcon : false
+12-13 01:28:47.063  1067  1067 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-13 01:28:47.073  1067  1067 D STATUSBAR-IconMerger: checkOverflow(144), More:true, Req:true Child:6
+12-13 01:28:47.103  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.103  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.113   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:47.163  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.163  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.213  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.213  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.253  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.253  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.293  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.293  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.313   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:47.323  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.323  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.373  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.373  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.423  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.423  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.453  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.453  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.503  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.503  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.513   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:47.543  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.543  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.583  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.583  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.623  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.623  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.643 15089 15096 I dalvikvm: Total arena pages for JIT: 11
+12-13 01:28:47.643 15089 15096 I dalvikvm: Total arena pages for JIT: 12
+12-13 01:28:47.643 15089 15096 I dalvikvm: Total arena pages for JIT: 13
+12-13 01:28:47.643 15089 15096 I dalvikvm: Total arena pages for JIT: 14
+12-13 01:28:47.663 15089 15110 I FA      : Tag Manager is not found and thus will not be used
+12-13 01:28:47.673  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.673  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.713   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:47.723  7789  7793 D dalvikvm: GC_CONCURRENT freed 1950K, 36% free 17331K/26744K, paused 1ms+1ms, total 17ms
+12-13 01:28:47.733  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.733  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: root = /firmware/image, root_len = 15
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: process = tima_pkm, process_strlen = 8
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_sendmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_recvmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: max_message_size = 524416 = 0x80080
+12-13 01:28:47.773 15234 15234 D QSEECOMAPI: : QSEECom_get_handle sb_length = 0x80080
+12-13 01:28:47.773 15234 15234 E QSEECOMAPI: : Error::Failed to open /dev/qseecom device
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: QSEECom_start_app failed: path = /firmware/image, fname = tima_pkm
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: max_sendmsg_size = 262208, max_recvmsg_size = 262208, ret = 0xffffffff
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: root = /firmware/image, root_len = 15
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: process = tima_pkm, process_strlen = 8
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_sendmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_recvmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: max_message_size = 524416 = 0x80080
+12-13 01:28:47.773 15234 15234 D QSEECOMAPI: : QSEECom_get_handle sb_length = 0x80080
+12-13 01:28:47.773 15234 15234 E QSEECOMAPI: : Error::Failed to open /dev/qseecom device
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: QSEECom_start_app failed: path = /firmware/image, fname = tima_pkm
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: max_sendmsg_size = 262208, max_recvmsg_size = 262208, ret = 0xffffffff
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: root = /firmware/image, root_len = 15
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: process = tima_pkm, process_strlen = 8
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_sendmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_recvmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: max_message_size = 524416 = 0x80080
+12-13 01:28:47.773 15234 15234 D QSEECOMAPI: : QSEECom_get_handle sb_length = 0x80080
+12-13 01:28:47.773 15234 15234 E QSEECOMAPI: : Error::Failed to open /dev/qseecom device
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: QSEECom_start_app failed: path = /firmware/image, fname = tima_pkm
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: max_sendmsg_size = 262208, max_recvmsg_size = 262208, ret = 0xffffffff
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: root = /firmware/image, root_len = 15
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: process = tima_pkm, process_strlen = 8
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_sendmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_recvmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: max_message_size = 524416 = 0x80080
+12-13 01:28:47.773 15234 15234 D QSEECOMAPI: : QSEECom_get_handle sb_length = 0x80080
+12-13 01:28:47.773 15234 15234 E QSEECOMAPI: : Error::Failed to open /dev/qseecom device
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: QSEECom_start_app failed: path = /firmware/image, fname = tima_pkm
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: max_sendmsg_size = 262208, max_recvmsg_size = 262208, ret = 0xffffffff
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: root = /firmware/image, root_len = 15
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: process = tima_pkm, process_strlen = 8
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_sendmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: aligned max_recvmsg_size = 262208 = 0x40040
+12-13 01:28:47.773 15234 15234 I TZ: qc_tlc_communication: max_message_size = 524416 = 0x80080
+12-13 01:28:47.773 15234 15234 D QSEECOMAPI: : QSEECom_get_handle sb_length = 0x80080
+12-13 01:28:47.773 15234 15234 E QSEECOMAPI: : Error::Failed to open /dev/qseecom device
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: QSEECom_start_app failed: path = /firmware/image, fname = tima_pkm
+12-13 01:28:47.773 15234 15234 E TZ: qc_tlc_communication: max_sendmsg_size = 262208, max_recvmsg_size = 262208, ret = 0xffffffff
+12-13 01:28:47.773  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.783  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.813  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.813  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.843  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.843  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:47.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:47.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:47.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:47.873  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.873  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.903  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.903  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.913   717   901 E LightSensor: RED : 0, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=4, cpl=3202560
+12-13 01:28:47.943  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.943  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:47.973  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:47.973  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.003  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.003  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.043  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.043  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.073  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.073  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.103  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.103  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.113   717   901 E LightSensor: RED : 0, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=4, cpl=3202560
+12-13 01:28:48.133  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.133  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.173  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.173  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.203  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.203  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.243  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.243  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.283  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.283  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.293   717   961 I ActivityManager: Killing 14837:com.google.android.play.games.ui/u0a149 (adj 15): empty #31
+12-13 01:28:48.313   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:48.323  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.323  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.363  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.363  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.393  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.393  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.423  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.423  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.463  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.463  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.463  7789  7793 D dalvikvm: GC_CONCURRENT freed 1934K, 36% free 17336K/26744K, paused 1ms+2ms, total 16ms
+12-13 01:28:48.493  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.493  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.513   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:48.533  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.533  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.573  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.573  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.613  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.613  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.653  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.653  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.683  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.683  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.713   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:48.713  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.713  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.743  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.743  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.773  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.773  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.803   257   257 E SMD     : DCD ON
+12-13 01:28:48.813  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.813  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.843  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.843  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:48.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:48.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:48.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:48.873  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.873  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.913  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.913  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.913   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:48.953  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.953  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:48.993  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:48.993  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.043  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.043  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.083  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.083  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.113   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:49.123  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.123  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.163  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.163  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.223  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.223  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.273  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.273  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.303  7789  7793 D dalvikvm: GC_CONCURRENT freed 1937K, 36% free 17333K/26744K, paused 5ms+2ms, total 38ms
+12-13 01:28:49.313   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:49.313  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.313  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.363  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.363  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.403  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.403  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.453  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.453  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.493  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.493  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.513   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:49.543  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.543  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.583  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.583  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.633  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.633  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.683  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.683  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.713   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 5, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=5, cpl=3202560
+12-13 01:28:49.723  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.723  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.763  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.763  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.803  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.803  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.843  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.843  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.863   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:49.863   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:49.873   717   968 I ServiceKeeper: In getappinfo pid = 717 pkgName = android appinfo = null
+12-13 01:28:49.873   717   968 I ServiceKeeper: In getseinfo pid = 717 uid = 1000 seinfo= system
+12-13 01:28:49.883  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.883  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.903   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:49.933  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.933  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:49.963  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:49.963  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.003  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.003  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.013  1923  1923 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-13 01:28:50.043  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.043  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.073  1067  1067 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(true), showBoosterIcon : false
+12-13 01:28:50.073  1067  1067 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-13 01:28:50.073  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.073  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.093  1067  1067 D STATUSBAR-IconMerger: checkOverflow(144), More:true, Req:true Child:6
+12-13 01:28:50.103   717   901 E LightSensor: RED : 0, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 8282.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=0, rp1=1, gp1=2, bp1=2, cp1=4, cpl=3202560
+12-13 01:28:50.113  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.113  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.153  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.153  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.173  7789  7793 D dalvikvm: GC_CONCURRENT freed 1936K, 36% free 17333K/26744K, paused 1ms+2ms, total 24ms
+12-13 01:28:50.193  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.193  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.223  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.223  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.263  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.263  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.293  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.293  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.303   717   901 E LightSensor: RED : 1, GREEN : 2, BLUE : 2, CLEAR : 4, CALCULATED LUX : 0.000000, CCT : 4939.000000, REAL LUX : 0.000000 a_time = 238, gain = 64, ir=1, rp1=1, gp1=1, bp1=1, cp1=3, cpl=3202560
+12-13 01:28:50.333  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.333  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.373  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.373  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...
+12-13 01:28:50.403  2902  2902 I SQLiteSecureOpenHelper: getWritableDatabase(pwd)
+12-13 01:28:50.413  2902  2902 I SQLiteSecureOpenHelper: getDatabaseLocked(b,b,pwd)...

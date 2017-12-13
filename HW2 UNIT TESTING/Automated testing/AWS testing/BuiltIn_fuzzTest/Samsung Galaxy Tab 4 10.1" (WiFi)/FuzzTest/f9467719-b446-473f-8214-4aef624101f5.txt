@@ -1,0 +1,595 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on wlan0, link-type EN10MB (Ethernet), capture size 262144 bytes
+03:29:42.478163 IP 192.168.1.10.50464 > a104-126-147-179.deploy.static.akamaitechnologies.com.www: Flags [S], seq 3478337820, win 14600, options [mss 1460,sackOK,TS val 120700 ecr 0,nop,wscale 7], length 0
+03:29:42.487084 IP a104-126-147-179.deploy.static.akamaitechnologies.com.www > 192.168.1.10.50464: Flags [S.], seq 4126586080, ack 3478337821, win 26960, options [mss 1360,sackOK,TS val 634960660 ecr 120700,nop,wscale 7], length 0
+03:29:42.488402 IP 192.168.1.10.50464 > a104-126-147-179.deploy.static.akamaitechnologies.com.www: Flags [.], ack 1, win 115, options [nop,nop,TS val 120701 ecr 634960660], length 0
+03:29:42.525006 IP 192.168.1.10.50464 > a104-126-147-179.deploy.static.akamaitechnologies.com.www: Flags [P.], seq 1:163, ack 1, win 115, options [nop,nop,TS val 120704 ecr 634960660], length 162: HTTP: GET /services/cms/doc/promo/shop_widget_default.png HTTP/1.1
+03:29:42.533936 IP a104-126-147-179.deploy.static.akamaitechnologies.com.www > 192.168.1.10.50464: Flags [.], ack 163, win 219, options [nop,nop,TS val 634960672 ecr 120704], length 0
+03:29:42.534122 IP a104-126-147-179.deploy.static.akamaitechnologies.com.www > 192.168.1.10.50464: Flags [P.], seq 1:671, ack 163, win 219, options [nop,nop,TS val 634960672 ecr 120704], length 670: HTTP: HTTP/1.1 302 Moved Temporarily
+03:29:42.535387 IP 192.168.1.10.50464 > a104-126-147-179.deploy.static.akamaitechnologies.com.www: Flags [.], ack 671, win 125, options [nop,nop,TS val 120706 ecr 634960672], length 0
+03:29:42.570651 IP 192.168.1.10.50464 > a104-126-147-179.deploy.static.akamaitechnologies.com.www: Flags [F.], seq 163, ack 671, win 125, options [nop,nop,TS val 120709 ecr 634960672], length 0
+03:29:42.579502 IP a104-126-147-179.deploy.static.akamaitechnologies.com.www > 192.168.1.10.50464: Flags [F.], seq 671, ack 164, win 219, options [nop,nop,TS val 634960683 ecr 120709], length 0
+03:29:42.580824 IP 192.168.1.10.50464 > a104-126-147-179.deploy.static.akamaitechnologies.com.www: Flags [.], ack 672, win 125, options [nop,nop,TS val 120710 ecr 634960683], length 0
+03:29:42.597119 IP 192.168.1.10.43596 > a104-126-131-152.deploy.static.akamaitechnologies.com.www: Flags [S], seq 2450859765, win 14600, options [mss 1460,sackOK,TS val 120712 ecr 0,nop,wscale 7], length 0
+03:29:42.605927 IP a104-126-131-152.deploy.static.akamaitechnologies.com.www > 192.168.1.10.43596: Flags [S.], seq 1967011847, ack 2450859766, win 26960, options [mss 1360,sackOK,TS val 634960690 ecr 120712,nop,wscale 7], length 0
+03:29:42.611157 IP 192.168.1.10.43596 > a104-126-131-152.deploy.static.akamaitechnologies.com.www: Flags [.], ack 1, win 115, options [nop,nop,TS val 120713 ecr 634960690], length 0
+03:29:42.664048 IP 192.168.1.10.43596 > a104-126-131-152.deploy.static.akamaitechnologies.com.www: Flags [P.], seq 1:131, ack 1, win 115, options [nop,nop,TS val 120717 ecr 634960690], length 130: HTTP: GET /nook HTTP/1.1
+03:29:42.672831 IP a104-126-131-152.deploy.static.akamaitechnologies.com.www > 192.168.1.10.43596: Flags [.], ack 131, win 219, options [nop,nop,TS val 634960707 ecr 120717], length 0
+03:29:42.762901 IP a104-126-131-152.deploy.static.akamaitechnologies.com.www > 192.168.1.10.43596: Flags [P.], seq 1:558, ack 131, win 219, options [nop,nop,TS val 634960729 ecr 120717], length 557: HTTP: HTTP/1.1 301 Moved Permanently
+03:29:42.771162 IP 192.168.1.10.43596 > a104-126-131-152.deploy.static.akamaitechnologies.com.www: Flags [.], ack 558, win 123, options [nop,nop,TS val 120729 ecr 634960729], length 0
+03:29:42.894179 IP 192.168.1.10.43596 > a104-126-131-152.deploy.static.akamaitechnologies.com.www: Flags [F.], seq 131, ack 558, win 123, options [nop,nop,TS val 120741 ecr 634960729], length 0
+03:29:42.896286 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [S], seq 1430778800, win 14600, options [mss 1460,sackOK,TS val 120742 ecr 0,nop,wscale 7], length 0
+03:29:42.902935 IP a104-126-131-152.deploy.static.akamaitechnologies.com.www > 192.168.1.10.43596: Flags [F.], seq 558, ack 132, win 219, options [nop,nop,TS val 634960764 ecr 120741], length 0
+03:29:42.904012 IP 192.168.1.10.43596 > a104-126-131-152.deploy.static.akamaitechnologies.com.www: Flags [.], ack 559, win 123, options [nop,nop,TS val 120742 ecr 634960764], length 0
+03:29:42.910303 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [S.], seq 17558617, ack 1430778801, win 28960, options [mss 1360,sackOK,TS val 1030717838 ecr 120742,nop,wscale 5], length 0
+03:29:42.912541 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 120743 ecr 1030717838], length 0
+03:29:42.936176 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:217, ack 1, win 115, options [nop,nop,TS val 120746 ecr 1030717838], length 216
+03:29:42.950141 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], ack 217, win 939, options [nop,nop,TS val 1030717878 ecr 120746], length 0
+03:29:42.950601 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 1:154, ack 217, win 939, options [nop,nop,TS val 1030717879 ecr 120746], length 153
+03:29:42.952516 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 154, win 123, options [nop,nop,TS val 120747 ecr 1030717879], length 0
+03:29:42.955149 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 217:276, ack 154, win 123, options [nop,nop,TS val 120748 ecr 1030717879], length 59
+03:29:43.008428 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], ack 276, win 939, options [nop,nop,TS val 1030717937 ecr 120748], length 0
+03:29:43.010661 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 276:537, ack 154, win 123, options [nop,nop,TS val 120753 ecr 1030717937], length 261
+03:29:43.024570 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], ack 537, win 972, options [nop,nop,TS val 1030717953 ecr 120753], length 0
+03:29:43.116538 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 154:895, ack 537, win 972, options [nop,nop,TS val 1030718045 ecr 120753], length 741
+03:29:43.154571 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 895, win 135, options [nop,nop,TS val 120768 ecr 1030718045], length 0
+03:29:43.182467 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 537:1198, ack 895, win 135, options [nop,nop,TS val 120770 ecr 1030718045], length 661
+03:29:43.196467 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], ack 1198, win 1014, options [nop,nop,TS val 1030718125 ecr 120770], length 0
+03:29:43.482390 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 895:2243, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482484 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 2243:3591, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482501 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 3591:4939, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482514 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 4939:6287, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482526 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 6287:7635, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482538 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 7635:8983, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482549 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 8983:10331, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482560 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 10331:11679, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482572 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 11679:13027, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482582 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 13027:14375, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482594 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 14375:15723, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.482605 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 15723:17071, ack 1198, win 1014, options [nop,nop,TS val 1030718410 ecr 120770], length 1348
+03:29:43.548232 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 2243, win 156, options [nop,nop,TS val 120806 ecr 1030718410], length 0
+03:29:43.548247 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 3591, win 177, options [nop,nop,TS val 120806 ecr 1030718410], length 0
+03:29:43.548260 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 4939, win 198, options [nop,nop,TS val 120806 ecr 1030718410], length 0
+03:29:43.548271 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 6287, win 219, options [nop,nop,TS val 120806 ecr 1030718410], length 0
+03:29:43.548291 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 7635, win 240, options [nop,nop,TS val 120806 ecr 1030718410], length 0
+03:29:43.557610 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 8983, win 261, options [nop,nop,TS val 120808 ecr 1030718410], length 0
+03:29:43.557623 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 10331, win 282, options [nop,nop,TS val 120808 ecr 1030718410], length 0
+03:29:43.557633 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 11679, win 303, options [nop,nop,TS val 120808 ecr 1030718410], length 0
+03:29:43.557654 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 13027, win 324, options [nop,nop,TS val 120808 ecr 1030718410], length 0
+03:29:43.558703 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 14375, win 345, options [nop,nop,TS val 120808 ecr 1030718410], length 0
+03:29:43.558726 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 15723, win 366, options [nop,nop,TS val 120808 ecr 1030718410], length 0
+03:29:43.558739 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 17071, win 387, options [nop,nop,TS val 120808 ecr 1030718410], length 0
+03:29:43.562740 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 17071:18419, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.562928 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 18419:19767, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.562969 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 19767:21115, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.563003 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 21115:22211, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1096
+03:29:43.564875 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 18419, win 408, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.564903 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 19767, win 429, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.565151 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 22211:23559, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.565229 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 23559:24907, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.565275 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 24907:26255, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.565304 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 26255:27603, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.565334 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 27603:27855, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 252
+03:29:43.565680 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 21115, win 450, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.565695 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 22211, win 472, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.567192 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 23559, win 493, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.567216 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 24907, win 514, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.567232 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 26255, win 535, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.567597 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 27603, win 556, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.567678 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 27855, win 577, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.568710 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 27855:29203, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.568841 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 29203:30283, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1080
+03:29:43.570356 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 30283:31631, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.570441 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 31631:32979, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.570473 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 32979:34327, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.570504 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 34327:35675, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 1348
+03:29:43.570533 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 35675:35943, ack 1198, win 1014, options [nop,nop,TS val 1030718491 ecr 120806], length 268
+03:29:43.570237 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 29203, win 598, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.570916 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 30283, win 619, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.572345 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 31631, win 640, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.572592 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 32979, win 661, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.572607 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 34327, win 682, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.573058 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 35675, win 703, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.573077 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 35943, win 724, options [nop,nop,TS val 120809 ecr 1030718491], length 0
+03:29:43.573904 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 35943:37291, ack 1198, win 1014, options [nop,nop,TS val 1030718500 ecr 120808], length 1348
+03:29:43.574808 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 37291:38639, ack 1198, win 1014, options [nop,nop,TS val 1030718500 ecr 120808], length 1348
+03:29:43.574903 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 38639:39987, ack 1198, win 1014, options [nop,nop,TS val 1030718500 ecr 120808], length 1348
+03:29:43.574937 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 39987:41335, ack 1198, win 1014, options [nop,nop,TS val 1030718500 ecr 120808], length 1348
+03:29:43.576857 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 37291, win 745, options [nop,nop,TS val 120810 ecr 1030718500], length 0
+03:29:43.577195 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 38639, win 766, options [nop,nop,TS val 120810 ecr 1030718500], length 0
+03:29:43.577384 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 41335:42683, ack 1198, win 1014, options [nop,nop,TS val 1030718501 ecr 120808], length 1348
+03:29:43.577454 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 42683:44031, ack 1198, win 1014, options [nop,nop,TS val 1030718501 ecr 120808], length 1348
+03:29:43.577489 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 44031:45379, ack 1198, win 1014, options [nop,nop,TS val 1030718501 ecr 120808], length 1348
+03:29:43.577605 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 39987, win 787, options [nop,nop,TS val 120810 ecr 1030718500], length 0
+03:29:43.577620 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 41335, win 809, options [nop,nop,TS val 120810 ecr 1030718500], length 0
+03:29:43.579133 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 42683, win 830, options [nop,nop,TS val 120810 ecr 1030718501], length 0
+03:29:43.579535 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 44031, win 851, options [nop,nop,TS val 120810 ecr 1030718501], length 0
+03:29:43.579934 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 45379:46727, ack 1198, win 1014, options [nop,nop,TS val 1030718501 ecr 120808], length 1348
+03:29:43.579750 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 45379, win 872, options [nop,nop,TS val 120810 ecr 1030718501], length 0
+03:29:43.580862 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 46727:48075, ack 1198, win 1014, options [nop,nop,TS val 1030718507 ecr 120809], length 1348
+03:29:43.580979 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 48075:49423, ack 1198, win 1014, options [nop,nop,TS val 1030718507 ecr 120809], length 1348
+03:29:43.581192 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 46727, win 893, options [nop,nop,TS val 120810 ecr 1030718501], length 0
+03:29:43.582535 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 49423:50771, ack 1198, win 1014, options [nop,nop,TS val 1030718508 ecr 120809], length 1348
+03:29:43.582500 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 48075, win 914, options [nop,nop,TS val 120810 ecr 1030718507], length 0
+03:29:43.582915 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 49423, win 935, options [nop,nop,TS val 120810 ecr 1030718507], length 0
+03:29:43.583418 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 50771:52119, ack 1198, win 1014, options [nop,nop,TS val 1030718508 ecr 120809], length 1348
+03:29:43.583522 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 52119:53467, ack 1198, win 1014, options [nop,nop,TS val 1030718508 ecr 120809], length 1348
+03:29:43.583891 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 50771, win 956, options [nop,nop,TS val 120810 ecr 1030718508], length 0
+03:29:43.585238 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 53467:54815, ack 1198, win 1014, options [nop,nop,TS val 1030718509 ecr 120809], length 1348
+03:29:43.585320 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 54815:56163, ack 1198, win 1014, options [nop,nop,TS val 1030718509 ecr 120809], length 1348
+03:29:43.585355 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 56163:57511, ack 1198, win 1014, options [nop,nop,TS val 1030718509 ecr 120809], length 1348
+03:29:43.585384 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 57511:58859, ack 1198, win 1014, options [nop,nop,TS val 1030718509 ecr 120809], length 1348
+03:29:43.585412 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 58859:60207, ack 1198, win 1014, options [nop,nop,TS val 1030718509 ecr 120809], length 1348
+03:29:43.585113 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 52119, win 977, options [nop,nop,TS val 120811 ecr 1030718508], length 0
+03:29:43.585132 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 53467, win 998, options [nop,nop,TS val 120811 ecr 1030718508], length 0
+03:29:43.587502 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 54815, win 1019, options [nop,nop,TS val 120811 ecr 1030718509], length 0
+03:29:43.587516 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 56163, win 1040, options [nop,nop,TS val 120811 ecr 1030718509], length 0
+03:29:43.587536 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 57511, win 1061, options [nop,nop,TS val 120811 ecr 1030718509], length 0
+03:29:43.587964 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 58859, win 1082, options [nop,nop,TS val 120811 ecr 1030718509], length 0
+03:29:43.587983 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 60207, win 1103, options [nop,nop,TS val 120811 ecr 1030718509], length 0
+03:29:43.589423 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 60207:61555, ack 1198, win 1014, options [nop,nop,TS val 1030718509 ecr 120809], length 1348
+03:29:43.590327 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 61555:62903, ack 1198, win 1014, options [nop,nop,TS val 1030718510 ecr 120809], length 1348
+03:29:43.590430 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 62903:64251, ack 1198, win 1014, options [nop,nop,TS val 1030718510 ecr 120809], length 1348
+03:29:43.591128 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 61555, win 1124, options [nop,nop,TS val 120811 ecr 1030718509], length 0
+03:29:43.592049 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 64251:65599, ack 1198, win 1014, options [nop,nop,TS val 1030718510 ecr 120809], length 1348
+03:29:43.592134 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 65599:66947, ack 1198, win 1014, options [nop,nop,TS val 1030718510 ecr 120809], length 1348
+03:29:43.592214 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 62903, win 1146, options [nop,nop,TS val 120811 ecr 1030718510], length 0
+03:29:43.592356 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 64251, win 1167, options [nop,nop,TS val 120811 ecr 1030718510], length 0
+03:29:43.593464 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 65599, win 1188, options [nop,nop,TS val 120811 ecr 1030718510], length 0
+03:29:43.593926 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 66947:68295, ack 1198, win 1014, options [nop,nop,TS val 1030718513 ecr 120809], length 1348
+03:29:43.594018 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 68295:69643, ack 1198, win 1014, options [nop,nop,TS val 1030718513 ecr 120809], length 1348
+03:29:43.594305 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 66947, win 1209, options [nop,nop,TS val 120811 ecr 1030718510], length 0
+03:29:43.595338 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 68295, win 1230, options [nop,nop,TS val 120812 ecr 1030718513], length 0
+03:29:43.595685 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 69643:70991, ack 1198, win 1014, options [nop,nop,TS val 1030718513 ecr 120809], length 1348
+03:29:43.595825 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 70991:72339, ack 1198, win 1014, options [nop,nop,TS val 1030718513 ecr 120809], length 1348
+03:29:43.596158 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 69643, win 1251, options [nop,nop,TS val 120812 ecr 1030718513], length 0
+03:29:43.597074 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 70991, win 1272, options [nop,nop,TS val 120812 ecr 1030718513], length 0
+03:29:43.597216 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 72339:73687, ack 1198, win 1014, options [nop,nop,TS val 1030718514 ecr 120809], length 1348
+03:29:43.597315 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 73687:75035, ack 1198, win 1014, options [nop,nop,TS val 1030718514 ecr 120809], length 1348
+03:29:43.597557 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 72339, win 1293, options [nop,nop,TS val 120812 ecr 1030718513], length 0
+03:29:43.598579 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 73687, win 1314, options [nop,nop,TS val 120812 ecr 1030718514], length 0
+03:29:43.598969 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 75035:76383, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.599037 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 76383:77731, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.599069 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 77731:79079, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.599117 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 79079:80427, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.598867 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 75035, win 1335, options [nop,nop,TS val 120812 ecr 1030718514], length 0
+03:29:43.602253 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 76383, win 1356, options [nop,nop,TS val 120812 ecr 1030718515], length 0
+03:29:43.602269 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 77731, win 1377, options [nop,nop,TS val 120812 ecr 1030718515], length 0
+03:29:43.602280 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 79079, win 1398, options [nop,nop,TS val 120812 ecr 1030718515], length 0
+03:29:43.602291 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 80427, win 1419, options [nop,nop,TS val 120812 ecr 1030718515], length 0
+03:29:43.602480 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 80427:81775, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.602582 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 81775:83123, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.604015 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 81775, win 1440, options [nop,nop,TS val 120812 ecr 1030718515], length 0
+03:29:43.604329 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 83123:84471, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.604408 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 84471:85819, ack 1198, win 1014, options [nop,nop,TS val 1030718515 ecr 120809], length 1348
+03:29:43.604480 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 83123, win 1461, options [nop,nop,TS val 120812 ecr 1030718515], length 0
+03:29:43.605751 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 84471, win 1483, options [nop,nop,TS val 120813 ecr 1030718515], length 0
+03:29:43.605899 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 85819:87167, ack 1198, win 1014, options [nop,nop,TS val 1030718519 ecr 120810], length 1348
+03:29:43.605982 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 87167:88515, ack 1198, win 1014, options [nop,nop,TS val 1030718519 ecr 120810], length 1348
+03:29:43.606271 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 85819, win 1504, options [nop,nop,TS val 120813 ecr 1030718515], length 0
+03:29:43.607269 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 87167, win 1525, options [nop,nop,TS val 120813 ecr 1030718519], length 0
+03:29:43.607641 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 88515:89863, ack 1198, win 1014, options [nop,nop,TS val 1030718519 ecr 120810], length 1348
+03:29:43.607736 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 89863:91211, ack 1198, win 1014, options [nop,nop,TS val 1030718519 ecr 120810], length 1348
+03:29:43.607862 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 88515, win 1546, options [nop,nop,TS val 120813 ecr 1030718519], length 0
+03:29:43.609116 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 89863, win 1567, options [nop,nop,TS val 120813 ecr 1030718519], length 0
+03:29:43.609382 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 91211:92559, ack 1198, win 1014, options [nop,nop,TS val 1030718520 ecr 120810], length 1348
+03:29:43.609695 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 91211, win 1588, options [nop,nop,TS val 120813 ecr 1030718519], length 0
+03:29:43.610175 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 92559:93907, ack 1198, win 1014, options [nop,nop,TS val 1030718520 ecr 120810], length 1348
+03:29:43.610250 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 93907:95255, ack 1198, win 1014, options [nop,nop,TS val 1030718520 ecr 120810], length 1348
+03:29:43.610284 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 95255:96603, ack 1198, win 1014, options [nop,nop,TS val 1030718520 ecr 120810], length 1348
+03:29:43.610594 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 92559, win 1609, options [nop,nop,TS val 120813 ecr 1030718520], length 0
+03:29:43.612358 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 93907, win 1630, options [nop,nop,TS val 120813 ecr 1030718520], length 0
+03:29:43.612750 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 96603:97951, ack 1198, win 1014, options [nop,nop,TS val 1030718521 ecr 120810], length 1348
+03:29:43.613030 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 95255, win 1651, options [nop,nop,TS val 120813 ecr 1030718520], length 0
+03:29:43.613050 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 96603, win 1672, options [nop,nop,TS val 120813 ecr 1030718520], length 0
+03:29:43.613578 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 97951:99299, ack 1198, win 1014, options [nop,nop,TS val 1030718521 ecr 120810], length 1348
+03:29:43.613916 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 97951, win 1693, options [nop,nop,TS val 120813 ecr 1030718521], length 0
+03:29:43.614496 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 99299:100647, ack 1198, win 1014, options [nop,nop,TS val 1030718522 ecr 120810], length 1348
+03:29:43.614576 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 100647:101995, ack 1198, win 1014, options [nop,nop,TS val 1030718522 ecr 120810], length 1348
+03:29:43.614901 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 99299, win 1714, options [nop,nop,TS val 120814 ecr 1030718521], length 0
+03:29:43.615840 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 100647, win 1735, options [nop,nop,TS val 120814 ecr 1030718522], length 0
+03:29:43.616121 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 101995, win 1756, options [nop,nop,TS val 120814 ecr 1030718522], length 0
+03:29:43.616227 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 101995:103343, ack 1198, win 1014, options [nop,nop,TS val 1030718522 ecr 120810], length 1348
+03:29:43.616289 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 103343:104691, ack 1198, win 1014, options [nop,nop,TS val 1030718522 ecr 120810], length 1348
+03:29:43.617487 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 103343, win 1777, options [nop,nop,TS val 120814 ecr 1030718522], length 0
+03:29:43.617845 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 104691, win 1798, options [nop,nop,TS val 120814 ecr 1030718522], length 0
+03:29:43.617983 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 104691:106039, ack 1198, win 1014, options [nop,nop,TS val 1030718524 ecr 120810], length 1348
+03:29:43.618075 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 106039:107387, ack 1198, win 1014, options [nop,nop,TS val 1030718524 ecr 120810], length 1348
+03:29:43.619337 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 106039, win 1820, options [nop,nop,TS val 120814 ecr 1030718524], length 0
+03:29:43.619663 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 107387:108735, ack 1198, win 1014, options [nop,nop,TS val 1030718525 ecr 120810], length 1348
+03:29:43.619733 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 108735:110083, ack 1198, win 1014, options [nop,nop,TS val 1030718525 ecr 120810], length 1348
+03:29:43.619605 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 107387, win 1841, options [nop,nop,TS val 120814 ecr 1030718524], length 0
+03:29:43.621143 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 108735, win 1862, options [nop,nop,TS val 120814 ecr 1030718525], length 0
+03:29:43.621423 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 110083:111431, ack 1198, win 1014, options [nop,nop,TS val 1030718525 ecr 120810], length 1348
+03:29:43.621508 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 111431:112779, ack 1198, win 1014, options [nop,nop,TS val 1030718525 ecr 120810], length 1348
+03:29:43.621768 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 110083, win 1883, options [nop,nop,TS val 120814 ecr 1030718525], length 0
+03:29:43.622699 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 111431, win 1904, options [nop,nop,TS val 120814 ecr 1030718525], length 0
+03:29:43.623205 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 112779:114127, ack 1198, win 1014, options [nop,nop,TS val 1030718526 ecr 120810], length 1348
+03:29:43.623284 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 114127:115475, ack 1198, win 1014, options [nop,nop,TS val 1030718526 ecr 120810], length 1348
+03:29:43.623369 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 112779, win 1925, options [nop,nop,TS val 120814 ecr 1030718525], length 0
+03:29:43.624746 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 114127, win 1946, options [nop,nop,TS val 120815 ecr 1030718526], length 0
+03:29:43.625062 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 115475:116823, ack 1198, win 1014, options [nop,nop,TS val 1030718528 ecr 120811], length 1348
+03:29:43.625145 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 116823:118171, ack 1198, win 1014, options [nop,nop,TS val 1030718528 ecr 120811], length 1348
+03:29:43.625179 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 118171:119519, ack 1198, win 1014, options [nop,nop,TS val 1030718528 ecr 120811], length 1348
+03:29:43.625288 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 115475, win 1967, options [nop,nop,TS val 120815 ecr 1030718526], length 0
+03:29:43.626700 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 116823, win 1988, options [nop,nop,TS val 120815 ecr 1030718528], length 0
+03:29:43.627101 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 118171, win 2009, options [nop,nop,TS val 120815 ecr 1030718528], length 0
+03:29:43.627117 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 119519, win 2030, options [nop,nop,TS val 120815 ecr 1030718528], length 0
+03:29:43.627408 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 119519:120867, ack 1198, win 1014, options [nop,nop,TS val 1030718528 ecr 120811], length 1348
+03:29:43.628289 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 120867:122215, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.628353 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 122215:123563, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.628603 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 120867, win 2051, options [nop,nop,TS val 120815 ecr 1030718528], length 0
+03:29:43.629690 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 122215, win 2072, options [nop,nop,TS val 120815 ecr 1030718530], length 0
+03:29:43.630019 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 123563:124911, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.630089 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 124911:126259, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.630122 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 126259:127607, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.630151 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 127607:128955, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.630366 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 123563, win 2093, options [nop,nop,TS val 120815 ecr 1030718530], length 0
+03:29:43.633520 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 128955:130303, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.633601 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 130303:131651, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.633648 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 131651:132999, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.633677 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 132999:134347, ack 1198, win 1014, options [nop,nop,TS val 1030718530 ecr 120811], length 1348
+03:29:43.633859 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 124911, win 2114, options [nop,nop,TS val 120815 ecr 1030718530], length 0
+03:29:43.633895 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 126259, win 2135, options [nop,nop,TS val 120815 ecr 1030718530], length 0
+03:29:43.633908 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 127607, win 2157, options [nop,nop,TS val 120815 ecr 1030718530], length 0
+03:29:43.636919 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 134347:135695, ack 1198, win 1014, options [nop,nop,TS val 1030718533 ecr 120811], length 1348
+03:29:43.637001 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 135695:137043, ack 1198, win 1014, options [nop,nop,TS val 1030718533 ecr 120811], length 1348
+03:29:43.637419 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 128955, win 2178, options [nop,nop,TS val 120815 ecr 1030718530], length 0
+03:29:43.637695 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 130303, win 2199, options [nop,nop,TS val 120816 ecr 1030718530], length 0
+03:29:43.637711 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 131651, win 2220, options [nop,nop,TS val 120816 ecr 1030718530], length 0
+03:29:43.637721 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 132999, win 2241, options [nop,nop,TS val 120816 ecr 1030718530], length 0
+03:29:43.637738 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 134347, win 2262, options [nop,nop,TS val 120816 ecr 1030718530], length 0
+03:29:43.638357 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 135695, win 2283, options [nop,nop,TS val 120816 ecr 1030718533], length 0
+03:29:43.638670 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 137043:138391, ack 1198, win 1014, options [nop,nop,TS val 1030718534 ecr 120811], length 1348
+03:29:43.638750 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 138391:139739, ack 1198, win 1014, options [nop,nop,TS val 1030718534 ecr 120811], length 1348
+03:29:43.638832 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 139739:141087, ack 1198, win 1014, options [nop,nop,TS val 1030718534 ecr 120811], length 1348
+03:29:43.638868 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 141087:142435, ack 1198, win 1014, options [nop,nop,TS val 1030718534 ecr 120811], length 1348
+03:29:43.638576 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 137043, win 2304, options [nop,nop,TS val 120816 ecr 1030718533], length 0
+03:29:43.640713 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 138391, win 2325, options [nop,nop,TS val 120816 ecr 1030718534], length 0
+03:29:43.640739 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 139739, win 2346, options [nop,nop,TS val 120816 ecr 1030718534], length 0
+03:29:43.641210 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 141087, win 2367, options [nop,nop,TS val 120816 ecr 1030718534], length 0
+03:29:43.641340 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 142435, win 2388, options [nop,nop,TS val 120816 ecr 1030718534], length 0
+03:29:43.642128 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 142435:143783, ack 1198, win 1014, options [nop,nop,TS val 1030718536 ecr 120811], length 1348
+03:29:43.642231 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 143783:145131, ack 1198, win 1014, options [nop,nop,TS val 1030718536 ecr 120811], length 1348
+03:29:43.643639 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 143783, win 2409, options [nop,nop,TS val 120816 ecr 1030718536], length 0
+03:29:43.644020 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 145131:146479, ack 1198, win 1014, options [nop,nop,TS val 1030718536 ecr 120811], length 1348
+03:29:43.644110 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 146479:147827, ack 1198, win 1014, options [nop,nop,TS val 1030718536 ecr 120811], length 1348
+03:29:43.644186 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 145131, win 2430, options [nop,nop,TS val 120816 ecr 1030718536], length 0
+03:29:43.645571 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 147827:149175, ack 1198, win 1014, options [nop,nop,TS val 1030718537 ecr 120812], length 1348
+03:29:43.645699 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 149175:150523, ack 1198, win 1014, options [nop,nop,TS val 1030718537 ecr 120812], length 1348
+03:29:43.645502 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 146479, win 2451, options [nop,nop,TS val 120817 ecr 1030718536], length 0
+03:29:43.646438 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 147827, win 2472, options [nop,nop,TS val 120817 ecr 1030718536], length 0
+03:29:43.647333 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 150523:151871, ack 1198, win 1014, options [nop,nop,TS val 1030718538 ecr 120812], length 1348
+03:29:43.647456 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 151871:153219, ack 1198, win 1014, options [nop,nop,TS val 1030718538 ecr 120812], length 1348
+03:29:43.648060 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 149175, win 2494, options [nop,nop,TS val 120817 ecr 1030718537], length 0
+03:29:43.648241 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 150523, win 2515, options [nop,nop,TS val 120817 ecr 1030718537], length 0
+03:29:43.648994 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 153219:154567, ack 1198, win 1014, options [nop,nop,TS val 1030718539 ecr 120812], length 1348
+03:29:43.649829 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 154567:155712, ack 1198, win 1014, options [nop,nop,TS val 1030718540 ecr 120812], length 1145
+03:29:43.650653 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 155712:157060, ack 1198, win 1014, options [nop,nop,TS val 1030718540 ecr 120812], length 1348
+03:29:43.650745 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 157060:158408, ack 1198, win 1014, options [nop,nop,TS val 1030718540 ecr 120812], length 1348
+03:29:43.650920 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 151871, win 2536, options [nop,nop,TS val 120817 ecr 1030718538], length 0
+03:29:43.650947 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 153219, win 2557, options [nop,nop,TS val 120817 ecr 1030718538], length 0
+03:29:43.652343 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 158408:159756, ack 1198, win 1014, options [nop,nop,TS val 1030718541 ecr 120812], length 1348
+03:29:43.652438 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 159756:161104, ack 1198, win 1014, options [nop,nop,TS val 1030718541 ecr 120812], length 1348
+03:29:43.654067 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 161104:162452, ack 1198, win 1014, options [nop,nop,TS val 1030718541 ecr 120812], length 1348
+03:29:43.654164 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 162452:163800, ack 1198, win 1014, options [nop,nop,TS val 1030718541 ecr 120812], length 1348
+03:29:43.656052 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 163800:165148, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.656148 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 165148:166496, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.656193 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 166496:167844, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.656224 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 167844:169192, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.656268 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 169192:170540, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.656285 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 170540:171888, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.656297 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 171888:173236, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.656308 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 173236:174584, ack 1198, win 1014, options [nop,nop,TS val 1030718545 ecr 120812], length 1348
+03:29:43.662154 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 154567, win 2578, options [nop,nop,TS val 120818 ecr 1030718539], length 0
+03:29:43.662170 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 155712, win 2599, options [nop,nop,TS val 120818 ecr 1030718540], length 0
+03:29:43.662180 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 157060, win 2620, options [nop,nop,TS val 120818 ecr 1030718540], length 0
+03:29:43.662189 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 158408, win 2641, options [nop,nop,TS val 120818 ecr 1030718540], length 0
+03:29:43.662199 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 159756, win 2662, options [nop,nop,TS val 120818 ecr 1030718541], length 0
+03:29:43.662207 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 161104, win 2683, options [nop,nop,TS val 120818 ecr 1030718541], length 0
+03:29:43.662217 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 162452, win 2704, options [nop,nop,TS val 120818 ecr 1030718541], length 0
+03:29:43.662227 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 163800, win 2725, options [nop,nop,TS val 120818 ecr 1030718541], length 0
+03:29:43.662236 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 165148, win 2746, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.662245 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 166496, win 2767, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.662254 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 167844, win 2788, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.662263 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 169192, win 2809, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.662297 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 170540, win 2831, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.663166 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 174584:175932, ack 1198, win 1014, options [nop,nop,TS val 1030718546 ecr 120812], length 1348
+03:29:43.663254 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 175932:177280, ack 1198, win 1014, options [nop,nop,TS val 1030718546 ecr 120812], length 1348
+03:29:43.663323 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 171888, win 2852, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.663343 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 173236, win 2873, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.663356 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 174584, win 2894, options [nop,nop,TS val 120818 ecr 1030718545], length 0
+03:29:43.664427 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 177280:178628, ack 1198, win 1014, options [nop,nop,TS val 1030718546 ecr 120812], length 1348
+03:29:43.664516 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 178628:179976, ack 1198, win 1014, options [nop,nop,TS val 1030718546 ecr 120812], length 1348
+03:29:43.666178 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 179976:181324, ack 1198, win 1014, options [nop,nop,TS val 1030718548 ecr 120813], length 1348
+03:29:43.666284 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 181324:182672, ack 1198, win 1014, options [nop,nop,TS val 1030718548 ecr 120813], length 1348
+03:29:43.666520 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 175932, win 2915, options [nop,nop,TS val 120819 ecr 1030718546], length 0
+03:29:43.666550 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 177280, win 2936, options [nop,nop,TS val 120819 ecr 1030718546], length 0
+03:29:43.666563 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 178628, win 2957, options [nop,nop,TS val 120819 ecr 1030718546], length 0
+03:29:43.666994 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 179976, win 2978, options [nop,nop,TS val 120819 ecr 1030718546], length 0
+03:29:43.667605 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 181324, win 2999, options [nop,nop,TS val 120819 ecr 1030718548], length 0
+03:29:43.667966 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 182672:184020, ack 1198, win 1014, options [nop,nop,TS val 1030718549 ecr 120813], length 1348
+03:29:43.668048 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 184020:185368, ack 1198, win 1014, options [nop,nop,TS val 1030718549 ecr 120813], length 1348
+03:29:43.668176 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 182672, win 3020, options [nop,nop,TS val 120819 ecr 1030718548], length 0
+03:29:43.669609 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 185368:186716, ack 1198, win 1014, options [nop,nop,TS val 1030718549 ecr 120813], length 1348
+03:29:43.669706 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 186716:188064, ack 1198, win 1014, options [nop,nop,TS val 1030718549 ecr 120813], length 1348
+03:29:43.671297 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 188064:189412, ack 1198, win 1014, options [nop,nop,TS val 1030718550 ecr 120813], length 1348
+03:29:43.672131 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 189412:190760, ack 1198, win 1014, options [nop,nop,TS val 1030718550 ecr 120813], length 1348
+03:29:43.673054 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 190760:192108, ack 1198, win 1014, options [nop,nop,TS val 1030718551 ecr 120813], length 1348
+03:29:43.673145 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 192108:193456, ack 1198, win 1014, options [nop,nop,TS val 1030718551 ecr 120813], length 1348
+03:29:43.674829 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 193456:194804, ack 1198, win 1014, options [nop,nop,TS val 1030718552 ecr 120813], length 1348
+03:29:43.674925 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 194804:196152, ack 1198, win 1014, options [nop,nop,TS val 1030718552 ecr 120813], length 1348
+03:29:43.676507 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 196152:197500, ack 1198, win 1014, options [nop,nop,TS val 1030718553 ecr 120813], length 1348
+03:29:43.676613 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 197500:198848, ack 1198, win 1014, options [nop,nop,TS val 1030718553 ecr 120813], length 1348
+03:29:43.678198 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 198848:200196, ack 1198, win 1014, options [nop,nop,TS val 1030718554 ecr 120813], length 1348
+03:29:43.679061 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 200196:201544, ack 1198, win 1014, options [nop,nop,TS val 1030718554 ecr 120813], length 1348
+03:29:43.679971 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 201544:202892, ack 1198, win 1014, options [nop,nop,TS val 1030718555 ecr 120813], length 1348
+03:29:43.680065 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 202892:204240, ack 1198, win 1014, options [nop,nop,TS val 1030718555 ecr 120813], length 1348
+03:29:43.680100 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 204240:205588, ack 1198, win 1014, options [nop,nop,TS val 1030718555 ecr 120813], length 1348
+03:29:43.680130 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 205588:206936, ack 1198, win 1014, options [nop,nop,TS val 1030718555 ecr 120813], length 1348
+03:29:43.681095 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 184020, win 3041, options [nop,nop,TS val 120820 ecr 1030718549], length 0
+03:29:43.681113 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 185368, win 3062, options [nop,nop,TS val 120820 ecr 1030718549], length 0
+03:29:43.681122 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 186716, win 3083, options [nop,nop,TS val 120820 ecr 1030718549], length 0
+03:29:43.681131 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 188064, win 3104, options [nop,nop,TS val 120820 ecr 1030718549], length 0
+03:29:43.681141 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 189412, win 3125, options [nop,nop,TS val 120820 ecr 1030718550], length 0
+03:29:43.681150 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 190760, win 3146, options [nop,nop,TS val 120820 ecr 1030718550], length 0
+03:29:43.681159 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 192108, win 3168, options [nop,nop,TS val 120820 ecr 1030718551], length 0
+03:29:43.681169 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 193456, win 3189, options [nop,nop,TS val 120820 ecr 1030718551], length 0
+03:29:43.681178 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 194804, win 3210, options [nop,nop,TS val 120820 ecr 1030718552], length 0
+03:29:43.681187 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 196152, win 3231, options [nop,nop,TS val 120820 ecr 1030718552], length 0
+03:29:43.681205 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 197500, win 3252, options [nop,nop,TS val 120820 ecr 1030718553], length 0
+03:29:43.683396 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 206936:208284, ack 1198, win 1014, options [nop,nop,TS val 1030718556 ecr 120813], length 1348
+03:29:43.683499 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 208284:209632, ack 1198, win 1014, options [nop,nop,TS val 1030718556 ecr 120813], length 1348
+03:29:43.684622 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 198848, win 3273, options [nop,nop,TS val 120820 ecr 1030718553], length 0
+03:29:43.684652 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 200196, win 3294, options [nop,nop,TS val 120820 ecr 1030718554], length 0
+03:29:43.684662 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 201544, win 3315, options [nop,nop,TS val 120820 ecr 1030718554], length 0
+03:29:43.684672 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 202892, win 3336, options [nop,nop,TS val 120820 ecr 1030718555], length 0
+03:29:43.684682 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 204240, win 3357, options [nop,nop,TS val 120820 ecr 1030718555], length 0
+03:29:43.684691 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 205588, win 3378, options [nop,nop,TS val 120820 ecr 1030718555], length 0
+03:29:43.684700 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 206936, win 3399, options [nop,nop,TS val 120820 ecr 1030718555], length 0
+03:29:43.684718 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 208284, win 3420, options [nop,nop,TS val 120821 ecr 1030718556], length 0
+03:29:43.685306 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 209632:210980, ack 1198, win 1014, options [nop,nop,TS val 1030718557 ecr 120814], length 1348
+03:29:43.685378 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 210980:212328, ack 1198, win 1014, options [nop,nop,TS val 1030718557 ecr 120814], length 1348
+03:29:43.685449 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 209632, win 3441, options [nop,nop,TS val 120821 ecr 1030718556], length 0
+03:29:43.686718 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 210980, win 3462, options [nop,nop,TS val 120821 ecr 1030718557], length 0
+03:29:43.686870 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 212328:213676, ack 1198, win 1014, options [nop,nop,TS val 1030718558 ecr 120814], length 1348
+03:29:43.687206 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 212328, win 3483, options [nop,nop,TS val 120821 ecr 1030718557], length 0
+03:29:43.687684 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 213676:215024, ack 1198, win 1014, options [nop,nop,TS val 1030718558 ecr 120814], length 1348
+03:29:43.688099 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 213676, win 3505, options [nop,nop,TS val 120821 ecr 1030718558], length 0
+03:29:43.688655 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 215024:216372, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.688758 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 216372:217720, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.688862 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 217720:219068, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.688915 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 219068:220416, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.688945 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 220416:221764, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.689127 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 215024, win 3526, options [nop,nop,TS val 120821 ecr 1030718558], length 0
+03:29:43.690899 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 216372, win 3547, options [nop,nop,TS val 120821 ecr 1030718605], length 0
+03:29:43.690928 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 217720, win 3568, options [nop,nop,TS val 120821 ecr 1030718605], length 0
+03:29:43.691318 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 219068, win 3589, options [nop,nop,TS val 120821 ecr 1030718605], length 0
+03:29:43.691458 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 220416, win 3610, options [nop,nop,TS val 120821 ecr 1030718605], length 0
+03:29:43.691475 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 221764, win 3631, options [nop,nop,TS val 120821 ecr 1030718605], length 0
+03:29:43.692918 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 221764:223112, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.693018 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 223112:224460, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.694613 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 224460:225808, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.695535 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 225808:227156, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.695621 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 227156:228504, ack 1198, win 1014, options [nop,nop,TS val 1030718605 ecr 120818], length 1348
+03:29:43.697187 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 228504:229852, ack 1198, win 1014, options [nop,nop,TS val 1030718609 ecr 120819], length 1348
+03:29:43.698223 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 229852:231200, ack 1198, win 1014, options [nop,nop,TS val 1030718609 ecr 120819], length 1348
+03:29:43.698308 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 231200:232548, ack 1198, win 1014, options [nop,nop,TS val 1030718609 ecr 120819], length 1348
+03:29:43.698341 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 232548:233896, ack 1198, win 1014, options [nop,nop,TS val 1030718609 ecr 120819], length 1348
+03:29:43.698467 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 223112, win 3652, options [nop,nop,TS val 120822 ecr 1030718605], length 0
+03:29:43.700075 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 224460, win 3673, options [nop,nop,TS val 120822 ecr 1030718605], length 0
+03:29:43.700090 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 225808, win 3694, options [nop,nop,TS val 120822 ecr 1030718605], length 0
+03:29:43.700100 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 227156, win 3715, options [nop,nop,TS val 120822 ecr 1030718605], length 0
+03:29:43.700110 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 228504, win 3736, options [nop,nop,TS val 120822 ecr 1030718605], length 0
+03:29:43.700120 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 229852, win 3757, options [nop,nop,TS val 120822 ecr 1030718609], length 0
+03:29:43.700129 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 231200, win 3778, options [nop,nop,TS val 120822 ecr 1030718609], length 0
+03:29:43.700160 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 232548, win 3799, options [nop,nop,TS val 120822 ecr 1030718609], length 0
+03:29:43.700631 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 233896:235244, ack 1198, win 1014, options [nop,nop,TS val 1030718610 ecr 120819], length 1348
+03:29:43.700750 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 233896, win 3820, options [nop,nop,TS val 120822 ecr 1030718609], length 0
+03:29:43.701502 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 235244:236592, ack 1198, win 1014, options [nop,nop,TS val 1030718610 ecr 120819], length 1348
+03:29:43.702438 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 236592:237940, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.702525 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 237940:239288, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.702558 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 239288:240636, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.702588 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 240636:241984, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.702621 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 241984:243332, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.702663 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 243332:244680, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.701917 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 235244, win 3842, options [nop,nop,TS val 120822 ecr 1030718610], length 0
+03:29:43.703339 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 236592, win 3863, options [nop,nop,TS val 120822 ecr 1030718610], length 0
+03:29:43.705198 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 237940, win 3884, options [nop,nop,TS val 120822 ecr 1030718623], length 0
+03:29:43.705212 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 239288, win 3905, options [nop,nop,TS val 120823 ecr 1030718623], length 0
+03:29:43.705222 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 240636, win 3926, options [nop,nop,TS val 120823 ecr 1030718623], length 0
+03:29:43.705241 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 241984, win 3947, options [nop,nop,TS val 120823 ecr 1030718623], length 0
+03:29:43.705251 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 243332, win 3968, options [nop,nop,TS val 120823 ecr 1030718623], length 0
+03:29:43.705263 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 244680, win 3989, options [nop,nop,TS val 120823 ecr 1030718623], length 0
+03:29:43.707577 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 244680:246028, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.707689 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 246028:247376, ack 1198, win 1014, options [nop,nop,TS val 1030718623 ecr 120820], length 1348
+03:29:43.709514 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 247376:248724, ack 1198, win 1014, options [nop,nop,TS val 1030718624 ecr 120820], length 1348
+03:29:43.709581 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 248724:250072, ack 1198, win 1014, options [nop,nop,TS val 1030718624 ecr 120820], length 1348
+03:29:43.709421 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 246028, win 4010, options [nop,nop,TS val 120823 ecr 1030718623], length 0
+03:29:43.709699 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 247376, win 4031, options [nop,nop,TS val 120823 ecr 1030718623], length 0
+03:29:43.711111 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 250072:251420, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120820], length 1348
+03:29:43.711227 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 251420:252768, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120820], length 1348
+03:29:43.711269 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 252768:254116, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120820], length 1348
+03:29:43.711014 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 248724, win 4052, options [nop,nop,TS val 120823 ecr 1030718624], length 0
+03:29:43.711648 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 250072, win 4073, options [nop,nop,TS val 120823 ecr 1030718624], length 0
+03:29:43.712917 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 251420, win 4094, options [nop,nop,TS val 120823 ecr 1030718627], length 0
+03:29:43.713231 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 252768, win 4115, options [nop,nop,TS val 120823 ecr 1030718627], length 0
+03:29:43.713379 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 254116, win 4136, options [nop,nop,TS val 120823 ecr 1030718627], length 0
+03:29:43.713699 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 254116:255464, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120820], length 1348
+03:29:43.713847 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 255464:256812, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120820], length 1348
+03:29:43.713890 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 256812:258160, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120820], length 1348
+03:29:43.713936 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 258160:259508, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120820], length 1348
+03:29:43.715907 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 255464, win 4157, options [nop,nop,TS val 120824 ecr 1030718627], length 0
+03:29:43.715935 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 256812, win 4179, options [nop,nop,TS val 120824 ecr 1030718627], length 0
+03:29:43.715948 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 258160, win 4200, options [nop,nop,TS val 120824 ecr 1030718627], length 0
+03:29:43.716327 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 259508, win 4221, options [nop,nop,TS val 120824 ecr 1030718627], length 0
+03:29:43.717026 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 259508:260856, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120821], length 1348
+03:29:43.717888 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 260856:262204, ack 1198, win 1014, options [nop,nop,TS val 1030718627 ecr 120821], length 1348
+03:29:43.718223 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 260856, win 4242, options [nop,nop,TS val 120824 ecr 1030718627], length 0
+03:29:43.718798 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 262204:263552, ack 1198, win 1014, options [nop,nop,TS val 1030718629 ecr 120821], length 1348
+03:29:43.719123 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 262204, win 4263, options [nop,nop,TS val 120824 ecr 1030718627], length 0
+03:29:43.719618 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 263552:264900, ack 1198, win 1014, options [nop,nop,TS val 1030718629 ecr 120821], length 1348
+03:29:43.719960 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 263552, win 4284, options [nop,nop,TS val 120824 ecr 1030718629], length 0
+03:29:43.720491 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 264900:266248, ack 1198, win 1014, options [nop,nop,TS val 1030718630 ecr 120821], length 1348
+03:29:43.720954 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 264900, win 4305, options [nop,nop,TS val 120824 ecr 1030718629], length 0
+03:29:43.721339 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 266248:267596, ack 1198, win 1014, options [nop,nop,TS val 1030718631 ecr 120821], length 1348
+03:29:43.721581 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 266248, win 4326, options [nop,nop,TS val 120824 ecr 1030718630], length 0
+03:29:43.722201 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 267596:268944, ack 1198, win 1014, options [nop,nop,TS val 1030718633 ecr 120821], length 1348
+03:29:43.722455 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 267596, win 4347, options [nop,nop,TS val 120824 ecr 1030718631], length 0
+03:29:43.723104 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 268944:270292, ack 1198, win 1014, options [nop,nop,TS val 1030718633 ecr 120821], length 1348
+03:29:43.723346 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 268944, win 4368, options [nop,nop,TS val 120824 ecr 1030718633], length 0
+03:29:43.723933 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 270292:271640, ack 1198, win 1014, options [nop,nop,TS val 1030718642 ecr 120822], length 1348
+03:29:43.724210 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 270292, win 4389, options [nop,nop,TS val 120825 ecr 1030718633], length 0
+03:29:43.724851 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 271640:272988, ack 1198, win 1014, options [nop,nop,TS val 1030718642 ecr 120822], length 1348
+03:29:43.724929 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 272988:274336, ack 1198, win 1014, options [nop,nop,TS val 1030718642 ecr 120822], length 1348
+03:29:43.724962 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 274336:275684, ack 1198, win 1014, options [nop,nop,TS val 1030718642 ecr 120822], length 1348
+03:29:43.724990 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 275684:277032, ack 1198, win 1014, options [nop,nop,TS val 1030718642 ecr 120822], length 1348
+03:29:43.725045 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], seq 277032:278380, ack 1198, win 1014, options [nop,nop,TS val 1030718642 ecr 120822], length 1348
+03:29:43.725203 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 271640, win 4410, options [nop,nop,TS val 120825 ecr 1030718642], length 0
+03:29:43.726955 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 272988, win 4431, options [nop,nop,TS val 120825 ecr 1030718642], length 0
+03:29:43.726969 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 274336, win 4452, options [nop,nop,TS val 120825 ecr 1030718642], length 0
+03:29:43.726984 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 275684, win 4473, options [nop,nop,TS val 120825 ecr 1030718642], length 0
+03:29:43.727377 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 277032, win 4494, options [nop,nop,TS val 120825 ecr 1030718642], length 0
+03:29:43.727394 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 278380, win 4516, options [nop,nop,TS val 120825 ecr 1030718642], length 0
+03:29:43.729112 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 278380:278839, ack 1198, win 1014, options [nop,nop,TS val 1030718643 ecr 120822], length 459
+03:29:43.730080 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [.], ack 278839, win 4516, options [nop,nop,TS val 120825 ecr 1030718643], length 0
+03:29:43.735253 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1198:1235, ack 278839, win 4516, options [nop,nop,TS val 120826 ecr 1030718643], length 37
+03:29:43.739624 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [F.], seq 1235, ack 278839, win 4516, options [nop,nop,TS val 120826 ecr 1030718643], length 0
+03:29:43.749295 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], ack 1235, win 1014, options [nop,nop,TS val 1030718677 ecr 120826], length 0
+03:29:43.749473 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [P.], seq 278839:278876, ack 1235, win 1014, options [nop,nop,TS val 1030718677 ecr 120826], length 37
+03:29:43.749588 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [F.], seq 278876, ack 1235, win 1014, options [nop,nop,TS val 1030718677 ecr 120826], length 0
+03:29:43.750842 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [R], seq 1430780035, win 0, length 0
+03:29:43.752863 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [R], seq 1430780035, win 0, length 0
+03:29:43.753685 IP a104-126-131-152.deploy.static.akamaitechnologies.com.https > 192.168.1.10.57535: Flags [.], ack 1236, win 1014, options [nop,nop,TS val 1030718682 ecr 120826], length 0
+03:29:43.761619 IP 192.168.1.10.57535 > a104-126-131-152.deploy.static.akamaitechnologies.com.https: Flags [R], seq 1430780036, win 0, length 0
+03:29:49.661014 IP 192.168.1.10.42088 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 2621862169:2621862593, ack 413369821, win 148, options [nop,nop,TS val 121417 ecr 2050994797], length 424
+03:29:49.693009 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42088: Flags [.], ack 424, win 211, options [nop,nop,TS val 2051027414 ecr 121417], length 0
+03:29:49.701172 IP 192.168.1.10.42088 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 424:1590, ack 1, win 148, options [nop,nop,TS val 121422 ecr 2051027414], length 1166
+03:29:49.732744 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42088: Flags [.], ack 1590, win 222, options [nop,nop,TS val 2051027454 ecr 121422], length 0
+03:29:49.927999 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42088: Flags [P.], seq 1:505, ack 1590, win 222, options [nop,nop,TS val 2051027649 ecr 121422], length 504
+03:29:49.928253 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42088: Flags [P.], seq 505:920, ack 1590, win 222, options [nop,nop,TS val 2051027649 ecr 121422], length 415
+03:29:49.928395 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42088: Flags [P.], seq 920:946, ack 1590, win 222, options [nop,nop,TS val 2051027650 ecr 121422], length 26
+03:29:49.929609 IP 192.168.1.10.42088 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 505, win 156, options [nop,nop,TS val 121445 ecr 2051027649], length 0
+03:29:49.929967 IP 192.168.1.10.42088 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 920, win 165, options [nop,nop,TS val 121445 ecr 2051027649], length 0
+03:29:49.929986 IP 192.168.1.10.42088 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 946, win 165, options [nop,nop,TS val 121445 ecr 2051027650], length 0
+03:29:52.056563 IP 192.168.1.10.39926 > sea15s07-in-f10.1e100.net.https: Flags [F.], seq 786044293, ack 3339473267, win 304, options [nop,nop,TS val 121657 ecr 2780962048], length 0
+03:29:52.057007 IP 192.168.1.10.37233 > sea15s12-in-f2.1e100.net.https: Flags [F.], seq 1858765084, ack 306975381, win 199, options [nop,nop,TS val 121657 ecr 653874814], length 0
+03:29:52.057026 IP 192.168.1.10.37235 > sea15s12-in-f2.1e100.net.https: Flags [F.], seq 3629606278, ack 41393871, win 199, options [nop,nop,TS val 121657 ecr 1947050921], length 0
+03:29:52.088543 IP sea15s12-in-f2.1e100.net.https > 192.168.1.10.37233: Flags [F.], seq 1, ack 1, win 179, options [nop,nop,TS val 653928076 ecr 121657], length 0
+03:29:52.088727 IP sea15s07-in-f10.1e100.net.https > 192.168.1.10.39926: Flags [F.], seq 1, ack 1, win 190, options [nop,nop,TS val 2781002382 ecr 121657], length 0
+03:29:52.089512 IP sea15s12-in-f2.1e100.net.https > 192.168.1.10.37235: Flags [F.], seq 1, ack 1, win 175, options [nop,nop,TS val 1947103086 ecr 121657], length 0
+03:29:52.092912 IP 192.168.1.10.37233 > sea15s12-in-f2.1e100.net.https: Flags [.], ack 2, win 199, options [nop,nop,TS val 121661 ecr 653928076], length 0
+03:29:52.092926 IP 192.168.1.10.39926 > sea15s07-in-f10.1e100.net.https: Flags [.], ack 2, win 304, options [nop,nop,TS val 121661 ecr 2781002382], length 0
+03:29:52.092946 IP 192.168.1.10.37235 > sea15s12-in-f2.1e100.net.https: Flags [.], ack 2, win 199, options [nop,nop,TS val 121661 ecr 1947103086], length 0
+03:29:59.829965 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [S], seq 2319878736, win 14600, options [mss 1460,sackOK,TS val 122435 ecr 0,nop,wscale 7], length 0
+03:29:59.860488 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [S.], seq 2676486845, ack 2319878737, win 42408, options [mss 1360,sackOK,TS val 2789591891 ecr 122435,nop,wscale 8], length 0
+03:29:59.861608 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 122438 ecr 2789591891], length 0
+03:29:59.862981 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 1:171, ack 1, win 115, options [nop,nop,TS val 122438 ecr 2789591891], length 170
+03:29:59.893412 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [.], ack 171, win 170, options [nop,nop,TS val 2789591923 ecr 122438], length 0
+03:29:59.903049 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [.], seq 1:1349, ack 171, win 170, options [nop,nop,TS val 2789591933 ecr 122438], length 1348
+03:29:59.903160 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [.], seq 1349:2697, ack 171, win 170, options [nop,nop,TS val 2789591933 ecr 122438], length 1348
+03:29:59.903193 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [P.], seq 2697:2873, ack 171, win 170, options [nop,nop,TS val 2789591933 ecr 122438], length 176
+03:29:59.904691 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 1349, win 136, options [nop,nop,TS val 122443 ecr 2789591933], length 0
+03:29:59.905142 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 2697, win 157, options [nop,nop,TS val 122443 ecr 2789591933], length 0
+03:29:59.905160 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 2873, win 178, options [nop,nop,TS val 122443 ecr 2789591933], length 0
+03:29:59.985535 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 171:256, ack 2873, win 178, options [nop,nop,TS val 122450 ecr 2789591933], length 85
+03:30:00.017681 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [P.], seq 2873:3149, ack 256, win 170, options [nop,nop,TS val 2789592048 ecr 122450], length 276
+03:30:00.024161 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 3149, win 199, options [nop,nop,TS val 122454 ecr 2789592048], length 0
+03:30:00.044137 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 256:585, ack 3149, win 199, options [nop,nop,TS val 122456 ecr 2789592048], length 329
+03:30:00.085592 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [P.], seq 3149:3811, ack 585, win 175, options [nop,nop,TS val 2789592115 ecr 122456], length 662
+03:30:00.101549 IP 192.168.1.10.38016 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 4088724082:4088724105, ack 1572161871, win 199, options [nop,nop,TS val 122462 ecr 1641405668], length 23
+03:30:00.102176 IP 192.168.1.10.38016 > sea15s11-in-f170.1e100.net.https: Flags [F.], seq 23, ack 1, win 199, options [nop,nop,TS val 122462 ecr 1641405668], length 0
+03:30:00.124674 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 3811, win 220, options [nop,nop,TS val 122465 ecr 2789592115], length 0
+03:30:00.133337 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38016: Flags [.], ack 23, win 175, options [nop,nop,TS val 1641462023 ecr 122462], length 0
+03:30:00.133518 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38016: Flags [F.], seq 1, ack 23, win 175, options [nop,nop,TS val 1641462023 ecr 122462], length 0
+03:30:00.133637 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38016: Flags [.], ack 24, win 175, options [nop,nop,TS val 1641462023 ecr 122462], length 0
+03:30:00.134911 IP 192.168.1.10.38016 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 2, win 199, options [nop,nop,TS val 122466 ecr 1641462023], length 0
+03:30:00.276049 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 585:1333, ack 3811, win 220, options [nop,nop,TS val 122480 ecr 2789592115], length 748
+03:30:00.314841 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.41733: Flags [P.], seq 3811:4217, ack 1333, win 180, options [nop,nop,TS val 2789592345 ecr 122480], length 406
+03:30:00.316154 IP 192.168.1.10.41733 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 4217, win 241, options [nop,nop,TS val 122484 ecr 2789592345], length 0
+03:30:22.682583 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [S], seq 2766133825, win 14600, options [mss 1460,sackOK,TS val 124720 ecr 0,nop,wscale 7], length 0
+03:30:22.713978 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [S.], seq 585052011, ack 2766133826, win 42408, options [mss 1360,sackOK,TS val 3088984597 ecr 124720,nop,wscale 8], length 0
+03:30:22.715579 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 124724 ecr 3088984597], length 0
+03:30:22.720273 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 1:167, ack 1, win 115, options [nop,nop,TS val 124724 ecr 3088984597], length 166
+03:30:22.751759 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [.], ack 167, win 170, options [nop,nop,TS val 3088984635 ecr 124724], length 0
+03:30:22.759004 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [.], seq 1:1349, ack 167, win 170, options [nop,nop,TS val 3088984642 ecr 124724], length 1348
+03:30:22.759115 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [.], seq 1349:2697, ack 167, win 170, options [nop,nop,TS val 3088984642 ecr 124724], length 1348
+03:30:22.759148 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [P.], seq 2697:3264, ack 167, win 170, options [nop,nop,TS val 3088984642 ecr 124724], length 567
+03:30:22.760586 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 1349, win 136, options [nop,nop,TS val 124728 ecr 3088984642], length 0
+03:30:22.760950 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 2697, win 157, options [nop,nop,TS val 124728 ecr 3088984642], length 0
+03:30:22.761186 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 3264, win 178, options [nop,nop,TS val 124728 ecr 3088984642], length 0
+03:30:22.804583 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 167:252, ack 3264, win 178, options [nop,nop,TS val 124732 ecr 3088984642], length 85
+03:30:22.836425 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [P.], seq 3264:3307, ack 252, win 170, options [nop,nop,TS val 3088984719 ecr 124732], length 43
+03:30:22.837698 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 3307, win 178, options [nop,nop,TS val 124736 ecr 3088984719], length 0
+03:30:22.885326 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 252:699, ack 3307, win 178, options [nop,nop,TS val 124740 ecr 3088984719], length 447
+03:30:22.885355 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], seq 699:2047, ack 3307, win 178, options [nop,nop,TS val 124740 ecr 3088984719], length 1348
+03:30:22.916892 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [.], ack 2047, win 185, options [nop,nop,TS val 3088984800 ecr 124740], length 0
+03:30:22.918181 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 2047:2263, ack 3307, win 178, options [nop,nop,TS val 124744 ecr 3088984800], length 216
+03:30:22.980911 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [P.], seq 3307:4063, ack 2263, win 196, options [nop,nop,TS val 3088984864 ecr 124744], length 756
+03:30:22.981146 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [P.], seq 4063:4089, ack 2263, win 196, options [nop,nop,TS val 3088984864 ecr 124744], length 26
+03:30:22.982332 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 4063, win 199, options [nop,nop,TS val 124750 ecr 3088984864], length 0
+03:30:23.014936 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 4089, win 199, options [nop,nop,TS val 124754 ecr 3088984864], length 0
+03:30:23.311289 IP 192.168.1.10.38008 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 4243879029:4243879052, ack 544914717, win 241, options [nop,nop,TS val 124782 ecr 2526995161], length 23
+03:30:23.311314 IP 192.168.1.10.38008 > sea15s11-in-f170.1e100.net.https: Flags [F.], seq 23, ack 1, win 241, options [nop,nop,TS val 124782 ecr 2526995161], length 0
+03:30:23.342608 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38008: Flags [.], ack 23, win 175, options [nop,nop,TS val 2527083903 ecr 124782], length 0
+03:30:23.342804 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38008: Flags [F.], seq 1, ack 24, win 175, options [nop,nop,TS val 2527083903 ecr 124782], length 0
+03:30:23.344729 IP 192.168.1.10.38008 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 2, win 241, options [nop,nop,TS val 124786 ecr 2527083903], length 0
+03:30:23.463848 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 2263:2710, ack 4089, win 199, options [nop,nop,TS val 124798 ecr 3088984864], length 447
+03:30:23.464383 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], seq 2710:4058, ack 4089, win 199, options [nop,nop,TS val 124798 ecr 3088984864], length 1348
+03:30:23.495577 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [.], ack 4058, win 217, options [nop,nop,TS val 3088985379 ecr 124798], length 0
+03:30:23.496788 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 4058:4392, ack 4089, win 199, options [nop,nop,TS val 124802 ecr 3088985379], length 334
+03:30:23.541926 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [P.], seq 4089:4743, ack 4392, win 227, options [nop,nop,TS val 3088985425 ecr 124802], length 654
+03:30:23.542262 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38034: Flags [P.], seq 4743:4769, ack 4392, win 227, options [nop,nop,TS val 3088985425 ecr 124802], length 26
+03:30:23.545967 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 4743, win 220, options [nop,nop,TS val 124806 ecr 3088985425], length 0
+03:30:23.545989 IP 192.168.1.10.38034 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 4769, win 220, options [nop,nop,TS val 124806 ecr 3088985425], length 0
+03:30:23.751446 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [S], seq 2738131960, win 14600, options [mss 1460,sackOK,TS val 124827 ecr 0,nop,wscale 7], length 0
+03:30:23.783063 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [S.], seq 3594159140, ack 2738131961, win 42408, options [mss 1360,sackOK,TS val 3619464916 ecr 124827,nop,wscale 8], length 0
+03:30:23.784283 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 124830 ecr 3619464916], length 0
+03:30:23.792042 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 1:199, ack 1, win 115, options [nop,nop,TS val 124831 ecr 3619464916], length 198
+03:30:23.801775 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [S], seq 1799610068, win 14600, options [mss 1460,sackOK,TS val 124832 ecr 0,nop,wscale 7], length 0
+03:30:23.823545 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [.], ack 199, win 170, options [nop,nop,TS val 3619464956 ecr 124831], length 0
+03:30:23.825815 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [P.], seq 1:140, ack 199, win 170, options [nop,nop,TS val 3619464959 ecr 124831], length 139
+03:30:23.826920 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 140, win 123, options [nop,nop,TS val 124835 ecr 3619464959], length 0
+03:30:23.827276 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 199:242, ack 140, win 123, options [nop,nop,TS val 124835 ecr 3619464959], length 43
+03:30:23.832207 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [S.], seq 3031624809, ack 1799610069, win 42408, options [mss 1360,sackOK,TS val 3890666155 ecr 124832,nop,wscale 8], length 0
+03:30:23.834909 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [.], ack 1, win 115, options [nop,nop,TS val 124835 ecr 3890666155], length 0
+03:30:23.840128 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [P.], seq 1:198, ack 1, win 115, options [nop,nop,TS val 124836 ecr 3890666155], length 197
+03:30:23.855034 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [.], seq 242:1590, ack 140, win 123, options [nop,nop,TS val 124838 ecr 3619464959], length 1348
+03:30:23.870530 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [.], ack 198, win 170, options [nop,nop,TS val 3890666193 ecr 124836], length 0
+03:30:23.870813 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [P.], seq 1:140, ack 198, win 170, options [nop,nop,TS val 3890666193 ecr 124836], length 139
+03:30:23.872023 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [.], ack 140, win 123, options [nop,nop,TS val 124839 ecr 3890666193], length 0
+03:30:23.872501 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [P.], seq 198:241, ack 140, win 123, options [nop,nop,TS val 124839 ecr 3890666193], length 43
+03:30:23.886546 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [.], ack 1590, win 181, options [nop,nop,TS val 3619465019 ecr 124835], length 0
+03:30:23.887809 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 1590:2548, ack 140, win 123, options [nop,nop,TS val 124841 ecr 3619465019], length 958
+03:30:23.898588 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [.], seq 241:1589, ack 140, win 123, options [nop,nop,TS val 124842 ecr 3890666193], length 1348
+03:30:23.899216 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [.], seq 1589:2937, ack 140, win 123, options [nop,nop,TS val 124842 ecr 3890666193], length 1348
+03:30:23.929368 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [.], ack 1589, win 181, options [nop,nop,TS val 3890666252 ecr 124839], length 0
+03:30:23.930684 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [P.], seq 2937:4090, ack 140, win 123, options [nop,nop,TS val 124845 ecr 3890666252], length 1153
+03:30:23.939334 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [P.], seq 140:744, ack 2548, win 192, options [nop,nop,TS val 3619465072 ecr 124841], length 604
+03:30:23.939805 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [P.], seq 744:770, ack 2548, win 192, options [nop,nop,TS val 3619465073 ecr 124841], length 26
+03:30:23.940843 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 770, win 132, options [nop,nop,TS val 124846 ecr 3619465072], length 0
+03:30:23.945298 IP 192.168.1.10.57779 > sea15s01-in-f138.1e100.net.https: Flags [P.], seq 1378983796:1378983819, ack 4133954338, win 473, options [nop,nop,TS val 124847 ecr 3890599086], length 23
+03:30:23.945650 IP 192.168.1.10.57779 > sea15s01-in-f138.1e100.net.https: Flags [F.], seq 23, ack 1, win 473, options [nop,nop,TS val 124847 ecr 3890599086], length 0
+03:30:23.961339 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [.], ack 4090, win 202, options [nop,nop,TS val 3890666284 ecr 124842], length 0
+03:30:23.977440 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57779: Flags [F.], seq 1, ack 24, win 206, options [nop,nop,TS val 3890666299 ecr 124847], length 0
+03:30:23.979858 IP 192.168.1.10.57779 > sea15s01-in-f138.1e100.net.https: Flags [.], ack 2, win 473, options [nop,nop,TS val 124850 ecr 3890666299], length 0
+03:30:23.987671 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [P.], seq 140:1488, ack 4090, win 202, options [nop,nop,TS val 3890666310 ecr 124842], length 1348
+03:30:23.987902 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [P.], seq 1488:2836, ack 4090, win 202, options [nop,nop,TS val 3890666310 ecr 124842], length 1348
+03:30:23.988478 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [.], seq 2836:4184, ack 4090, win 202, options [nop,nop,TS val 3890666310 ecr 124842], length 1348
+03:30:23.988557 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [P.], seq 4184:4453, ack 4090, win 202, options [nop,nop,TS val 3890666310 ecr 124842], length 269
+03:30:23.989535 IP sea15s01-in-f138.1e100.net.https > 192.168.1.10.57791: Flags [P.], seq 4453:4479, ack 4090, win 202, options [nop,nop,TS val 3890666310 ecr 124842], length 26
+03:30:23.989666 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [.], ack 2836, win 165, options [nop,nop,TS val 124851 ecr 3890666310], length 0
+03:30:23.990195 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [.], ack 4453, win 207, options [nop,nop,TS val 124851 ecr 3890666310], length 0
+03:30:24.004442 IP 192.168.1.10.42080 > sea15s11-in-f14.1e100.net.https: Flags [P.], seq 2009349468:2009349491, ack 3097126534, win 452, options [nop,nop,TS val 124852 ecr 2640490532], length 23
+03:30:24.005152 IP 192.168.1.10.42080 > sea15s11-in-f14.1e100.net.https: Flags [F.], seq 23, ack 1, win 452, options [nop,nop,TS val 124853 ecr 2640490532], length 0
+03:30:24.024896 IP 192.168.1.10.57791 > sea15s01-in-f138.1e100.net.https: Flags [.], ack 4479, win 207, options [nop,nop,TS val 124855 ecr 3890666310], length 0
+03:30:24.037325 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42080: Flags [.], ack 23, win 396, options [nop,nop,TS val 2640555020 ecr 124852], length 0
+03:30:24.037531 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42080: Flags [F.], seq 1, ack 23, win 396, options [nop,nop,TS val 2640555021 ecr 124852], length 0
+03:30:24.037622 IP sea15s11-in-f14.1e100.net.https > 192.168.1.10.42080: Flags [.], ack 24, win 396, options [nop,nop,TS val 2640555021 ecr 124853], length 0
+03:30:24.038939 IP 192.168.1.10.42080 > sea15s11-in-f14.1e100.net.https: Flags [.], ack 2, win 452, options [nop,nop,TS val 124856 ecr 2640555021], length 0
+03:30:24.053973 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [P.], seq 2548:3627, ack 770, win 132, options [nop,nop,TS val 124857 ecr 3619465072], length 1079
+03:30:24.103450 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [P.], seq 770:1406, ack 3627, win 202, options [nop,nop,TS val 3619465236 ecr 124857], length 636
+03:30:24.103637 IP sea15s11-in-f170.1e100.net.https > 192.168.1.10.38035: Flags [P.], seq 1406:1432, ack 3627, win 202, options [nop,nop,TS val 3619465236 ecr 124857], length 26
+03:30:24.108999 IP 192.168.1.10.38035 > sea15s11-in-f170.1e100.net.https: Flags [.], ack 1432, win 142, options [nop,nop,TS val 124863 ecr 3619465236], length 0
+03:30:45.505588 IP sea15s07-in-f14.1e100.net.www > 192.168.1.10.49690: Flags [F.], seq 2797330171, ack 2648154012, win 219, options [nop,nop,TS val 634976415 ecr 115017], length 0
+03:30:45.635405 IP 192.168.1.10.49690 > sea15s07-in-f14.1e100.n

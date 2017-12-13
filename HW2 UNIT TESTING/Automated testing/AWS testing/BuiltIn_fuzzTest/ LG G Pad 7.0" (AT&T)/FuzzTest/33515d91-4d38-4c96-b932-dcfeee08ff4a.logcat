@@ -1,0 +1,913 @@
+--------- beginning of /dev/log/main
+12-12 22:28:41.249   970  1146 D qcom_sensors_hal: hal_time_data_cb: msg_type 2
+12-12 22:28:41.249   970  1146 D qcom_sensors_hal: hal_time_data_cb: Sn 24, msg Id 3, txn Id 0
+12-12 22:28:41.249   970  1146 D qcom_sensors_hal: hal_ts_offset_is: Apps: 1513135721253071906; DSPS: 362393978; Offset: 1513124661866536262
+12-12 22:28:41.569 14491 14491 D AndroidRuntime: 
+12-12 22:28:41.569 14491 14491 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 22:28:41.569 14491 14491 D AndroidRuntime: CheckJNI is OFF
+12-12 22:28:41.589 14491 14491 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 22:28:41.589 14491 14491 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 22:28:41.599 14491 14491 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 22:28:41.599 14491 14491 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 22:28:41.599 14491 14491 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 22:28:41.639 14491 14491 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 184 unimplemented (abstract) methods
+12-12 22:28:41.819 14491 14491 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-12 22:28:41.819 14491 14491 E android.os.Debug: failed to load memtrack module: -2
+12-12 22:28:41.899 14491 14491 D AndroidRuntime: Calling main entry com.android.commands.monkey.Monkey
+--------- beginning of /dev/log/system
+12-12 22:28:41.929   970  1021 W BroadcastQueue: Skipping deliver [background] BroadcastRecord{42c0a988 u-1 android.net.conn.CONNECTIVITY_CHANGE} to ReceiverList{41d7aaa0 14491 (unknown name)/2000/u-1 remote:41e5baf0}: process crashing
+12-12 22:28:41.979 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11056729
+12-12 22:28:41.989   970  6170 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.MainActivity} from pid 14491
+12-12 22:28:42.029  1226  1237 D dalvikvm: GC_EXPLICIT freed 16K, 65% free 4124K/11632K, paused 2ms+2ms, total 25ms
+12-12 22:28:42.029   970  6170 I ActivityManager: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:42.059  1226  1238 D dalvikvm: GC_EXPLICIT freed 12K, 65% free 4124K/11632K, paused 2ms+3ms, total 25ms
+12-12 22:28:42.059  1226  1238 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....MainActivity}
+12-12 22:28:42.089   970  6170 D ActivityManager: pauseBackStacks: stack=ActivityStack{424cb848 stackId=0, 1 tasks} mResumedActivity=ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1}
+12-12 22:28:42.089  1226  1237 D SplitWindowPolicyService: updateActivityStateChanged: resumed=false pkgName=co.....Launcher, screenId=0, isScreenFull=true, isMinimized=false, topRunningActivity=ActivityInfo{41cdc288 co.....Launcher}, taskId=1, activityType=1
+12-12 22:28:42.089   970  6170 V ActivityManager: Moving to PAUSING: ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1}
+12-12 22:28:42.089   970  6170 V ActivityManager: resumeTopActivityLocked: Skip resume: need to start pausing
+12-12 22:28:42.099  1559  1559 I [LGHome]EVENT: [Launcher.java:1056:onPause()]onPause
+12-12 22:28:42.099   970  6170 D ActivityManager: allPausedActivitiesComplete: r=ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1} state=PAUSING
+12-12 22:28:42.109   970  1554 V ActivityManager: Moving to PAUSED: ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1} (pause complete)
+12-12 22:28:42.109   970  1554 D ActivityManager: resumeTopActivityLocked: Restarting ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:42.119 14506 14506 D dalvikvm: Late-enabling CheckJNI
+12-12 22:28:42.119   970  1554 I ActivityManager: Start proc com.example.snoopy for activity com.example.snoopy/.MainActivity: pid=14506 uid=15808 gids={55808, 3003, 1028, 1015}
+12-12 22:28:42.129  1519  1536 I com.skyfire.browser.toolbar.ProcessObserverService: On importance changed 1559,10026,400
+12-12 22:28:42.129   970  1021 V ActivityManager: Moving to STOPPING: ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1} (stop requested)
+12-12 22:28:42.149 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11056891
+12-12 22:28:42.149   970  1569 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.MainActivity} from pid 14491
+12-12 22:28:42.159   970  1020 E ViewRootImpl: mIsPenSupport: :true
+12-12 22:28:42.179  1559  1559 I [LGHome]EVENT: [Launcher.java:5668:onWindowFocusChanged()]onWindowFocusChanged() hasFocus false
+12-12 22:28:42.219  1776  1776 I SearchController: #onHotwordDetectorStopped(false)
+12-12 22:28:42.229  1776 11740 I MicrophoneInputStream: mic_close
+12-12 22:28:42.239   318  1330 V AudioFlinger: RecordHandle::stop()
+12-12 22:28:42.239   318  1330 V AudioFlinger: RecordThread::stop
+12-12 22:28:42.249   318 12517 V audio_hw_primary: in_standby: enter
+12-12 22:28:42.249  1226  3934 D dalvikvm: GC_EXPLICIT freed 17K, 65% free 4125K/11632K, paused 3ms+6ms, total 101ms
+12-12 22:28:42.259   303   381 I Vold    : [LGE][VOLD][NetlinkHandler.cpp][onEvent()] subsys:cpu, action:0
+12-12 22:28:42.269   303   381 I Vold    : [LGE][VOLD][NetlinkHandler.cpp][onEvent()] subsys:cpu, action:0
+12-12 22:28:42.269   970  1569 I ActivityManager: ActivityRecord{41cd5d10 u0 com.example.snoopy/.MainActivity t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:42.289   318 12517 V audio_hw_primary: stop_input_stream: enter: usecase(7: audio-record)
+12-12 22:28:42.289   318 12517 V audio_hw_primary: disable_audio_route: enter: usecase(7)
+12-12 22:28:42.289   318 12517 V audio_hw_primary: disable_audio_route: reset mixer path: audio-record
+12-12 22:28:42.299   318 12517 V audio_hw_primary: disable_audio_route: exit
+12-12 22:28:42.299   318 12517 D hardware_info: hw_info_append_hw_type : device_name = lg-vr-handset-mic
+12-12 22:28:42.299   318 12517 V audio_hw_primary: disable_snd_device: snd_device(82: lg-vr-handset-mic)
+12-12 22:28:42.299   318 12517 I listen_hal_loader: audio_extn_listen_update_status(): start listen. current active device = lg-vr-handset-mic. Event = 0
+12-12 22:28:42.299   318 12517 V listen_hw: listen_hw_notify_event: Enter. event = 0
+12-12 22:28:42.299   318 12517 V listen_hw: handle_notify_event: Enter. event type = capture is Not active
+12-12 22:28:42.299   318 12517 V listen_hw: handle_notify_event: mad disabled. nothing to do = 0
+12-12 22:28:42.299   318 12517 V audio_hw_primary: stop_input_stream: exit: status(0)
+12-12 22:28:42.299   318 12517 V audio_hw_primary: in_standby: exit:  status(0)
+12-12 22:28:42.299   318 12517 V AudioFlinger: releaseWakeLock_l() AudioIn_C
+12-12 22:28:42.299   318 12517 V AudioFlinger: RecordThread: loop stopping
+12-12 22:28:42.299   318  1330 V AudioFlinger: Record stopped OK
+12-12 22:28:42.299   318  1330 V AudioPolicyManagerBase: stopInput() input 12
+12-12 22:28:42.299   318  1330 V AudioPolicyService: inserting command: 3 at index 0, num commands 0
+12-12 22:28:42.299   318  1330 V AudioPolicyService: AudioCommandThread() adding set parameter string hotword_active=0;routing=0, io 12 ,delay 0
+12-12 22:28:42.299   318   601 V AudioPolicyService: AudioCommandThread() waking up
+12-12 22:28:42.299   318   601 V AudioPolicyService: AudioCommandThread() processing set parameters string hotword_active=0;routing=0, io 12
+12-12 22:28:42.299   318   601 E AudioSystem: AudioSystem::setParameters()...keyValue hotword_active=0;routing=0
+12-12 22:28:42.299   318   601 V AudioFlinger: setParameters(): io 12, keyvalue hotword_active=0;routing=0, calling pid 318
+12-12 22:28:42.299   318   601 V AudioFlinger: ThreadBase::setParameters() hotword_active=0;routing=0
+12-12 22:28:42.299   318 12517 V AudioFlinger: RecordThread: loop starting
+12-12 22:28:42.299   318 12517 V AudioFlinger: acquireWakeLock_l() AudioIn_C status 0
+12-12 22:28:42.299   318 12517 V AudioFlinger: releaseWakeLock_l() AudioIn_C
+12-12 22:28:42.299   318   601 V AudioPolicyService: AudioCommandThread() going to sleep
+12-12 22:28:42.299   318 12517 V AudioFlinger: RecordThread: loop stopping
+12-12 22:28:42.309  1776 11740 V AudioRecord: ~AudioRecord(): voiceActivationState 0
+12-12 22:28:42.319  1226  1237 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4124K/11632K, paused 8ms+3ms, total 41ms
+12-12 22:28:42.319  1226  1237 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....MainActivity}
+12-12 22:28:42.319   970  1569 D ActivityManager: resumeTopActivityLocked: Restarting ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:42.319   970  1569 D ActivityManager: resumeTopActivityLocked: Restarting ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:42.319   970  1572 V ActivityManager: Moving to STOPPED: ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1} (stop complete)
+12-12 22:28:42.329  1559  1559 I [LGHome]EVENT: [Launcher.java:5230:onStop()]onStop
+12-12 22:28:42.329   970  5138 V ActivityManager: Moving to RESUMED: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4} (starting new instance)
+12-12 22:28:42.339  1226  3934 D SplitWindowPolicyService: updateActivityStateChanged: resumed=true pkgName=co.....MainActivity, screenId=3, isScreenFull=true, isMinimized=false, topRunningActivity=ActivityInfo{41cdc288 co.....MainActivity}, taskId=4, activityType=0
+12-12 22:28:42.339  1226  1238 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:42.369   970  1033 I SystemUI[Framework]: PhoneWindowManager.updateSystemUiVisibilityLw() :visibility=0x0, pkg=com.example.snoopy
+12-12 22:28:42.369   970  5138 V WindowStateAnimator: Starting window displayed
+12-12 22:28:42.379  1519  1534 I com.skyfire.browser.toolbar.ProcessObserverService: On foreground activity changed : 14506,15808,true
+12-12 22:28:42.379  1519  1536 I com.skyfire.browser.toolbar.ProcessObserverService: On importance changed 14506,15808,100
+12-12 22:28:42.379  1519  1536 I com.skyfire.browser.toolbar.ProcessObserverService: On foreground activity changed : 1559,10026,false
+12-12 22:28:42.379  1226  1343 V SplitWindowPolicyService:  + make new screenInfo as screenId = 3, screenZone = 0, screenAttribute = 0, screenState = NORMAL, screenRect = Rect(0, 33 - 800, 1212), screenRectFull = null
+12-12 22:28:42.389   970  1153 I InputDispatcher: Dropping event because there is no touchable window at (557, 994).
+12-12 22:28:42.389   970  1376 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.389   970  1153 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=11950124 (in 892993 ms)
+12-12 22:28:42.389   970  1555 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.399 14506 14506 D HyLog   : I : /data/font/config/sfconfig.dat, No such file or directory (2)
+12-12 22:28:42.399 14506 14506 D HyLog   : I : /data/font/config/dfactpre.dat, No such file or directory (2)
+12-12 22:28:42.399 14506 14506 D HyLog   : I : /data/font/config/sfconfig.dat, No such file or directory (2)
+12-12 22:28:42.409  1776 11740 D AudioRecord: ~AudioRecord(): send the state of record
+12-12 22:28:42.409   318  1046 D AudioFlinger: sendRecordState() AudioRecord state changed. recordState 0, oldRecordState 0
+12-12 22:28:42.409   318  1046 D AudioFlinger: sendRecordState() same record state.
+12-12 22:28:42.409   318   318 V AudioFlinger: RecordHandle::stop()
+12-12 22:28:42.409   318   318 V AudioFlinger: RecordThread::stop
+12-12 22:28:42.409   318   318 V AudioPolicyManagerBase: releaseInput() 12
+12-12 22:28:42.409   318   318 V AudioFlinger: closeInput() 12
+12-12 22:28:42.409   318   318 V AudioSystem: ioConfigChanged() event 4, ioHandle 12
+12-12 22:28:42.409   970  1569 V AudioSystem: ioConfigChanged() event 4, ioHandle 12
+12-12 22:28:42.409  1776  1788 V AudioSystem: ioConfigChanged() event 4, ioHandle 12
+12-12 22:28:42.409  1510  1548 V AudioSystem: ioConfigChanged() event 4, ioHandle 12
+12-12 22:28:42.419 12618 12629 V AudioSystem: ioConfigChanged() event 4, ioHandle 12
+12-12 22:28:42.419   318   318 V AudioFlinger: ThreadBase::exit
+12-12 22:28:42.419   318  1330 V AudioFlinger: releasing 11 from 1776
+12-12 22:28:42.419   318  1330 V AudioFlinger:  decremented refcount to 0
+12-12 22:28:42.419   318  1330 V AudioFlinger: purging stale effects
+12-12 22:28:42.419   318 12517 V AudioFlinger: RecordThread: loop starting
+12-12 22:28:42.419   318 12517 V AudioFlinger: acquireWakeLock_l() AudioIn_C status 0
+12-12 22:28:42.419   318 12517 V SRS_ProcWS: SRS_Processing - SourceInDel - Source Not Located 0xb8bc9e50
+12-12 22:28:42.419   318 12517 V SRS_ProcWS: SRS_Processing - SourceInDel - Source Not Deleted 0xb8bc9e50
+12-12 22:28:42.419   318 12517 V AudioFlinger: releaseWakeLock_l() AudioIn_C
+12-12 22:28:42.419   318 12517 V AudioFlinger: RecordThread 0xb8bc9e50 exiting
+12-12 22:28:42.419   318   318 V audio_hw_primary: adev_close_input_stream
+12-12 22:28:42.419   318   318 V audio_hw_primary: in_standby: enter
+12-12 22:28:42.419   318   318 V audio_hw_primary: in_standby: exit:  status(0)
+12-12 22:28:42.419   318   318 V AudioPolicyManagerBase: releaseInput() exit
+12-12 22:28:42.419   318   318 V AudioFlinger: ~RecordThread RecordHooking is disabled.
+12-12 22:28:42.419   318   318 V AudioFlinger: setRecordHookingEnabled( 0 ) mRecordHookingEnabled 0
+12-12 22:28:42.419   318   318 E AudioFlinger: setRecordHookingEnabled() RedordHooking state is same. mRecordHookingHeapFD = 3801144
+12-12 22:28:42.419   318   318 V AudioFlinger: virtual android::AudioFlinger::RecordThread::RecordTrack::~RecordTrack()
+12-12 22:28:42.429   318   318 V AudioFlinger: removeClient_l() pid 1776, calling pid 318
+12-12 22:28:42.429  1776 11741 I MicroHotwordRecognitionRunner: Stopping hotword detection.
+12-12 22:28:42.429  1776 12512 I MicroHotwordRecognitionRunner: Hotword detection finished
+12-12 22:28:42.439  1226  1343 D dalvikvm: GC_EXPLICIT freed 18K, 65% free 4126K/11632K, paused 2ms+7ms, total 47ms
+12-12 22:28:42.439  1226  1343 V SplitWindowPolicyService: updateScreenStateAndRunningActivity: screenId=3, isFull=true, isMinimized=false, topRunningActivity=ActivityInfo{41cdc288 co.....MainActivity}, uid=15808
+12-12 22:28:42.439   970  1153 I InputDispatcher: Dropping event because there is no touchable window at (97, 630).
+12-12 22:28:42.439   970  5138 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.449   970  6170 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.499   970  1153 I InputDispatcher: Dropping event because there is no touchable window at (225, 1188).
+12-12 22:28:42.499   970  1375 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.499   970  1202 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.509 14506 14506 I dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.zzo.zzx
+12-12 22:28:42.509 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 525: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+12-12 22:28:42.509 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0013
+12-12 22:28:42.519 14506 14506 I dalvikvm: Could not find method android.content.Context.getNoBackupFilesDir, referenced from method com.google.android.gms.common.util.zzu.getNoBackupFilesDir
+12-12 22:28:42.519 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 391: Landroid/content/Context;.getNoBackupFilesDir ()Ljava/io/File;
+12-12 22:28:42.519 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 22:28:42.539 14506 14536 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 22:28:42.539 14506 14506 D FirebaseApp: com.google.firebase.crash.FirebaseCrash is not linked. Skipping initialization.
+12-12 22:28:42.549 14506 14536 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbec.zzalq
+12-12 22:28:42.549 14506 14536 W dalvikvm: VFY: unable to resolve virtual method 532: Landroid/content/pm/PackageManager;.isInstantApp (Ljava/lang/String;)Z
+12-12 22:28:42.549 14506 14536 D dalvikvm: VFY: replacing opcode 0x6e at 0x002d
+12-12 22:28:42.549   970  1153 I InputDispatcher: Dropping event because there is no touchable window at (166, 590).
+12-12 22:28:42.549   970  1376 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.559 14506 14506 I FA      : App measurement is starting up, version: 11400
+12-12 22:28:42.559 14506 14506 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-12 22:28:42.559   970  1917 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.589 14506 14536 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 22:28:42.609 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11057352
+12-12 22:28:42.609   970  1569 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.CameraInputFrames} from pid 14491
+12-12 22:28:42.619 14506 14506 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbeb.zzcp
+12-12 22:28:42.619 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 531: Landroid/content/pm/PackageManager;.isInstantApp ()Z
+12-12 22:28:42.619 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0028
+12-12 22:28:42.619 14506 14506 I FA      : To enable faster debug mode event logging run:
+12-12 22:28:42.619 14506 14506 I FA      :   adb shell setprop debug.firebase.analytics.app com.example.snoopy
+12-12 22:28:42.619 14506 14506 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzazv
+12-12 22:28:42.619 14506 14506 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 22:28:42.619 14506 14506 D dalvikvm: VFY: replacing opcode 0x1f at 0x000b
+12-12 22:28:42.619 14506 14506 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzs
+12-12 22:28:42.619 14506 14506 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 22:28:42.619 14506 14506 D dalvikvm: VFY: replacing opcode 0x1f at 0x0098
+12-12 22:28:42.619 14506 14506 D dalvikvm: DexOpt: unable to opt direct call 0x0142 at 0xa0 in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 22:28:42.629 14506 14506 D dalvikvm: DexOpt: unable to opt direct call 0x0597 at 0xae in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 22:28:42.659  1226  3934 D dalvikvm: GC_EXPLICIT freed 18K, 65% free 4124K/11632K, paused 2ms+3ms, total 37ms
+12-12 22:28:42.659   970  1569 I ActivityManager: ActivityRecord{41cdef30 u0 com.example.snoopy/.CameraInputFrames t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:42.699  1226  1238 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4124K/11632K, paused 2ms+3ms, total 33ms
+12-12 22:28:42.699  1226  1238 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....CameraInputFrames}
+12-12 22:28:42.709  1226  1237 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:42.709   970  1569 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:42.719 14506 14506 I FirebaseInitProvider: FirebaseApp initialization successful
+12-12 22:28:42.729 14506 14544 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 22:28:42.729 14506 14544 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 22:28:42.729 14506 14544 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 22:28:42.729 14506 14544 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 22:28:42.729 14506 14544 I dalvikvm: Could not find method android.app.job.JobParameters.getExtras, referenced from method com.google.android.gms.internal.zzcfh.onStartJob
+12-12 22:28:42.729   323   417 I ThermalEngine: Sensor:pa_therm1:29000 mC
+12-12 22:28:42.729 14506 14544 W dalvikvm: VFY: unable to resolve virtual method 327: Landroid/app/job/JobParameters;.getExtras ()Landroid/os/PersistableBundle;
+12-12 22:28:42.729 14506 14544 D dalvikvm: VFY: replacing opcode 0x6e at 0x000a
+12-12 22:28:42.759   970  1153 I InputDispatcher: Dropping event because there is no touchable window at (333, 955).
+12-12 22:28:42.759   970   982 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1558 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1558 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1558 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1554 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1917 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1202 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1572 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  1555 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.759   970  5138 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.769   970   983 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.799 14506 14506 I dalvikvm: Could not find method android.view.Window$Callback.onProvideKeyboardShortcuts, referenced from method android.support.v7.view.WindowCallbackWrapper.onProvideKeyboardShortcuts
+12-12 22:28:42.799 14506 14506 W dalvikvm: VFY: unable to resolve interface method 17293: Landroid/view/Window$Callback;.onProvideKeyboardShortcuts (Ljava/util/List;Landroid/view/Menu;I)V
+12-12 22:28:42.799 14506 14506 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 22:28:42.799 14506 14506 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/view/SearchEvent;)
+12-12 22:28:42.799 14506 14506 I dalvikvm: Could not find method android.view.Window$Callback.onSearchRequested, referenced from method android.support.v7.view.WindowCallbackWrapper.onSearchRequested
+12-12 22:28:42.799 14506 14506 W dalvikvm: VFY: unable to resolve interface method 17295: Landroid/view/Window$Callback;.onSearchRequested (Landroid/view/SearchEvent;)Z
+12-12 22:28:42.799 14506 14506 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 22:28:42.799 14506 14506 I dalvikvm: Could not find method android.view.Window$Callback.onWindowStartingActionMode, referenced from method android.support.v7.view.WindowCallbackWrapper.onWindowStartingActionMode
+12-12 22:28:42.799 14506 14506 W dalvikvm: VFY: unable to resolve interface method 17299: Landroid/view/Window$Callback;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 22:28:42.799 14506 14506 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 22:28:42.799 14506 14506 I dalvikvm: Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.widget.TintTypedArray.getChangingConfigurations
+12-12 22:28:42.799 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 610: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+12-12 22:28:42.799 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 22:28:42.809 14506 14506 I dalvikvm: Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.widget.TintTypedArray.getType
+12-12 22:28:42.809 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 632: Landroid/content/res/TypedArray;.getType (I)I
+12-12 22:28:42.809 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0008
+12-12 22:28:42.819 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11057561
+12-12 22:28:42.819   970  1569 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.CameraInputFrames} from pid 14491
+12-12 22:28:42.849  1226  3934 D dalvikvm: GC_EXPLICIT freed 14K, 65% free 4124K/11632K, paused 1ms+2ms, total 26ms
+12-12 22:28:42.849 14506 14506 I dalvikvm: Could not find method android.widget.FrameLayout.startActionModeForChild, referenced from method android.support.v7.widget.ActionBarContainer.startActionModeForChild
+12-12 22:28:42.849 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 17735: Landroid/widget/FrameLayout;.startActionModeForChild (Landroid/view/View;Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 22:28:42.849 14506 14506 D dalvikvm: VFY: replacing opcode 0x6f at 0x0002
+12-12 22:28:42.849   970  1569 I ActivityManager: ActivityRecord{41ce5480 u0 com.example.snoopy/.CameraInputFrames t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:42.859 14506 14506 I dalvikvm: Could not find method android.content.Context.getColorStateList, referenced from method android.support.v7.content.res.AppCompatResources.getColorStateList
+12-12 22:28:42.859 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 380: Landroid/content/Context;.getColorStateList (I)Landroid/content/res/ColorStateList;
+12-12 22:28:42.859 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 22:28:42.869 14506 14506 I dalvikvm: Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawable
+12-12 22:28:42.869 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 573: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 22:28:42.869 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 22:28:42.869 14506 14506 I dalvikvm: Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawableForDensity
+12-12 22:28:42.869 14506 14506 W dalvikvm: VFY: unable to resolve virtual method 575: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 22:28:42.869 14506 14506 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 22:28:42.869 14506 14506 E dalvikvm: Could not find class 'android.graphics.drawable.RippleDrawable', referenced from method android.support.v7.widget.AppCompatImageHelper.hasOverlappingRendering
+12-12 22:28:42.869 14506 14506 W dalvikvm: VFY: unable to resolve instanceof 173 (Landroid/graphics/drawable/RippleDrawable;) in Landroid/support/v7/widget/AppCompatImageHelper;
+12-12 22:28:42.869 14506 14506 D dalvikvm: VFY: replacing opcode 0x20 at 0x000c
+12-12 22:28:42.879  1226  1237 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4123K/11632K, paused 2ms+3ms, total 26ms
+12-12 22:28:42.879  1226  1237 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....CameraInputFrames}
+12-12 22:28:42.879  1226  1238 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:42.879   970  1569 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:42.899   970  1182 V WifiServiceExtension: checkPollTimer Cnt= 0 rssi =-40 threshold=-100
+12-12 22:28:42.929 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:42.929 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:42.939   970  1153 I InputDispatcher: Dropping event because there is no touchable window at (323, 866).
+12-12 22:28:42.939 14506 14506 E ViewRootImpl: mIsPenSupport: :true
+12-12 22:28:42.939   970  1376 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.939   970  1153 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=11950679 (in 892999 ms)
+12-12 22:28:42.939   970   982 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  1153 I InputDispatcher: Dropping event because there is no touchable window at (62, 899).
+12-12 22:28:42.989   970  1202 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  6170 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  1918 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  1201 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  1376 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970   982 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  1375 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  1558 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.989   970  1554 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:42.999   970  1917 W InputManager: Input event injection from pid 14491 failed.
+12-12 22:28:43.009 14506 14506 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+12-12 22:28:43.009 14506 14506 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.08
+12-12 22:28:43.009 14506 14506 I Adreno-EGL: Build Date: 03/21/14 Fri
+12-12 22:28:43.009 14506 14506 I Adreno-EGL: Local Branch: AU200-20140313-all-patches-KK8x26-664328
+12-12 22:28:43.009 14506 14506 I Adreno-EGL: Remote Branch: 
+12-12 22:28:43.009 14506 14506 I Adreno-EGL: Local Patches: 
+12-12 22:28:43.009 14506 14506 I Adreno-EGL: Reconstruct Branch: 
+12-12 22:28:43.049 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11057791
+12-12 22:28:43.049   970  1569 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.CameraInputFrames} from pid 14491
+12-12 22:28:43.059 14506 14506 D OpenGLRenderer: Enabling debug mode 0
+12-12 22:28:43.069 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.069 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.069 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.069 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.079  1226  3934 D dalvikvm: GC_EXPLICIT freed 14K, 65% free 4124K/11632K, paused 2ms+3ms, total 29ms
+12-12 22:28:43.079   970  1569 I ActivityManager: ActivityRecord{41cf43c8 u0 com.example.snoopy/.CameraInputFrames t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:43.119  1226  1238 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4123K/11632K, paused 2ms+3ms, total 26ms
+12-12 22:28:43.119  1226  1238 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....CameraInputFrames}
+12-12 22:28:43.119  1226  1237 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:43.119 14506 14506 D cliptray_Editor:  setInputTypeforClipTray(): 0
+12-12 22:28:43.119  1226  1226 E CliptrayService: cliptrayEventReceiver :onReceivecom.lge.systemservice.core.cliptray.INPUTTYPE_CLIPTRAY
+12-12 22:28:43.119  1226  1226 I CliptrayService: CLIPTRAY_INPUTTYPEg=10
+12-12 22:28:43.119  1226  1226 E CliptrayService: cliptrayEventReceiver :onReceivecom.lge.systemservice.core.cliptray.INPUTTYPE_CLIPTRAY
+12-12 22:28:43.119  1226  1226 I CliptrayService: CLIPTRAY_INPUTTYPEg=0
+12-12 22:28:43.119   970  1569 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:43.129 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.129 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.129 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.129 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:43.219 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11057969
+12-12 22:28:43.219   970  1555 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.CameraInputFrames} from pid 14491
+12-12 22:28:43.259  1344  1344 W SubtypeSwitcher: Can't find emoji subtype
+12-12 22:28:43.259  1344  1344 W SubtypeSwitcher: No input method subtype found; returning dummy subtype: android.view.inputmethod.InputMethodSubtype@d78b2ed0
+12-12 22:28:43.259  1226  1237 D dalvikvm: GC_EXPLICIT freed 16K, 65% free 4124K/11632K, paused 2ms+3ms, total 33ms
+12-12 22:28:43.269   970  1555 I ActivityManager: ActivityRecord{41f50800 u0 com.example.snoopy/.CameraInputFrames t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:43.299  1226  1238 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4124K/11632K, paused 2ms+2ms, total 32ms
+12-12 22:28:43.309  1226  1238 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....CameraInputFrames}
+12-12 22:28:43.309  1226  3934 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:43.309   970  1555 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:43.309 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.309 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.319 14506 14506 D cliptray_Editor:  setInputTypeforClipTray(): 0
+12-12 22:28:43.319  1226  1226 E CliptrayService: cliptrayEventReceiver :onReceivecom.lge.systemservice.core.cliptray.INPUTTYPE_CLIPTRAY
+12-12 22:28:43.319  1226  1226 I CliptrayService: CLIPTRAY_INPUTTYPEg=10
+12-12 22:28:43.319  1226  1226 E CliptrayService: cliptrayEventReceiver :onReceivecom.lge.systemservice.core.cliptray.INPUTTYPE_CLIPTRAY
+12-12 22:28:43.319  1226  1226 I CliptrayService: CLIPTRAY_INPUTTYPEg=0
+12-12 22:28:43.319 14506 14506 I ActivityManager: Timeline: Activity_idle id: android.os.BinderProxy@41b38410 time:11058065
+12-12 22:28:43.339   970  1020 I ActivityManager: Displayed com.example.snoopy/.MainActivity: +1s225ms
+12-12 22:28:43.339   970  1020 I ActivityManager: Timeline: Activity_windows_visible id: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4} time:11058081
+12-12 22:28:43.359 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.369 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.419 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11058164
+12-12 22:28:43.419   970  1572 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.CameraInputFrames} from pid 14491
+12-12 22:28:43.459  1226  1237 D dalvikvm: GC_EXPLICIT freed 16K, 65% free 4124K/11632K, paused 1ms+3ms, total 30ms
+12-12 22:28:43.459   970  1572 I ActivityManager: ActivityRecord{41f51538 u0 com.example.snoopy/.CameraInputFrames t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:43.479   970  1179 D WifiStateMachine: handleMessage: E msg.what=131155
+12-12 22:28:43.479   970  1179 D WifiStateMachine: processMsg: ConnectedState
+12-12 22:28:43.479   970  1179 D WifiStateMachine: processMsg: L2ConnectedState
+12-12 22:28:43.479   970  1179 D WifiNative-wlan0: doString: SIGNAL_POLL
+12-12 22:28:43.479  1200  1200 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+12-12 22:28:43.489  1226  1238 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4124K/11632K, paused 2ms+2ms, total 26ms
+12-12 22:28:43.489  1226  1238 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....CameraInputFrames}
+12-12 22:28:43.489  1226  3934 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:43.489  1200  1200 D wpa_supplicant: nl80211: survey data missing!
+12-12 22:28:43.489   970  1179 D WifiStateMachine: handleMessage: X
+12-12 22:28:43.489   970  1572 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:43.539 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11058284
+12-12 22:28:43.539   970 12350 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.MainActivity} from pid 14491
+12-12 22:28:43.569  1226  1237 D dalvikvm: GC_EXPLICIT freed 14K, 65% free 4124K/11632K, paused 1ms+3ms, total 25ms
+12-12 22:28:43.569   970 12350 I ActivityManager: ActivityRecord{41f5b3e8 u0 com.example.snoopy/.MainActivity t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:43.599  1226  1238 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4124K/11632K, paused 1ms+3ms, total 25ms
+12-12 22:28:43.599  1226  1238 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....MainActivity}
+12-12 22:28:43.599  1226  3934 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:43.599   970 12350 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:43.659 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.659   970  1153 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=11951399 (in 892999 ms)
+12-12 22:28:43.659 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.689  1344  1344 W ViewPager: Requested offscreen page limit 0 too small; defaulting to 1
+12-12 22:28:43.709  1344  1344 I LatinIME: Starting input. Cursor position = -1,-1
+12-12 22:28:43.709 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.709 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.739  1344  1344 E RichInputConnection: Unable to connect to the editor to retrieve text.
+12-12 22:28:43.739  1344  1344 D RichInputConnection: Will try to retrieve text later.
+12-12 22:28:43.739  1344  1344 I InputAttributes: InputType.TYPE_NULL is specified
+12-12 22:28:43.739   970  6170 I LGImmersionVibrator: Vibrator exists
+12-12 22:28:43.759  1344  1411 I LatinIME:LogUtils: Dictionary info: dictionary = UserHistoryDictionary.en_US ; version = 1458022691 ; date = 1513135723
+12-12 22:28:43.759  1344  1412 I LatinIME:LogUtils: Dictionary info: dictionary = PersonalizationDictionary.en_US ; version = 1513124769 ; date = 1513135723
+12-12 22:28:43.779  1344  1412 I LatinIME:LogUtils: Dictionary info: dictionary = PersonalizationDictionary.en_US ; version = 1513124769 ; date = 1513135723
+12-12 22:28:43.789 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.789 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.819 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.829 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.879  1344  1344 E ViewRootImpl: mIsPenSupport: :true
+12-12 22:28:43.879  1210  1220 D LockPatternUtilsEx: OMADM Lock is OFF
+12-12 22:28:43.879 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.879 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.899  1344  1344 I LatinIME: Starting input. Cursor position = 0,0
+12-12 22:28:43.899   970   970 D NotificationService: updateLightListLocked :r=null, action=2
+12-12 22:28:43.909   970 12350 I LGImmersionVibrator: Vibrator exists
+12-12 22:28:43.919  1344  1411 I LatinIME:LogUtils: Dictionary info: dictionary = UserHistoryDictionary.en_US ; version = 1458022691 ; date = 1513135723
+12-12 22:28:43.929 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.929  1344  1412 I LatinIME:LogUtils: Dictionary info: dictionary = PersonalizationDictionary.en_US ; version = 1513124769 ; date = 1513135723
+12-12 22:28:43.929 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:43.949  1344  1412 I LatinIME:LogUtils: Dictionary info: dictionary = PersonalizationDictionary.en_US ; version = 1513124769 ; date = 1513135723
+12-12 22:28:43.949  1210  1210 D KeyguardUpdateMonitor: received broadcast com.lge.softkeypad.intent.SHOW
+12-12 22:28:43.969  1210  1210 D KeyguardUpdateMonitor: IME visibility change, visible = true
+12-12 22:28:43.979 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:43.989 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.009  1210  1220 D LockPatternUtilsEx: OMADM Lock is OFF
+12-12 22:28:44.019   970   970 D NotificationService: updateLightListLocked :r=NotificationRecord(0x41b6c5a0: pkg=android user=UserHandle{-1} id=17040545 tag=null score=0: Notification(pri=0 contentView=android/0x1090064 vibrate=null sound=null defaults=0x0 flags=0x2 kind=[android.system.imeswitcher])), action=2
+12-12 22:28:44.019   970   970 D NotificationService: notification=Notification(pri=0 contentView=android/0x1090064 vibrate=null sound=null defaults=0x0 flags=0x2 kind=[android.system.imeswitcher])
+12-12 22:28:44.029  1210  1210 D KeyguardUpdateMonitor: received broadcast com.lge.softkeypad.intent.SHOW
+12-12 22:28:44.029  1210  1210 D KeyguardUpdateMonitor: IME visibility change, visible = true
+12-12 22:28:44.039 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11058785
+12-12 22:28:44.039   970  1558 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.MainActivity} from pid 14491
+12-12 22:28:44.069  1226  3934 D dalvikvm: GC_EXPLICIT freed 14K, 65% free 4124K/11632K, paused 1ms+3ms, total 24ms
+12-12 22:28:44.079   970  1558 I ActivityManager: ActivityRecord{42e2d2a0 u0 com.example.snoopy/.MainActivity t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:44.079  1344  1348 D dalvikvm: GC_CONCURRENT freed 5767K, 55% free 5281K/11632K, paused 1ms+6ms, total 50ms
+12-12 22:28:44.079  1344  1344 D dalvikvm: WAIT_FOR_CONCURRENT_GC blocked 35ms
+12-12 22:28:44.109  1226  1237 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4124K/11632K, paused 1ms+3ms, total 29ms
+12-12 22:28:44.109  1226  1237 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....MainActivity}
+12-12 22:28:44.109  1226  1238 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:44.119   970  1558 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:44.119 12513 13096 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.inputmethod.latin componentName=null serviceId=21
+12-12 22:28:44.149 12513 12890 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload false
+12-12 22:28:44.169   970  1153 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=11951911 (in 892998 ms)
+12-12 22:28:44.179  1344  1344 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+12-12 22:28:44.179  1344  1344 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.08
+12-12 22:28:44.179  1344  1344 I Adreno-EGL: Build Date: 03/21/14 Fri
+12-12 22:28:44.179  1344  1344 I Adreno-EGL: Local Branch: AU200-20140313-all-patches-KK8x26-664328
+12-12 22:28:44.179  1344  1344 I Adreno-EGL: Remote Branch: 
+12-12 22:28:44.179  1344  1344 I Adreno-EGL: Local Patches: 
+12-12 22:28:44.179  1344  1344 I Adreno-EGL: Reconstruct Branch: 
+12-12 22:28:44.199  1344  1344 D OpenGLRenderer: Enabling debug mode 0
+12-12 22:28:44.219  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.219 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.229   970  1555 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:44.229   970  1555 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:44.229 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.229  1226  1264 D VolumeVibrator: clear
+12-12 22:28:44.229  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.239   970  1376 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:44.239   970 14559 D vibrator_binder: Getting Volumevibrator Service Done!
+12-12 22:28:44.239 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.239 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.239  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:44.239  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:44.239  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:44.239  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:44.239  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:44.239  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:44.239  1226  1237 D VolumeVibrator: clear
+12-12 22:28:44.249   970 14559 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:44.259 12513 13096 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.inputmethod.latin componentName=null serviceId=21
+12-12 22:28:44.279 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.279 12513 12890 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload false
+12-12 22:28:44.279 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.299 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.299 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.299 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.299 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.329 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.329 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.369  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: GetCorpusHandlesRegisteredForIME failed.
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: android.os.RemoteException
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at com.google.android.gms.internal.dg.getSearchService(Unknown Source)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at com.google.android.gms.appdatasearch.AppDataSearchClient.getCorpusHandlesRegisteredForIME(Unknown Source)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at com.android.inputmethod.latin.amanatto.AmanattoDataUpdaterHelper$3.run(AmanattoDataUpdaterHelper.java:163)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at java.lang.Thread.run(Thread.java:841)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at com.android.inputmethod.latin.amanatto.AmanattoDataUpdaterHelper$BackgroundThreadFactory$1.run(AmanattoDataUpdaterHelper.java:68)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: Caused by: java.lang.IllegalStateException: Not connected. Call connect() and wait for onConnected() to be called.
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at com.google.android.gms.internal.eg.bU(Unknown Source)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	at com.google.android.gms.internal.eg.bV(Unknown Source)
+12-12 22:28:44.369  1344  1414 E AppDataSearchClient: 	... 7 more
+12-12 22:28:44.369  1344  1414 E AmanattoDataUpdater: Cannot get corpus handles.
+12-12 22:28:44.389   970  1918 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:44.389   970  1918 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:44.389  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.399   970  1918 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:44.399  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:44.399   970 14562 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:44.399  1226  1264 D VolumeVibrator: clear
+12-12 22:28:44.399  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.399  1226  1238 D VolumeVibrator: milliseconds : 40
+12-12 22:28:44.399  1226  1238 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:44.399  1226  1238 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:44.399  1226  1238 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:44.399  1226  1238 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:44.399  1226  1238 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:44.399  1226  1238 D VolumeVibrator: clear
+12-12 22:28:44.419 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.419 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.429  1344  1412 I LatinIME:LogUtils: Dictionary info: dictionary = PersonalizationDictionary.en_US ; version = 1513135724 ; date = 1513135724
+12-12 22:28:44.439  1344  1412 I LatinIME:LogUtils: Dictionary info: dictionary = PersonalizationDictionary.en_US ; version = 1513135724 ; date = 1513135724
+12-12 22:28:44.459   970  1572 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:44.459   970  1572 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:44.459   970  6170 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:44.459  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.459  1226  1264 D VolumeVibrator: clear
+12-12 22:28:44.469   970 14563 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:44.469  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:44.469  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:44.469  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:44.469  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:44.469  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:44.469  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:44.469  1226  1237 D VolumeVibrator: clear
+12-12 22:28:44.469  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.479  1344  1412 I LatinIME:LogUtils: Dictionary info: dictionary = PersonalizationDictionary.en_US ; version = 1513135724 ; date = 1513135724
+12-12 22:28:44.479   970  1376 I LGImmersionVibrator: Vibrator exists
+12-12 22:28:44.479 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.479 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:44.499 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.519  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:44.599 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.649 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.649 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.699   970  1153 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=11952444 (in 892999 ms)
+12-12 22:28:44.699 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.699 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.749 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.759 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.809 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:44.819 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:44.869 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11059613
+12-12 22:28:44.869   970 12350 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.MainActivity} from pid 14491
+12-12 22:28:44.909  1226  1238 D dalvikvm: GC_EXPLICIT freed 22K, 65% free 4125K/11632K, paused 2ms+2ms, total 30ms
+12-12 22:28:44.909   970 12350 I ActivityManager: ActivityRecord{42c1d168 u0 com.example.snoopy/.MainActivity t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:44.939  1226  3934 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4125K/11632K, paused 2ms+2ms, total 25ms
+12-12 22:28:44.939  1226  3934 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....MainActivity}
+12-12 22:28:44.939  1226  1237 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:44.939   970 12350 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:44.989 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11059732
+12-12 22:28:44.989   970  1202 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.MainActivity} from pid 14491
+12-12 22:28:45.019  1226  1238 D dalvikvm: GC_EXPLICIT freed 14K, 65% free 4125K/11632K, paused 3ms+3ms, total 28ms
+12-12 22:28:45.019   970  1202 I ActivityManager: ActivityRecord{42baaf98 u0 com.example.snoopy/.MainActivity t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:45.029   303   381 I Vold    : [LGE][VOLD][NetlinkHandler.cpp][onEvent()] subsys:cpu, action:0
+12-12 22:28:45.059  1226  1237 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4125K/11632K, paused 2ms+2ms, total 32ms
+12-12 22:28:45.059  1226  1237 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....MainActivity}
+12-12 22:28:45.059  1226  3934 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:45.059   970  1202 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:45.119 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.119 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.169   970  1569 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:45.169   970  1569 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:45.169   970  1918 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:45.169  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.169  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.169  1226  1264 D VolumeVibrator: clear
+12-12 22:28:45.179  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:45.179   970 14573 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:45.179  1226  3934 D VolumeVibrator: milliseconds : 40
+12-12 22:28:45.179  1226  3934 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:45.179  1226  3934 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:45.179  1226  3934 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:45.179  1226  3934 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:45.179  1226  3934 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:45.179  1226  3934 D VolumeVibrator: clear
+12-12 22:28:45.179 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.179 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.219  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.229   970  1558 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:45.229   970  1558 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:45.229   970  1554 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:45.229  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:45.229   970 14574 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:45.229   970  1153 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=11952964 (in 892994 ms)
+12-12 22:28:45.229  1226  1264 D VolumeVibrator: clear
+12-12 22:28:45.229  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.229  1226  3934 D VolumeVibrator: milliseconds : 40
+12-12 22:28:45.229  1226  3934 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:45.229  1226  3934 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:45.229  1226  3934 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:45.229  1226  3934 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:45.229  1226  3934 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:45.229  1226  3934 D VolumeVibrator: clear
+12-12 22:28:45.239 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.239 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.279 14491 14491 I ActivityManager: Timeline: Activity_launch_request id:com.example.snoopy time:11060023
+12-12 22:28:45.279   970  1918 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.snoopy/.MainActivity} from pid 14491
+12-12 22:28:45.319  1226  1238 D dalvikvm: GC_EXPLICIT freed 19K, 65% free 4125K/11632K, paused 2ms+2ms, total 27ms
+12-12 22:28:45.319   970  1918 I ActivityManager: ActivityRecord{42e563c0 u0 com.example.snoopy/.MainActivity t-1} Support Split:false Is ScreenFull:true
+12-12 22:28:45.349  1226  1237 D dalvikvm: GC_EXPLICIT freed 13K, 65% free 4125K/11632K, paused 1ms+2ms, total 25ms
+12-12 22:28:45.349  1226  1237 V SplitWindowPolicyService: checkScreen => return. sourceIntent is null or not support SplitWindow component: ComponentInfo{co..../co.....MainActivity}
+12-12 22:28:45.349  1226  3934 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:45.349   970  1918 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4}
+12-12 22:28:45.409   970  1376 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:45.409   970  1376 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:45.409   970  1375 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:45.409  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.409  1226  1264 D VolumeVibrator: clear
+12-12 22:28:45.409  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:45.409  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:45.409  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:45.409  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:45.409  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:45.409  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:45.409  1226  1237 D VolumeVibrator: clear
+12-12 22:28:45.419   970 14575 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:45.419  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:45.419  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.429 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.429 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.469 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.479 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.529 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.529 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.579 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.579 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.629   970  1555 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:45.629   970  1555 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:45.629  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.639   970  1376 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:45.639   970 14576 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:45.639  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:45.639 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.639 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.639  1226  1264 D VolumeVibrator: clear
+12-12 22:28:45.639  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.639  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:45.639  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:45.639  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:45.639  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:45.639  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:45.639  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:45.639  1226  1237 D VolumeVibrator: clear
+12-12 22:28:45.689 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.689 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.749   970  1153 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=11953490 (in 892999 ms)
+12-12 22:28:45.749  1210  1210 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.769  1210  1210 V FlingTracker: skipping simultaneous event at t=11060496
+12-12 22:28:45.769  1210  1210 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=0.0)
+12-12 22:28:45.769  1210  1210 V PanelView: animationTick called with dtms=-9; nothing to do (h=0.0 v=0.0)
+12-12 22:28:45.769  1210  1210 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.799 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.809 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.859   970  1558 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:45.859   970  1558 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:45.859  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.869   970  6170 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:45.869   970 14583 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:45.869  1226  1264 D VolumeVibrator: clear
+12-12 22:28:45.869  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.869  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:45.869  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:45.869  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:45.869  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:45.869  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:45.869  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:45.869  1226  1237 D VolumeVibrator: clear
+12-12 22:28:45.879  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:45.879 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.879 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.899   970  1182 V WifiServiceExtension: checkPollTimer Cnt= 0 rssi =-39 threshold=-100
+12-12 22:28:45.919   970   982 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:45.919   970   982 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:45.919   970  1572 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:45.919  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.919  1226  1264 D VolumeVibrator: clear
+12-12 22:28:45.919  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:45.919  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:45.919  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:45.919  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:45.919  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:45.919  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:45.919  1226  1237 D VolumeVibrator: clear
+12-12 22:28:45.929   970 14586 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:45.929   970  1201 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:45.929   970  1201 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:45.929   970  1376 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:45.929   970 14587 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:45.929  1226  1264 D VolumeVibrator: clear
+12-12 22:28:45.929  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:45.929  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:45.929  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:45.929  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:45.929  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:45.929  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:45.929  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:45.929  1226  1237 D VolumeVibrator: clear
+12-12 22:28:45.939 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.939 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.949  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:45.959  1344  1344 D BubblePopupHelper: BubblePopupHelper has no instance. Hence we cannot call setShowingBubblePopup : false
+12-12 22:28:45.959 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.959 14506 14506 D BubblePopupHelper: isShowingBubblePopup : false
+12-12 22:28:45.989 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:45.989 14506 14506 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:46.099 14506 14506 E ViewRootImpl: mIsPenSupport: :true
+12-12 22:28:46.099 14506 14506 D AndroidRuntime: Shutting down VM
+12-12 22:28:46.099 14506 14506 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x417e1e48)
+12-12 22:28:46.099   970  1572 I VolumeVibratorManager: getVibrateVolume vibrateType 2
+12-12 22:28:46.099   970  1572 I VolumeVibratorManager: vibratePattern()  volumeIndex 5
+12-12 22:28:46.099   970   983 I LGImmersionVibrator: [Vibrator off]
+12-12 22:28:46.099  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: FATAL EXCEPTION: main
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: Process: com.example.snoopy, PID: 14506
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: java.lang.IllegalArgumentException: Given String is empty or null
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at com.google.android.gms.common.internal.zzbp.zzgg(Unknown Source)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at com.google.firebase.auth.FirebaseAuth.createUserWithEmailAndPassword(Unknown Source)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at com.example.snoopy.MainActivity.registerUser(MainActivity.java:84)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at com.example.snoopy.MainActivity.onClick(MainActivity.java:107)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at android.view.View.performClick(View.java:4461)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at android.view.View$PerformClick.run(View.java:18525)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:733)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:136)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5118)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:515)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:790)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:606)
+12-12 22:28:46.099 14506 14506 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+12-12 22:28:46.099  1226  1264 D VolumeVibrator: clear
+12-12 22:28:46.109   970 14588 I LGImmersionVibrator: [Vibrator on] timeout_ms : 40 magnitude : 6125
+12-12 22:28:46.109  1344  1344 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+12-12 22:28:46.109  1226  1237 D VolumeVibrator: milliseconds : 40
+12-12 22:28:46.109  1226  1237 D VolumeVibrator: getCurrent::mPatternworking : true
+12-12 22:28:46.109  1226  1237 D VolumeVibrator: getCurrent::mVolumes.size : 0
+12-12 22:28:46.109  1226  1237 D VolumeVibrator: getCurrent::mJustVibrate false
+12-12 22:28:46.109  1226  1237 D VolumeVibrator: mPatternIndex : 1 mCurVibration.mPattern[mPatternIndex] : 40
+12-12 22:28:46.109  1226  1237 D VolumeVibrator: volume vibration pattern's value: 6125
+12-12 22:28:46.109  1226  1237 D VolumeVibrator: clear
+12-12 22:28:46.109   970 12350 W ActivityManager:   Force finishing activity com.example.snoopy/.MainActivity
+12-12 22:28:46.119   970 12350 V ActivityManager: Moving to PAUSING: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f}
+12-12 22:28:46.269   970 12350 D dalvikvm: GC_FOR_ALLOC freed 2617K, 43% free 17749K/31136K, paused 135ms, total 135ms
+12-12 22:28:46.269   970 12350 I dalvikvm-heap: Grow heap (frag case) to 20.727MB for 855792-byte allocation
+12-12 22:28:46.389   970 12350 D dalvikvm: GC_FOR_ALLOC freed 31K, 42% free 18559K/31972K, paused 117ms, total 117ms
+12-12 22:28:46.399   970 12350 I dalvikvm-heap: Grow heap (frag case) to 21.518MB for 855792-byte allocation
+12-12 22:28:46.399  1226  1238 D SplitWindowPolicyService: updateActivityStateChanged: resumed=false pkgName=co.....MainActivity, screenId=3, isScreenFull=true, isMinimized=false, topRunningActivity=ActivityInfo{41b91ac8 co.....MainActivity}, taskId=4, activityType=0
+12-12 22:28:46.399   970  1038 D SettingsProvider: User 0 external modification to /data/data/com.android.providers.settings/databases/settings.db; event=2
+12-12 22:28:46.399   970  1038 D SettingsProvider: User 0 updating our caches for /data/data/com.android.providers.settings/databases/settings.db
+12-12 22:28:46.399   970  1033 I SensorManager: removeAllSensors  sensor: LGE Motion Accel Sensor, by pid 970
+12-12 22:28:46.399   970  1033 I qcom_sensors_hal: _hal_sensors_activate: handle=34, enabled=0
+12-12 22:28:46.399   970  1033 I qcom_sensors_hal: _hal_sensors_activate: active_sensors mask=0x400000000 handle=34
+12-12 22:28:46.399   970  1033 D qcom_sensors_hal: hal_schedule_acquire_resources: Setting acquire resources timer for 10000 usec
+12-12 22:28:46.409   970  1013 D qcom_sensors_hal: hal_acquire_resources
+12-12 22:28:46.419   970  1013 D qcom_sensors_hal: hal_acquire_resources: Deactivating sensor handle=34
+12-12 22:28:46.419   970  1013 D qcom_sensors_hal: hal_ma_stop: Stopping Motion Accel sensor
+12-12 22:28:46.419   970  1013 D qcom_sensors_hal: hal_sam_send_cancel: Sending cancel to 5
+12-12 22:28:46.419   970  1013 D qcom_sensors_hal: hal_sam_send_cancel: Sending cancel to 0
+12-12 22:28:46.419   970  1150 D qcom_sensors_hal: hal_ma_thread: Leaving Motion Accel thread
+12-12 22:28:46.419   970  1013 I qcom_sensors_hal: hal_sensor1_close: closing sensor1...
+12-12 22:28:46.419   970  1013 I qcom_sensors_hal: hal_time_stop: closing sensor1...
+12-12 22:28:46.479   970  1021 E ViewRootImpl: mIsPenSupport: :true
+12-12 22:28:46.489   721   728 E Diag_Lib: [IMS_FATAL]| 2912 | 728 |ims-rtp-daemon ims_rtp_qmi_handler_thread_func waiting on select thread>
+12-12 22:28:46.489   970  1179 D WifiStateMachine: handleMessage: E msg.what=131155
+12-12 22:28:46.489   970  1179 D WifiStateMachine: processMsg: ConnectedState
+12-12 22:28:46.489   970  1179 D WifiStateMachine: processMsg: L2ConnectedState
+12-12 22:28:46.489   970  1179 D WifiNative-wlan0: doString: SIGNAL_POLL
+12-12 22:28:46.489  1200  1200 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+12-12 22:28:46.489   303   381 I Vold    : [LGE][VOLD][NetlinkHandler.cpp][onEvent()] subsys:cpu, action:0
+12-12 22:28:46.509  1200  1200 D wpa_supplicant: nl80211: survey data missing!
+12-12 22:28:46.509 14491 14491 I AndroidRuntime: VM exiting with result code 215.
+12-12 22:28:46.509   970  1179 D WifiStateMachine: handleMessage: X
+12-12 22:28:46.529   970  1038 D SettingsProvider: row count exceeds max cache entries for table system
+12-12 22:28:46.529   970  1038 D SettingsProvider: User 0 external modification to /data/data/com.android.providers.settings/databases/settings.db; event=2
+12-12 22:28:46.539   970  1038 D SettingsProvider: User 0 updating our caches for /data/data/com.android.providers.settings/databases/settings.db
+12-12 22:28:46.559   970  1033 I SensorManager: registerListenerImpl  sensor: LGE Motion Accel Sensor, listener: com.android.internal.policy.impl.WindowOrientationListener$SensorEventListenerImpl@41cae0f8 by pid 970
+12-12 22:28:46.559   970  1033 I qcom_sensors_hal: _hal_sensors_batch: period_ns=66667000 sns_hndl: 34 timeout: 0 flags:0x1
+12-12 22:28:46.559   970  1033 I qcom_sensors_hal: _hal_sensors_batch: period_ns=66667000 sns_hndl: 34 timeout: 0 flags:0x0
+12-12 22:28:46.559   970  1033 D qcom_sensors_hal: _hal_sensors_batch: sample_rate=120 report_rate=0 curr sample rate:0 cur rpt rate:0 max:120.000000 min:1.000000
+12-12 22:28:46.559   970  1033 D qcom_sensors_hal: hal_schedule_acquire_resources: Setting acquire resources timer for 10000 usec
+12-12 22:28:46.559   970  1033 I qcom_sensors_hal: _hal_sensors_flush: handle=34
+12-12 22:28:46.559   970  1033 D qcom_sensors_hal: _hal_sensors_flush: handle 34 is inactive
+12-12 22:28:46.559   970  1033 I qcom_sensors_hal: _hal_sensors_activate: handle=34, enabled=1
+12-12 22:28:46.559   970  1033 D qcom_sensors_hal: hal_wait_for_response: timeout=1000
+12-12 22:28:46.569   970 14603 D qcom_sensors_hal: hal_time_data_cb: msg_type 1
+12-12 22:28:46.569   970 14603 D qcom_sensors_hal: hal_time_data_cb: Sn 24, msg Id 2, txn Id 1
+12-12 22:28:46.569   970 14603 D qcom_sensors_hal: hal_ts_offset_is: Apps: 1513135726567175655; DSPS: 362568111; Offset: 1513124661866522579
+12-12 22:28:46.569   970  1033 I qcom_sensors_hal: _hal_sensors_activate: active_sensors mask=0x0 handle=34
+12-12 22:28:46.569   970  1033 D qcom_sensors_hal: hal_schedule_acquire_resources: Resetting acquire resources timer for 10000 usec. old_value = 3453 usec
+12-12 22:28:46.579   970  1013 D qcom_sensors_hal: hal_acquire_resources
+12-12 22:28:46.579   970  1013 I qcom_sensors_hal: Sensor1 open: 0 282
+12-12 22:28:46.579   970  1013 D qcom_sensors_hal: hal_acquire_resources: found active sensor handle=34, sample_rate=120 report_rate=0 WuFF=0 batched=0
+12-12 22:28:46.579   970  1013 D qcom_sensors_hal: hal_apply_rate: handle 34, sample rate:120 report rate:0 WuFF:0 buffering:0 ignore_prev:1
+12-12 22:28:46.579   970  1038 D SettingsProvider: row count exceeds max cache entries for table system
+12-12 22:28:46.589   970 14606 D qcom_sensors_hal: hal_ma_thread: Starting Motion Accel thread
+12-12 22:28:46.589   970 14606 D qcom_sensors_hal: hal_ma_start_rmd: Enabling RMD
+12-12 22:28:46.589   970  1014 D qcom_sensors_hal: hal_ma_sensor1_data_cb: Id: 34 Resp: 0 txn id 0
+12-12 22:28:46.589   970 14606 D qcom_sensors_hal: hal_ma_thread: wait on RMD ind
+12-12 22:28:46.609   970  1033 I SystemUI[Framework]: PhoneWindowManager.updateSystemUiVisibilityLw() :visibility=0x0, pkg=android
+12-12 22:28:46.609   970   983 I ActivityManager: Killing 13681:com.uei.lg.quicksetsdk.lite/u0a101 (adj 15): empty #14
+12-12 22:28:46.649   970  1555 W ActivityManager: Scheduling restart of crashed service com.uei.lg.quicksetsdk.lite/com.uei.control.Service in 1000ms
+12-12 22:28:46.649   970  1555 D ActivityManager: resumeTopActivityLocked: No more activities go home
+12-12 22:28:46.659  1519  1534 I com.skyfire.browser.toolbar.ProcessObserverService: On process died 13681,10101
+12-12 22:28:46.659  1519  1536 I com.skyfire.browser.toolbar.ProcessObserverService: On importance changed 14506,15808,400
+12-12 22:28:46.659  1519  1536 I com.skyfire.browser.toolbar.ProcessObserverService: On foreground activity changed : 1559,10026,true
+12-12 22:28:46.659   970  1555 D ActivityManager: allPausedActivitiesComplete: r=ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f} state=PAUSING
+12-12 22:28:46.659   970  1555 V ActivityManager: resumeTopActivityLocked: Skip resume: some activity pausing.
+12-12 22:28:46.659   970  1555 D ActivityManager: allPausedActivitiesComplete: r=ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f} state=PAUSING
+12-12 22:28:46.659   970  1555 V ActivityManager: resumeTopActivityLocked: Skip resume: some activity pausing.
+12-12 22:28:46.669  1519  1536 I com.skyfire.browser.toolbar.ProcessObserverService: On importance changed 1559,10026,100
+12-12 22:28:46.689 13662 13662 I QRemote : [RemoteControlManager.java:206:onServiceDisconnected()] oooooo start
+12-12 22:28:46.699 13662 13662 W System.err: android.os.DeadObjectException
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.os.BinderProxy.transact(Native Method)
+12-12 22:28:46.699 13662 13662 W System.err: 	at com.uei.control.IControl.unregisterCallback(IControl.java:502)
+12-12 22:28:46.699 13662 13662 W System.err: 	at com.lge.qremote.remote.system.RemoteControlManager$1.onServiceDisconnected(RemoteControlManager.java:210)
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.app.LoadedApk$ServiceDispatcher.doDeath(LoadedApk.java:1129)
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.app.LoadedApk$ServiceDispatcher$RunConnection.run(LoadedApk.java:1143)
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.os.Handler.handleCallback(Handler.java:733)
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.os.Looper.loop(Looper.java:136)
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5118)
+12-12 22:28:46.699 13662 13662 W System.err: 	at java.lang.reflect.Method.invokeNative(Native Method)
+12-12 22:28:46.699 13662 13662 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:515)
+12-12 22:28:46.699 13662 13662 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:790)
+12-12 22:28:46.699 13662 13662 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:606)
+12-12 22:28:46.699 13662 13662 W System.err: 	at dalvik.system.NativeStart.main(Native Method)
+12-12 22:28:46.699 13662 13662 E UEI.SmartControl: IControl.unregisterCallback error: android.os.DeadObjectException
+12-12 22:28:46.699 13662 13662 W System.err: android.os.DeadObjectException
+12-12 22:28:46.699 13662 13662 W System.err: 	at android.os.BinderProxy.transact(Native Method)
+12-12 22:28:46.699 13662 13662 W System.err: 	at com.uei.control.IControl.unregisterSetupReadyCallback(IControl.java:818)
+12-12 22:28:46.699 13662 13662 W System.err: 	at com.lge.qremote.remote.system.RemoteControlManager$1.onServiceDisconnected(RemoteControlManager.java:211)
+12-12 22:28:46.709 13662 13662 W System.err: 	at android.app.LoadedApk$ServiceDispatcher.doDeath(LoadedApk.java:1129)
+12-12 22:28:46.709 13662 13662 W System.err: 	at android.app.LoadedApk$ServiceDispatcher$RunConnection.run(LoadedApk.java:1143)
+12-12 22:28:46.709 13662 13662 W System.err: 	at android.os.Handler.handleCallback(Handler.java:733)
+12-12 22:28:46.709 13662 13662 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-12 22:28:46.709 13662 13662 W System.err: 	at android.os.Looper.loop(Looper.java:136)
+12-12 22:28:46.709 13662 13662 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5118)
+12-12 22:28:46.709 13662 13662 W System.err: 	at java.lang.reflect.Method.invokeNative(Native Method)
+12-12 22:28:46.709 13662 13662 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:515)
+12-12 22:28:46.709 13662 13662 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:790)
+12-12 22:28:46.709 13662 13662 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:606)
+12-12 22:28:46.709 13662 13662 W System.err: 	at dalvik.system.NativeStart.main(Native Method)
+12-12 22:28:46.709 13662 13662 E UEI.SmartControl: IControl.unregisterSetupReadyCallback error: android.os.DeadObjectException
+12-12 22:28:46.709 13662 13662 D QRemote : [RemoteControlManager.java:453:setStateInt()] oooooo RemoteControl set [State]10
+12-12 22:28:46.709 13662 13662 I QRemote : [RemoteControlManager.java:152:onBindIRService()] oooooo bind
+12-12 22:28:46.739 13662 13662 D QRemote : [RemoteControlManager.java:453:setStateInt()] oooooo RemoteControl set [State]11
+12-12 22:28:46.739   970  1917 I ActivityManager: Start proc com.uei.lg.quicksetsdk.lite for service com.uei.lg.quicksetsdk.lite/com.uei.control.Service: pid=14609 uid=10101 gids={50101, 3003, 1028, 1015}
+12-12 22:28:46.749  1559  1559 I [LGHome]EVENT: [Launcher.java:5219:onStart()]onStart
+12-12 22:28:46.749  1519  1534 I com.skyfire.browser.toolbar.ProcessObserverService: On importance changed 14609,10101,400
+12-12 22:28:46.769 14609 14609 D HyLog   : I : /data/font/config/sfconfig.dat, No such file or directory (2)
+12-12 22:28:46.769 14609 14609 D HyLog   : I : /data/font/config/dfactpre.dat, No such file or directory (2)
+12-12 22:28:46.769 14609 14609 D HyLog   : I : /data/font/config/sfconfig.dat, No such file or directory (2)
+12-12 22:28:46.799  1559 14621 D WallpaperManager: suggestDesiredDimensions(1600, 1280) by package(com.lge.launcher2)
+12-12 22:28:46.829 14609 14609 D UEI.SmartControl: Quickset Services start...
+12-12 22:28:46.839 14609 14609 I UEI.SmartControl: Manufacture = LGE
+12-12 22:28:46.839 14609 14609 D UEI.SmartControl: Extracting JNI libs...
+12-12 22:28:46.849 14609 14609 D UEI.SmartControl: QS Libs size = 262388
+12-12 22:28:46.899   970  1021 W ActivityManager: Activity pause timeout for ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f}
+12-12 22:28:46.899   970  1021 V ActivityManager: Moving to PAUSED: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f} (due to timeout)
+12-12 22:28:46.899   970  1021 V ActivityManager: Moving to STOPPING: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f} (finish requested)
+12-12 22:28:46.899   970  1021 V ActivityManager: Moving to RESUMED: ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1} (in existing)
+12-12 22:28:46.899  1226  1237 D SplitWindowPolicyService: updateActivityStateChanged: resumed=true pkgName=co.....Launcher, screenId=0, isScreenFull=true, isMinimized=false, topRunningActivity=ActivityInfo{41c8e750 co.....Launcher}, taskId=1, activityType=1
+12-12 22:28:46.899   970  1021 D ActivityManager: resumeTopActivityLocked: Resumed ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1}
+12-12 22:28:46.909  1226  1238 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:46.919  1559  1559 I [LGHome]EVENT: [Launcher.java:870:onResume()]onResume
+12-12 22:28:46.949   970  1033 I SystemUI[Framework]: PhoneWindowManager.updateSystemUiVisibilityLw() :visibility=0x40000000, pkg=android
+12-12 22:28:46.969  1559  1559 I [LGHome]LGActivityUtil: [LGActivityUtil.java:303:notifyToWeatherWidget()]broadcast to weather widget, intent: Intent { act=com.lge.launcher2.RESUME }
+12-12 22:28:46.979  1559  1559 I [LGHome]EVENT: [Launcher.java:1023:onResume()]onResume end
+12-12 22:28:46.979  1559  1559 I ActivityManager: Timeline: Activity_idle id: android.os.BinderProxy@41b41fc0 time:11061722
+12-12 22:28:46.989   970  1014 D qcom_sensors_hal: hal_process_report_ind: St: 0 ReportId: 34 Rate: 0, Len: 1
+12-12 22:28:46.989   970  1014 D qcom_sensors_hal: hal_process_report_ind: Id: ACCEL_DATA: Ty: 0 Q: 5
+12-12 22:28:46.989   970  1014 D qcom_sensors_hal: hal_process_report_ind: X: 0.525360 Y: 0.119904 Z: 9.614456 
+12-12 22:28:46.989   970  1019 D qcom_sensors_hal: _hal_sensors_data_poll: poll data:1;data[0].sensor:34 .type:33171011 .x:0.525360 .y:0.119904 .z:9.614456
+12-12 22:28:46.989   970  1019 D qcom_sensors_hal: _hal_sensors_data_poll: cnt: 256
+12-12 22:28:46.989   970  1019 D qcom_sensors_hal: hal_wait_for_response: timeout=0
+12-12 22:28:46.989  1377  1377 D WeatherAncestor: 2 : onReceive, action: com.lge.launcher2.RESUME, Time(hour:min:sec) 22:28:46
+12-12 22:28:46.999   970  1020 I ActivityManager: Timeline: Activity_windows_visible id: ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1} time:11061746
+12-12 22:28:46.999  1377  1377 D UpdateThreadPoolManager: 2 : This is isUpdating : false
+12-12 22:28:46.999   970  1021 V ActivityManager: Moving to FINISHING: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f}
+12-12 22:28:46.999   970  1021 V ActivityManager: Moving to DESTROYING: ActivityRecord{41cd5850 u0 com.example.snoopy/.MainActivity t4 f} (destroy requested)
+12-12 22:28:47.009  1519  1536 I com.skyfire.browser.toolbar.ProcessObserverService: On foreground activity changed : 14506,15808,false
+12-12 22:28:47.029  1377  1377 D WeatherService: 2 : shouldTimeTickRegistered - 4x2 : 1, FphWidget : 0
+12-12 22:28:47.029  1377  1377 D WeatherService: 2 : shouldTimeTickRegistered : true - home screen widget is shown.
+12-12 22:28:47.029  1377  1377 D WeatherAncestor: 2 : shouldTimeTickRegistered().........
+12-12 22:28:47.039  1377  1377 W ContextImpl: Implicit intents with startService are not safe: Intent { act=com.lge.weather.WIDGET_REFRESH } android.content.ContextWrapper.startService:494 android.content.ContextWrapper.startService:494 com.lge.sizechangable.weather.layout.WeatherWidget.onReceive:463 
+12-12 22:28:47.039  1377  1377 D WeatherAncestor: 2 : onReceive has processed, action: com.lge.launcher2.RESUME, Time(hour:min:sec) 22:28:47
+12-12 22:28:47.039  1377  1377 D WeatherService: 2 : onStartCommand, intent!=null, action: com.lge.launcher2.RESUME
+12-12 22:28:47.049  1226  1343 D dalvikvm: GC_EXPLICIT freed 31K, 65% free 4126K/11632K, paused 11ms+11ms, total 114ms
+12-12 22:28:47.059   970  1014 D qcom_sensors_hal: hal_process_report_ind: St: 0 ReportId: 34 Rate: 0, Len: 1
+12-12 22:28:47.069  1226  1343 V SplitWindowPolicyService: updateScreenStateAndRunningActivity: screenId=0, isFull=true, isMinimized=false, topRunningActivity=ActivityInfo{41c8e750 co.....Launcher}, uid=10026
+12-12 22:28:47.089 14609 14609 I UEI.SmartControl: --- Selecting new region: 2
+12-12 22:28:47.089 14609 14609 I UEI.SmartControl: -- Running on KitKat(19) and above! JNI will be used.
+12-12 22:28:47.089  1377  1377 D Weather.Utils: 2 : Utils getTopActivity com.lge.launcher2 / true
+12-12 22:28:47.089 14609 14609 I UEI.SmartControl: Model: LG-V410 uses JNI
+12-12 22:28:47.089  1377  1377 D WeatherService: 2 : shouldTimeTickRegistered - 4x2 : 1, FphWidget : 0
+12-12 22:28:47.089  1377  1377 D WeatherService: 2 : shouldTimeTickRegistered : true - home screen widget is shown.
+12-12 22:28:47.089 14609 14609 D UEI.SmartControl: QS Service created
+12-12 22:28:47.099  1377  1377 D WeatherService: 2 : onStartCommand, intent!=null, action: com.lge.weather.WIDGET_REFRESH
+12-12 22:28:47.099  1377  1377 D WeatherService: 2 : requestRefreshAppWidget, isUpdateStart : false
+12-12 22:28:47.109  1377  1377 D UpdateThreadPoolManager: 2 : This is isUpdating : false
+12-12 22:28:47.119  1377  1377 D WeatherService: 2 : requestRefreshAppWidget, isUpdating : false
+12-12 22:28:47.119  1377  1377 D WeatherAncestor: 2 : buildUpdate, appWidgetId: 5
+12-12 22:28:47.129  1377  1377 D WeatherReflect: 2 : Map key string is -2
+12-12 22:28:47.129  1377  1377 D lim     : 2 : time = 10:28 PM
+12-12 22:28:47.129  1377  1377 I WeatherReflect: Model Name : LG-V410
+12-12 22:28:47.129  1377  1377 D WeatherTheme: 2 : exactly same view!
+12-12 22:28:47.129  1377  1377 D WeatherTheme: 2 : widgetId = 5 : widgetSize = 1 : Do not refresh any widget.
+12-12 22:28:47.129  1377  1377 D Weather.Utils: 2 : Utils getTopActivity com.lge.launcher2 / true
+12-12 22:28:47.139 14609 14609 E UEI.SmartControl: QS start get config
+12-12 22:28:47.149  1377  1377 D WeatherService: 2 : shouldTimeTickRegistered - 4x2 : 1, FphWidget : 0
+12-12 22:28:47.159  1377  1377 D WeatherService: 2 : shouldTimeTickRegistered : true - home screen widget is shown.
+12-12 22:28:47.229 14609 14609 D UEI.SmartControl: Loading JNI Libs...
+12-12 22:28:47.229 14609 14609 D dalvikvm: Trying to load lib /data/data/com.uei.lg.quicksetsdk.lite/files/libcurl.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D dalvikvm: Added shared lib /data/data/com.uei.lg.quicksetsdk.lite/files/libcurl.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D dalvikvm: No JNI_OnLoad found in /data/data/com.uei.lg.quicksetsdk.lite/files/libcurl.so 0x41b3d6b0, skipping init
+12-12 22:28:47.229 14609 14609 D dalvikvm: Trying to load lib /data/data/com.uei.lg.quicksetsdk.lite/files/libjson.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D dalvikvm: Added shared lib /data/data/com.uei.lg.quicksetsdk.lite/files/libjson.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D dalvikvm: No JNI_OnLoad found in /data/data/com.uei.lg.quicksetsdk.lite/files/libjson.so 0x41b3d6b0, skipping init
+12-12 22:28:47.229 14609 14609 D dalvikvm: Trying to load lib /data/data/com.uei.lg.quicksetsdk.lite/files/libqs.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D dalvikvm: Added shared lib /data/data/com.uei.lg.quicksetsdk.lite/files/libqs.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D dalvikvm: No JNI_OnLoad found in /data/data/com.uei.lg.quicksetsdk.lite/files/libqs.so 0x41b3d6b0, skipping init
+12-12 22:28:47.229 14609 14609 D dalvikvm: Trying to load lib /data/data/com.uei.lg.quicksetsdk.lite/files/libndk_jni.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D dalvikvm: Added shared lib /data/data/com.uei.lg.quicksetsdk.lite/files/libndk_jni.so 0x41b3d6b0
+12-12 22:28:47.229 14609 14609 D quickset:  QS libjni JNI_OnLoad 
+12-12 22:28:47.229 14609 14609 D UEI.SmartControl:  configuring local db...
+12-12 22:28:47.239 14506 14513 I dalvikvm: Total arena pages for JIT: 11
+12-12 22:28:47.239 14506 14513 I dalvikvm: Total arena pages for JIT: 12
+12-12 22:28:47.239 14506 14513 I dalvikvm: Total arena pages for JIT: 13
+12-12 22:28:47.239 14506 14513 I dalvikvm: Total arena pages for JIT: 14
+12-12 22:28:47.289 14506 14544 I FA      : Tag Manager is not found and thus will not be used
+12-12 22:28:47.469 14609 14609 D UEI.SmartControl:  ---- Has DB8: true
+12-12 22:28:47.509 14609 14609 D UEI.SmartControl: QS start statue = true Error code = 0
+12-12 22:28:47.509 14609 14609 D UEI.SmartControl: QS version = v2.5.2.1_RC10
+12-12 22:28:47.509 14609 14609 D UEI.SmartControl: QS DB version = LG_Mobile_SW_Blaster_EU_database_v3.4_nevosmart
+12-12 22:28:47.519 14609 14609 D UEI.SmartControl: IRRCDataComm has AudioManager!!!!.
+12-12 22:28:47.529 14609 14609 D dalvikvm: No JNI_OnLoad found in /system/lib/libirrc.so 0x41b3d6b0, skipping init
+12-12 22:28:47.529 14609 14609 D dalvikvm: No JNI_OnLoad found in /system/lib/libirrcJni.so 0x41b3d6b0, skipping init
+12-12 22:28:47.529 14609 14609 W irrc_jni: IRRCPlayer_nativeInit ++ 
+12-12 22:28:47.529 14609 14609 D irrcClient: IrrcClient ++ 
+12-12 22:28:47.529 14609 14609 D irrcClient: getIrrcService ++ 
+12-12 22:28:47.529 14609 14609 E irrcClient: sDeathNotifier = new DeathNotifier();
+12-12 22:28:47.529 14609 14609 E irrcClient: linkToDeath...
+12-12 22:28:47.529 14609 14609 D irrcClient: getIrrcService -- 
+12-12 22:28:47.529 14609 14609 D irrcClient: IrrcClient -- 
+12-12 22:28:47.529 14609 14609 W irrc_jni: IRRCPlayer_nativeInit -- 
+12-12 22:28:47.529 14609 14632 I UEI.SmartControl: Device manager: loading config....
+12-12 22:28:47.529 14609 14609 D UEI.SmartControl: Services init done
+12-12 22:28:47.539 14609 14609 D UEI.SmartControl: QS Service init finished
+12-12 22:28:47.539 14609 14609 D UEI.SmartControl: QS Service version name: 0.1.67
+12-12 22:28:47.539 14609 14609 D UEI.SmartControl: QS Service version code: 1
+12-12 22:28:47.539 14609 14632 D UEI.SmartControl: Config is loaded...
+12-12 22:28:47.539 14609 14609 D UEI.SmartControl: Service requested: Control
+12-12 22:28:47.549 13662 13662 I QRemote : [RemoteControlManager.java:191:onServiceConnected()] oooooo start
+12-12 22:28:47.549 14609 14620 D UEI.SmartControl: -----IControl: 11
+12-12 22:28:47.549 14609 14609 D UEI.SmartControl: Internal service binding...
+12-12 22:28:47.549 14609 14620 D UEI.SmartControl: ------------ IControl registerCallback...
+12-12 22:28:47.549 14609 14620 I UEI.SmartControl: Registering callback...
+12-12 22:28:47.549   970   983 I ActivityManager: Killing 13662:com.lge.qremote/u0a33 (adj 15): empty #14
+12-12 22:28:47.559  1226  3934 V SplitWindowPolicyService: requestUpdateStackInfo
+12-12 22:28:47.559  1519  1534 I com.skyfire.browser.toolbar.ProcessObserverService: On process died 13662,10033
+12-12 22:28:47.559   970  1201 D ActivityManager: resumeTopActivityLocked: Top activity resumed ActivityRecord{4241fe00 u0 com.lge.launcher2/.Launcher t1}
+12-12 22:28:47.569 14609 14631 D UEI.SmartControl:  ----- QS SDK is ready!!!
+12-12 22:28:47.569 14609 14631 I UEI.SmartControl: Notify AllClients services are ready: 0
+12-12 22:28:47.729   323   417 I ThermalEngine: Sensor:pa_therm1:30000 mC
+12-12 22:28:47.759   970  1014 D qcom_sensors_hal: hal_ma_sensor1_data_cb: Update motion state 1 -> 1
+12-12 22:28:47.759   970 14606 D qcom_sensors_hal: hal_ma_thread: wait on RMD ind
+12-12 22:28:47.799   303   381 I Vold    : [LGE][VOLD][NetlinkHandler.cpp][onEvent()] subsys:cpu, action:0
+12-12 22:28:48.109   303   381 I Vold    : [LGE][VOLD][NetlinkHandler.cpp][onEvent()] subsys:cpu, action:0
+12-12 22:28:48.259   970  1014 D qcom_sensors_hal: hal_sam_send_cancel: Sending cancel to 0

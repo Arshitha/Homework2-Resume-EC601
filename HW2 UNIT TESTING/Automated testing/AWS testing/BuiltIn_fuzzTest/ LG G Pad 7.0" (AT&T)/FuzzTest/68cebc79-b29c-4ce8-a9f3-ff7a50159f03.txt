@@ -1,0 +1,336 @@
+:Monkey: seed=1514235017620 count=6000
+:AllowPackage: com.example.snoopy
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   + Using main activity com.example.snoopy.MainActivity (from package com.example.snoopy)
+//   + Using main activity com.example.snoopy.CameraInputFrames (from package com.example.snoopy)
+// Selecting main activities from category android.intent.category.MONKEY
+// Seeded: 1514235017620
+// Event percentages:
+//   0: 45.0%
+//   1: 45.0%
+//   2: 0.0%
+//   3: 0.0%
+//   4: -0.0%
+//   5: 0.0%
+//   6: 0.0%
+//   7: 0.0%
+//   8: 10.0%
+//   9: 0.0%
+//   10: 0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.MainActivity } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.MainActivity } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(557.0,994.0)
+:Sending Touch (ACTION_UP): 0:(554.7961,991.6071)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(97.0,630.0)
+:Sending Touch (ACTION_UP): 0:(96.65793,643.6402)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(225.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(224.04668,1173.1678)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(166.0,590.0)
+:Sending Touch (ACTION_UP): 0:(167.99019,589.6168)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.CameraInputFrames;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.CameraInputFrames } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(333.0,955.0)
+:Sending Touch (ACTION_MOVE): 0:(327.9557,964.8331)
+:Sending Touch (ACTION_MOVE): 0:(326.83167,976.5623)
+:Sending Touch (ACTION_MOVE): 0:(322.8537,977.0155)
+:Sending Touch (ACTION_MOVE): 0:(319.56116,988.9173)
+:Sending Touch (ACTION_MOVE): 0:(316.86533,994.0402)
+:Sending Touch (ACTION_MOVE): 0:(314.89493,999.4724)
+:Sending Touch (ACTION_MOVE): 0:(308.92297,1007.5419)
+:Sending Touch (ACTION_MOVE): 0:(303.47873,1015.1043)
+:Sending Touch (ACTION_MOVE): 0:(298.38235,1019.99854)
+:Sending Touch (ACTION_UP): 0:(296.6203,1032.724)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.CameraInputFrames;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.CameraInputFrames } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(323.0,866.0)
+:Sending Touch (ACTION_UP): 0:(315.77524,863.5923)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(62.0,899.0)
+:Sending Touch (ACTION_MOVE): 0:(62.321762,897.3522)
+:Sending Touch (ACTION_MOVE): 0:(62.499763,894.8775)
+:Sending Touch (ACTION_MOVE): 0:(62.539505,883.1309)
+:Sending Touch (ACTION_MOVE): 0:(62.56437,878.27124)
+:Sending Touch (ACTION_MOVE): 0:(62.81375,871.7101)
+:Sending Touch (ACTION_MOVE): 0:(62.923786,861.09644)
+:Sending Touch (ACTION_MOVE): 0:(63.273205,858.00684)
+:Sending Touch (ACTION_MOVE): 0:(63.474384,851.8561)
+:Sending Touch (ACTION_UP): 0:(63.633057,845.4061)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.CameraInputFrames;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.CameraInputFrames } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(784.0,911.0)
+:Sending Touch (ACTION_MOVE): 0:(784.5034,907.56836)
+:Sending Touch (ACTION_MOVE): 0:(799.00183,899.82166)
+:Sending Touch (ACTION_MOVE): 0:(800.0,893.97345)
+:Sending Touch (ACTION_MOVE): 0:(800.0,889.3504)
+:Sending Touch (ACTION_MOVE): 0:(800.0,877.804)
+:Sending Touch (ACTION_UP): 0:(800.0,875.6703)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.CameraInputFrames;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.CameraInputFrames } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(319.0,781.0)
+:Sending Touch (ACTION_MOVE): 0:(308.4401,794.34186)
+:Sending Touch (ACTION_MOVE): 0:(298.44754,811.2383)
+:Sending Touch (ACTION_UP): 0:(285.78406,824.87225)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.CameraInputFrames;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.CameraInputFrames } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.MainActivity } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(781.0,792.0)
+:Sending Touch (ACTION_UP): 0:(783.70685,794.8435)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(708.0,864.0)
+:Sending Touch (ACTION_MOVE): 0:(711.6055,865.7744)
+:Sending Touch (ACTION_MOVE): 0:(713.7434,867.2467)
+:Sending Touch (ACTION_MOVE): 0:(718.23535,871.4103)
+:Sending Touch (ACTION_UP): 0:(719.69763,874.7631)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(285.0,231.0)
+:Sending Touch (ACTION_UP): 0:(280.1026,228.64769)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(755.0,66.0)
+:Sending Touch (ACTION_MOVE): 0:(766.2217,69.99002)
+:Sending Touch (ACTION_MOVE): 0:(774.84937,71.71911)
+:Sending Touch (ACTION_MOVE): 0:(782.46893,83.09428)
+:Sending Touch (ACTION_MOVE): 0:(782.62054,86.77309)
+:Sending Touch (ACTION_MOVE): 0:(790.75055,97.07282)
+:Sending Touch (ACTION_MOVE): 0:(800.0,105.2239)
+:Sending Touch (ACTION_MOVE): 0:(800.0,106.372574)
+:Sending Touch (ACTION_UP): 0:(800.0,114.234406)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(574.0,372.0)
+:Sending Touch (ACTION_UP): 0:(575.97046,379.09973)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(777.0,1173.0)
+:Sending Touch (ACTION_UP): 0:(772.55286,1176.5615)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(12.0,325.0)
+:Sending Touch (ACTION_MOVE): 0:(12.251175,315.41962)
+:Sending Touch (ACTION_MOVE): 0:(12.660988,312.10614)
+:Sending Touch (ACTION_MOVE): 0:(13.046168,299.09732)
+:Sending Touch (ACTION_MOVE): 0:(13.63048,286.29956)
+:Sending Touch (ACTION_MOVE): 0:(14.793725,280.90662)
+:Sending Touch (ACTION_MOVE): 0:(15.458801,274.59998)
+:Sending Touch (ACTION_MOVE): 0:(15.579682,265.5846)
+:Sending Touch (ACTION_UP): 0:(16.796253,261.88345)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.MainActivity } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(373.0,1045.0)
+:Sending Touch (ACTION_MOVE): 0:(380.81638,1052.5751)
+:Sending Touch (ACTION_MOVE): 0:(390.7524,1056.9459)
+:Sending Touch (ACTION_MOVE): 0:(399.4424,1059.6678)
+:Sending Touch (ACTION_UP): 0:(403.0217,1062.1523)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(487.0,494.0)
+:Sending Touch (ACTION_UP): 0:(486.90512,499.26413)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(468.0,110.0)
+:Sending Touch (ACTION_UP): 0:(470.33896,107.87541)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(100.0,207.0)
+:Sending Touch (ACTION_UP): 0:(96.94557,214.66963)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(212.0,1045.0)
+:Sending Touch (ACTION_UP): 0:(200.27524,1035.3922)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(342.0,1144.0)
+:Sending Touch (ACTION_MOVE): 0:(345.1487,1144.9314)
+:Sending Touch (ACTION_MOVE): 0:(349.3192,1150.1237)
+:Sending Touch (ACTION_UP): 0:(352.10043,1154.4069)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(601.0,338.0)
+    //[calendar_time:2017-12-12 22:28:44.511  system_uptime:11059321]
+    // Sending event #100
+:Sending Touch (ACTION_MOVE): 0:(609.3504,324.4146)
+:Sending Touch (ACTION_MOVE): 0:(615.9379,315.88696)
+:Sending Touch (ACTION_MOVE): 0:(625.746,311.2945)
+:Sending Touch (ACTION_MOVE): 0:(626.8069,292.7323)
+:Sending Touch (ACTION_MOVE): 0:(637.65955,280.11215)
+:Sending Touch (ACTION_MOVE): 0:(640.3943,264.49637)
+:Sending Touch (ACTION_UP): 0:(643.3546,242.00662)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(80.0,750.0)
+:Sending Touch (ACTION_UP): 0:(91.73776,748.3738)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(281.0,700.0)
+:Sending Touch (ACTION_UP): 0:(284.88605,696.1031)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(89.0,102.0)
+:Sending Touch (ACTION_MOVE): 0:(91.29813,107.432205)
+:Sending Touch (ACTION_MOVE): 0:(92.86093,109.01712)
+:Sending Touch (ACTION_MOVE): 0:(106.897606,112.229095)
+:Sending Touch (ACTION_MOVE): 0:(129.16231,118.9572)
+:Sending Touch (ACTION_MOVE): 0:(141.31873,123.95589)
+:Sending Touch (ACTION_MOVE): 0:(147.75995,129.6015)
+:Sending Touch (ACTION_UP): 0:(149.43855,135.54962)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(326.0,718.0)
+:Sending Touch (ACTION_MOVE): 0:(324.37,708.4444)
+:Sending Touch (ACTION_MOVE): 0:(321.1483,700.32684)
+:Sending Touch (ACTION_MOVE): 0:(320.17023,696.8688)
+:Sending Touch (ACTION_MOVE): 0:(317.3433,692.3355)
+:Sending Touch (ACTION_MOVE): 0:(316.1306,680.23004)
+:Sending Touch (ACTION_MOVE): 0:(315.12973,656.5396)
+:Sending Touch (ACTION_MOVE): 0:(310.0724,638.61096)
+:Sending Touch (ACTION_UP): 0:(309.8247,625.2487)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.MainActivity } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.MainActivity } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(347.0,614.0)
+:Sending Touch (ACTION_UP): 0:(347.87317,613.01794)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(600.0,971.0)
+:Sending Touch (ACTION_UP): 0:(607.99304,958.08527)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(536.0,900.0)
+:Sending Touch (ACTION_UP): 0:(543.9512,899.8759)
+Sleeping for 50 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.snoopy/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.snoopy/.MainActivity } in package com.example.snoopy
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(178.0,1002.0)
+:Sending Touch (ACTION_MOVE): 0:(177.15291,982.83813)
+:Sending Touch (ACTION_MOVE): 0:(174.72397,980.18823)
+:Sending Touch (ACTION_MOVE): 0:(173.65508,975.46185)
+:Sending Touch (ACTION_MOVE): 0:(170.00766,963.47034)
+:Sending Touch (ACTION_MOVE): 0:(167.42859,953.7165)
+:Sending Touch (ACTION_MOVE): 0:(166.19464,939.0409)
+:Sending Touch (ACTION_MOVE): 0:(164.08437,918.4434)
+:Sending Touch (ACTION_MOVE): 0:(160.24939,898.9338)
+:Sending Touch (ACTION_MOVE): 0:(159.09229,889.8415)
+:Sending Touch (ACTION_UP): 0:(158.4513,878.01605)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(596.0,565.0)
+:Sending Touch (ACTION_MOVE): 0:(595.4454,581.2626)
+:Sending Touch (ACTION_UP): 0:(594.7551,586.93494)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(774.0,797.0)
+:Sending Touch (ACTION_UP): 0:(776.0197,800.26355)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(754.0,321.0)
+:Sending Touch (ACTION_UP): 0:(755.8239,320.9739)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(248.0,1148.0)
+:Sending Touch (ACTION_UP): 0:(268.20914,1161.7289)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(111.0,437.0)
+:Sending Touch (ACTION_MOVE): 0:(107.09977,453.17307)
+:Sending Touch (ACTION_MOVE): 0:(104.44842,461.49527)
+:Sending Touch (ACTION_MOVE): 0:(98.90435,473.72855)
+:Sending Touch (ACTION_MOVE): 0:(93.116684,488.16306)
+:Sending Touch (ACTION_MOVE): 0:(91.49847,496.49588)
+:Sending Touch (ACTION_MOVE): 0:(89.93528,506.00107)
+:Sending Touch (ACTION_MOVE): 0:(89.51668,509.08456)
+:Sending Touch (ACTION_MOVE): 0:(88.61238,516.0358)
+:Sending Touch (ACTION_UP): 0:(84.58628,523.7936)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(109.0,26.0)
+:Sending Touch (ACTION_MOVE): 0:(112.56143,14.733844)
+:Sending Touch (ACTION_MOVE): 0:(116.2092,14.002101)
+:Sending Touch (ACTION_MOVE): 0:(118.72183,0.0)
+:Sending Touch (ACTION_MOVE): 0:(122.60479,0.0)
+:Sending Touch (ACTION_UP): 0:(126.172424,0.0)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(451.0,701.0)
+:Sending Touch (ACTION_MOVE): 0:(464.73376,691.9928)
+:Sending Touch (ACTION_MOVE): 0:(483.2749,691.6019)
+:Sending Touch (ACTION_MOVE): 0:(498.08878,685.3683)
+:Sending Touch (ACTION_MOVE): 0:(518.46594,676.39435)
+:Sending Touch (ACTION_MOVE): 0:(531.9196,665.6555)
+:Sending Touch (ACTION_MOVE): 0:(539.8609,660.17664)
+:Sending Touch (ACTION_MOVE): 0:(558.9491,648.9915)
+:Sending Touch (ACTION_MOVE): 0:(582.32697,639.427)
+:Sending Touch (ACTION_UP): 0:(602.1276,639.01056)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(694.0,861.0)
+:Sending Touch (ACTION_UP): 0:(678.93524,848.64655)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(743.0,1166.0)
+:Sending Touch (ACTION_MOVE): 0:(741.2862,1159.6741)
+:Sending Touch (ACTION_MOVE): 0:(737.44916,1159.4946)
+:Sending Touch (ACTION_MOVE): 0:(728.9094,1158.8309)
+:Sending Touch (ACTION_MOVE): 0:(722.97076,1157.3618)
+:Sending Touch (ACTION_MOVE): 0:(717.68896,1152.7599)
+:Sending Touch (ACTION_MOVE): 0:(707.6413,1150.5088)
+:Sending Touch (ACTION_MOVE): 0:(698.6527,1147.3993)
+:Sending Touch (ACTION_MOVE): 0:(690.74677,1143.0668)
+:Sending Touch (ACTION_MOVE): 0:(690.071,1139.0228)
+:Sending Touch (ACTION_UP): 0:(680.2435,1135.1246)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(429.0,370.0)
+:Sending Touch (ACTION_MOVE): 0:(441.2303,376.15292)
+:Sending Touch (ACTION_MOVE): 0:(445.90894,376.88196)
+:Sending Touch (ACTION_MOVE): 0:(452.63773,382.9411)
+    //[calendar_time:2017-12-12 22:28:45.992  system_uptime:11060719]
+    // Sending event #200
+:Sending Touch (ACTION_MOVE): 0:(454.78757,390.11917)
+:Sending Touch (ACTION_MOVE): 0:(461.1871,401.3244)
+:Sending Touch (ACTION_MOVE): 0:(471.79642,402.46008)
+:Sending Touch (ACTION_MOVE): 0:(472.62244,411.96454)
+:Sending Touch (ACTION_UP): 0:(479.9614,414.96664)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(696.0,391.0)
+:Sending Touch (ACTION_MOVE): 0:(691.4015,393.82245)
+:Sending Touch (ACTION_MOVE): 0:(689.5447,400.48053)
+:Sending Touch (ACTION_MOVE): 0:(688.04333,404.29727)
+:Sending Touch (ACTION_MOVE): 0:(686.515,409.5718)
+:Sending Touch (ACTION_MOVE): 0:(682.9704,413.27917)
+:Sending Touch (ACTION_MOVE): 0:(681.069,415.28058)
+:Sending Touch (ACTION_UP): 0:(678.47424,425.4573)
+Sleeping for 50 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(392.0,982.0)
+:Sending Touch (ACTION_UP): 0:(403.6417,996.9202)
+Sleeping for 50 milliseconds
+// CRASH: com.example.snoopy (pid 14506)
+// Short Msg: java.lang.IllegalArgumentException
+// Long Msg: java.lang.IllegalArgumentException: Given String is empty or null
+// Build Label: lge/e7lte_att_us/e7lte:4.4.2/KOT49I.V41010d/V41010d.1406542706:user/release-keys
+// Build Changelist: V41010d.1406542706
+// Build Time: 1406542808000
+// java.lang.IllegalArgumentException: Given String is empty or null
+// 	at com.google.android.gms.common.internal.zzbp.zzgg(Unknown Source)
+// 	at com.google.firebase.auth.FirebaseAuth.createUserWithEmailAndPassword(Unknown Source)
+// 	at com.example.snoopy.MainActivity.registerUser(MainActivity.java:84)
+// 	at com.example.snoopy.MainActivity.onClick(MainActivity.java:107)
+// 	at android.view.View.performClick(View.java:4461)
+// 	at android.view.View$PerformClick.run(View.java:18525)
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5118)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:790)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:606)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+** Monkey aborted due to error.
+Events injected: 215
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=31 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=4468ms (0ms mobile, 0ms wifi, 4468ms not connected)
+** System appears to have crashed at event 215 of 6000 using seed 1514235017620

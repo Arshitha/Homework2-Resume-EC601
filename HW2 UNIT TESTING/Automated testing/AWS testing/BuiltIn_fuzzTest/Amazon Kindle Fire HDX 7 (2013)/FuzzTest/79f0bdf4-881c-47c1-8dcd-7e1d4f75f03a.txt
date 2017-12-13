@@ -1,0 +1,26 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on wlan0, link-type EN10MB (Ethernet), capture size 262144 bytes
+03:28:37.863421 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [S], seq 661607512, win 14600, options [mss 1460,sackOK,TS val 25674 ecr 0,nop,wscale 8], length 0
+03:28:37.893085 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [S.], seq 2545120651, ack 661607513, win 42408, options [mss 1360,sackOK,TS val 2158079190 ecr 25674,nop,wscale 8], length 0
+03:28:37.898690 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 1, win 58, options [nop,nop,TS val 25678 ecr 2158079190], length 0
+03:28:37.898710 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 1:217, ack 1, win 58, options [nop,nop,TS val 25678 ecr 2158079190], length 216
+03:28:37.928190 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [.], ack 217, win 170, options [nop,nop,TS val 2158079225 ecr 25678], length 0
+03:28:37.938866 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [.], seq 1:1349, ack 217, win 170, options [nop,nop,TS val 2158079235 ecr 25678], length 1348
+03:28:37.938987 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [.], seq 1349:2697, ack 217, win 170, options [nop,nop,TS val 2158079235 ecr 25678], length 1348
+03:28:37.939022 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [P.], seq 2697:2900, ack 217, win 170, options [nop,nop,TS val 2158079235 ecr 25678], length 203
+03:28:37.945040 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 1349, win 68, options [nop,nop,TS val 25682 ecr 2158079235], length 0
+03:28:37.945060 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 2697, win 79, options [nop,nop,TS val 25682 ecr 2158079235], length 0
+03:28:37.945070 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 2900, win 89, options [nop,nop,TS val 25682 ecr 2158079235], length 0
+03:28:38.026169 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 217:351, ack 2900, win 89, options [nop,nop,TS val 25690 ecr 2158079235], length 134
+03:28:38.056828 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [P.], seq 2900:3187, ack 351, win 175, options [nop,nop,TS val 2158079353 ecr 25690], length 287
+03:28:38.062410 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 3187, win 100, options [nop,nop,TS val 25694 ecr 2158079353], length 0
+03:28:38.066769 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 351:692, ack 3187, win 100, options [nop,nop,TS val 25695 ecr 2158079353], length 341
+03:28:38.106018 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [P.], seq 3187:3864, ack 692, win 179, options [nop,nop,TS val 2158079402 ecr 25695], length 677
+03:28:38.147707 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 3864, win 110, options [nop,nop,TS val 25703 ecr 2158079402], length 0
+03:28:38.168921 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [P.], seq 692:1417, ack 3864, win 110, options [nop,nop,TS val 25705 ecr 2158079402], length 725
+03:28:38.206815 IP sea15s07-in-f14.1e100.net.https > 192.168.1.10.52755: Flags [P.], seq 3864:4285, ack 1417, win 184, options [nop,nop,TS val 2158079503 ecr 25705], length 421
+03:28:38.212411 IP 192.168.1.10.52755 > sea15s07-in-f14.1e100.net.https: Flags [.], ack 4285, win 121, options [nop,nop,TS val 25709 ecr 2158079503], length 0
+03:29:45.028262 IP s3-1-w.amazonaws.com.www > 192.168.1.10.42204: Flags [F.], seq 3950579941, ack 2822167208, win 219, options [nop,nop,TS val 3181310637 ecr 20401], length 0
+03:29:45.216992 IP 192.168.1.10.42204 > s3-1-w.amazonaws.com.www: Flags [.], ack 1, win 66, options [nop,nop,TS val 32410 ecr 3181310637], length 0
+03:29:48.394779 IP 192.168.1.10.52185 > a104-80-88-99.deploy.static.akamaitechnologies.com.www: Flags [S], seq 618522393, win 14600, options [mss 1460,sackOK,TS val 32727 ecr 0,nop,wscale 8], length 0
+03:29:48.402381 IP a104-80-88-99.deploy.static.akamaitechnologies.com.www > 192.168.1.10.52185: Flags [S.], seq 2727348425, ack 618522394, win 26960, options [mss 1360,sackOK,TS 
